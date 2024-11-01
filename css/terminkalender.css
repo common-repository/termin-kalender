@@ -1,0 +1,324 @@
+/* Termin-Kalender Frontend CSS */
+:root {
+	--font-size-xsmall: 0.7em;
+    --font-size-small: 0.9em;
+    --font-size-medium: 1.2em;
+    --font-size-large: 1.4em;
+    --font-size-xlarge: 2em;
+    --font-size-xxlarge: 3em;
+	--ter_kal_border: 1px solid var(--bs-secondary);
+}
+
+
+.ter_kal_font, .fc-toolbar-title, .modal-title  {
+  font-family: var(--bs-font-sans-serif);
+}
+.tk_form_text, input, textarea, select {
+  font-family: var(--bs-font-sans-serif);
+  font-weight:550;
+}
+.tk_form_zusatz_felder {
+  font-family: var(--bs-font-sans-serif);
+  font-size: var(--font-size-small);
+  font-weight:450;
+}
+
+.fc-event {
+    cursor: pointer;
+    --fc-list-event-dot-width: 2em;
+	border: 1px solid #ddd;
+}
+
+.kalender_dashicons {
+    font-size: var(--font-size-xxlarge);
+    width: 1em;
+    height: 0.1em;
+    line-height: 0.5;
+}
+
+.tk_list_titel_dashicons{
+    font-size: var(--font-size-large);
+    width: 1em;
+    line-height: 1;
+}
+
+.tk_modal_zeit_title {
+	font-family: var(--bs-font-sans-serif);
+    font-size: var(--font-size-large);
+    /*font-weight: bold;*/
+}
+.tk_modal_zeit_recur {
+	font-family: var(--bs-font-sans-serif);
+	font-size: var(--font-size-xsmall);
+    color: var(--bs-secondary);
+}
+
+.tk_zeit_block_title {
+    font-size: var(--font-size-medium);
+    font-weight: bold;
+}
+
+.tk_zeit_block, .tk_zeit_block_next {
+    font-weight: bold;
+    color: var(--bs-secondary);
+}
+
+.tk_zeit_block {
+    font-size: var(--font-size-large);
+}
+
+.tk_zeit_block_next {
+    font-size: 1em;
+}
+
+.tk_zeit_block_old {
+    font-size: var(--font-size-small);
+}
+.tk_zeit_block_veryold {
+    font-size: var(--font-size-xsmall);
+}
+
+.tk_zeit_block_info {
+    font-size: var(--font-size-xsmall);
+    color: var(--bs-secondary);
+    text-align: center;
+    max-width: 800px;
+    margin-top: -1em;
+}
+
+
+.tk_kategorie-title {
+    height: var(--font-size-xlarge);
+    padding: 0.3em;
+    position: relative;
+    border-radius: 0.4em 0.4em 0 0;
+    max-width: 800px;
+	font-size: var(--font-size-large);
+}
+
+
+.tk_kategorie_border, .tk_responsive-row:last-of-type {
+    border: var(--ter_kal_border);
+    box-shadow: var(--bs-box-shadow);
+}
+
+.tk_responsive-row {
+    border: var(--ter_kal_border);
+    border-bottom-width: 0px;
+    padding: 0.6em;
+    position: relative;
+    max-width: 800px;
+}
+
+.tk_responsive-row:last-of-type {
+    border-radius: 0 0 0.6em 0.6em;
+}
+
+.wp-block-column:not(:last-child) {
+    margin-right: 1em;
+}
+
+.infotext {
+    color: var(--bs-gray-500);
+    font-size: var(--font-size-small);
+    font-style: italic;
+}
+
+.benutzer_rechte {
+    color: var(--bs-primary-border-subtle);
+    font-style: italic;
+    margin: 0 auto;
+    display: block;
+    font-size: var(--font-size-small);
+}
+
+.col-form-label {
+    color: var(--bs-secondary);
+    font-size: var(--font-size-small);
+}
+
+.ter_kal_info {
+    display: block;
+    text-align: center;
+    font-size: var(--font-size-small);
+}
+
+#event_attendees {
+    height: auto;
+    max-height: 150em;
+    overflow-y: auto;
+}
+
+#einzel_id {
+    display: none;
+}
+
+.ter_kal_notes {
+    background-color: #FFFFCC !important;
+    border: var(--ter_kal_border);
+    border-radius: 0.4em;
+    box-shadow: var(--bs-box-shadow);
+    padding: 0.3em;
+}
+
+#kalender_modal {
+      	background: rgba(0, 0, 0, 0.7);
+	/*z-index: 99999  ;  */
+      }
+.modal-header{
+    /*font-size:2em;*/
+    background: var(--bs-blue);
+    color: var(--bs-white);
+}
+.modal-body {
+    background-color: var(--bs-light);
+}
+.modal-footer{
+}
+
+.help_content_images {
+    max-width: 99%;
+    height: auto;
+}
+
+.ter_kal_form_help {
+    color: var(--bs-gray-500);
+    cursor: pointer;
+    font-size:  var(--font-size-large);
+    vertical-align: middle;
+    display: none;
+}
+
+.t_k_reservation-container {
+    position: relative;
+    border: var(--ter_kal_border);
+    border-radius: 15px;
+    background-color: var(--bs-light);
+  	padding: 15px;
+    box-shadow: var(--bs-box-shadow);
+    max-width: 800px;
+}
+
+.tk_reservation_category {
+    opacity: 0.5;
+}
+
+.tk_form_zeigen {
+    border: none;
+}
+
+select[disabled] {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    text-indent: 0.01px;
+    text-overflow: '';
+}
+
+.label-beta {
+    background-color: var(--bs-orange);
+    color: var(--bs-white);
+    border-radius: 3px;
+    padding: 3px 6px;
+    font-size: 0.75em;
+    margin-left: 10px;
+}
+
+.label-free {
+    background-color: var(--bs-green);
+    color: var(--bs-white);
+    border-radius: 3px;
+    padding: 3px 6px;
+    font-size: 0.75em;
+    margin-left: 10px;
+}
+
+.label-pro {
+    background-color: var(--bs-blue);
+    color: var(--bs-white);
+    border-radius: 3px;
+    padding: 3px 6px;
+    font-size: 0.75em;
+    margin-left: 10px;
+}
+
+.kat_btn {
+    text-align: center;
+	padding: 0.3em;
+    border-radius: 0.3em;
+    margin-right: 0.3em;
+    margin-top: 0.3em;
+}
+
+.kategoriezeile {
+	margin-top: 1.5em;
+    padding: 0.6em 0.6em 0 0.6em;
+}
+.fc-header-toolbar {
+    padding: 0.6em;
+}
+.kategoriezeile, .fc-header-toolbar {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: var(--bs-gray-200);
+}
+
+.tk-full-browser-content {
+    width: 100vw !important;
+    height:100vh !important;
+    position: fixed;
+    top: -1em;
+    left: 0;
+    right: 0;
+    padding: 0em 0.6em 0.6em 0.6em;
+    background: var(--bs-white);
+    z-index: 300000 !important;
+    overflow: auto; /* overflow auto = ist sicherer */
+}
+
+.ter_kal_event_beschreibung {
+    font-size: 0.9em;
+    white-space: normal; /* Allow text to wrap */
+    word-wrap: break-word; /* Break words if necessary to wrap text */
+}
+
+.ter_kal__mouseover_info_div {
+	overflow: hidden;
+	white-space: nowrap;
+	color: #808080;
+}
+
+.formatting-buttons {
+    margin-top: 0.3em;
+}
+
+
+.tk_kalender_button_icons {
+    font-size: 1.7em;
+     padding-right: 1em;
+/*
+	width: 1.3em;
+    height: 1.3em;
+    top: -1.1em;
+    left: 0.5em;
+	border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+*/
+}
+
+/* Style for phones (small screens) */
+@media screen and (max-width: 768px) {
+/* nur icon zeigen bei kleinen screens */
+.tk_kalender_button_text {
+    display: none;
+}
+
+}
+
+.regenschirm {
+    height: 0.001em;
+    overflow: hidden;
+    border: none;
+}

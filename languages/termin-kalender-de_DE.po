@@ -1,0 +1,3411 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Termin-Kalender\n"
+"POT-Creation-Date: 2024-09-13 19:22+0800\n"
+"PO-Revision-Date: 2024-09-13 19:25+0800\n"
+"Last-Translator: Beat Küffer <contact@termin-kalender.pro>\n"
+"Language-Team: contact@termin-kalender.pro\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: termin-kalender.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: assets\n"
+"X-Poedit-SearchPathExcluded-2: css\n"
+"X-Poedit-SearchPathExcluded-3: db_backup\n"
+"X-Poedit-SearchPathExcluded-4: dist\n"
+
+#: admin/admin.php:17
+msgid "easy Termin-Kalender"
+msgstr "easy Termin-Kalender"
+
+#: admin/admin.php:18
+msgid "Calendar Categories"
+msgstr "Kalender-Kategorien"
+
+#: admin/admin.php:22
+msgid "Form Settings"
+msgstr "Formular Einstellungen"
+
+#: admin/admin.php:23 admin/admin_info_pro.php:22
+msgid "Calendar Users"
+msgstr "Kalender-Benutzer"
+
+#: admin/admin.php:24 includes/kalender_help_page.php:36
+msgid "Backup & Restore"
+msgstr "Sichern und Wiederherstellen"
+
+#: admin/admin.php:24 admin/admin_info_pro.php:26
+msgid "Backup"
+msgstr "Backup"
+
+#: admin/admin.php:26 admin/admin_blocks_page.php:6
+msgid "Gutenberg Blocks"
+msgstr "Gutenberg-Blöcke"
+
+#: admin/admin_blocks_page.php:9
+msgid "List of available frontend features through Gutenberg blocks"
+msgstr "Liste der verfügbaren Frontend-Funktionen über Gutenberg-Blöcke"
+
+#: admin/admin_blocks_page.php:10
+msgid ""
+"Choose this Gutenberg Blocks in the frontend Gutenberg editor when you edit "
+"a page."
+msgstr ""
+"Wählen Sie diese Gutenberg-Blöcke im Frontend-Gutenberg-Editor, wenn Sie "
+"eine Seite bearbeiten."
+
+#: admin/admin_blocks_page.php:12
+msgid "Use the Gutenberg Editor built in Wordpress to use this blocks"
+msgstr ""
+"Verwenden Sie den in Wordpress integrierten Gutenberg-Editor, um diese "
+"Blöcke zu verwenden"
+
+#: admin/admin_blocks_page.php:14
+msgid "For DIVI and other Editor user"
+msgstr "Für DIVI und andere Editor-Benutzer"
+
+#: admin/admin_blocks_page.php:14
+msgid ""
+"Use a text block and the shortcode my-termin-kalender in square brackets."
+msgstr ""
+"Verwenden Sie einen Textblock und den Shortcode my-termin-kalender in "
+"eckigen Klammern."
+
+#: admin/admin_blocks_page.php:15 admin_pro/termin_felder__premium_only.php:21
+msgid "In the vast majority of use cases, the standard fields are sufficient."
+msgstr ""
+"In den allermeisten Anwendungsfällen sind die Standardfelder ausreichend."
+
+#: admin/admin_blocks_page.php:17
+msgid "For Elementor user"
+msgstr "Für Elementor-Benutzer"
+
+#: admin/admin_blocks_page.php:18
+msgid ""
+"Use the Elementor Shortcode Widget with the Shortcode my-termin-kalender in "
+"square brackets."
+msgstr ""
+"Verwenden Sie das Elementor Shortcode Widget zusammen mit dem Shortcode my-"
+"termin-kalender in eckigen Klammern."
+
+#: admin/admin_blocks_page.php:25
+msgid "my easy Termin-Kalender CALENDAR Block"
+msgstr "my easy Termin-Kalender KALENDER Block"
+
+#: admin/admin_blocks_page.php:28
+msgid "The main block for the calendar"
+msgstr "Der Hauptblock für den Kalender"
+
+#: admin/admin_blocks_page.php:30
+msgid ""
+"Your calendar for the monthly overview. All data from the other blocks will "
+"be added to or taken from this Calendar. Click on the first page of this "
+"menu to find the link to create a calendar. And forward to the calendar."
+msgstr ""
+"Ihr Kalender für die Monatsübersicht. Alle Daten aus den anderen Blöcken "
+"werden zu diesem Kalender hinzugefügt oder daraus übernommen. Klicken Sie "
+"auf die erste Seite dieses Menüs, um den Link zum Erstellen eines Kalenders "
+"zu finden. Und weiter zum Kalender."
+
+#: admin/admin_blocks_page.php:36
+msgid "Simple To-Do Tasklist"
+msgstr "Einfache To-Do-Aufgabenliste"
+
+#: admin/admin_blocks_page.php:39
+msgid "To-Do list: Free GutenBerg Block"
+msgstr "Gutenberg-Block für To-Do Listen"
+
+#: admin/admin_blocks_page.php:41
+msgid ""
+"Just a simple To-Do list for your tasks and notes in the Backend. But also "
+"available with this free GutenBerg Block"
+msgstr ""
+"Eine einfache To-Do-Liste für Ihre Aufgaben und Notizen im Backend. Aber "
+"auch mit einem kostenlosen GutenBerg Block"
+
+#: admin/admin_blocks_page.php:47
+msgid "Simple Appointment List"
+msgstr "Einfache Terminliste"
+
+#: admin/admin_blocks_page.php:50
+msgid "Appointment list: Free GutenBerg Block"
+msgstr "Terminliste: Kostenloser GutenBerg Block"
+
+#: admin/admin_blocks_page.php:52
+msgid ""
+"A simple and free Gutenberg Block to show a appointments list. For more "
+"configuration options use the PRO Event List"
+msgstr ""
+"Ein einfacher und kostenloser Gutenberg-Block, um eine Terminliste "
+"anzuzeigen. Weitere Konfigurationsmöglichkeiten finden Sie in der PRO-Version"
+
+#: admin/admin_blocks_page.php:58
+msgid "Reservation Form Block"
+msgstr "Reservierungsformular Block"
+
+#: admin/admin_blocks_page.php:61
+msgid "Adding the Reservation Form Block"
+msgstr "Reservierungsformular Block hinzufügen"
+
+#: admin/admin_blocks_page.php:63
+msgid ""
+"..lets you pick a category for reservation requests. This category will then "
+"be used to label all requests on the calendar."
+msgstr ""
+"Sie können eine Kategorie für Reservierungsanfragen auswählen. Diese "
+"Kategorie wird dann verwendet, um alle Anfragen im Kalender zu kennzeichnen."
+
+#: admin/admin_blocks_page.php:68
+msgid "Event List Block"
+msgstr "Ereignislisten-Block"
+
+#: admin/admin_blocks_page.php:71
+msgid "To display a list of events with pictures:"
+msgstr "Um eine Liste von Ereignissen mit Bildern zu zeigen:"
+
+#: admin/admin_blocks_page.php:73
+msgid ""
+"Add the \"Termin-Kalender Event List\" block (Gutenberg) and choose the "
+"category you like to show."
+msgstr ""
+"Fügen Sie den Block \"Termin-Kalender Event List\" (Gutenberg) hinzu und "
+"wählen Sie die Kategorie aus, die Sie anzeigen möchten."
+
+#: admin/admin_detect_caching.php:37
+msgid ""
+"WP Rocket: Enable 'Bypass cache for logged-in users' or create a 'Purge "
+"Cache' rule for "
+msgstr ""
+"WP Rocket: Aktiviere \"Cache für angemeldete Benutzer umgehen\" oder "
+"erstelle eine \"Cache leeren\"-Regel für "
+
+#: admin/admin_detect_caching.php:40
+msgid ""
+"W3 Total Cache: Use the 'Empty Page Cache' button or create a 'Don't Cache "
+"URL' rule for "
+msgstr ""
+"W3 Total Cache: Verwenden Sie die Schaltfläche \"Empty Page Cache\" oder "
+"erstellen Sie eine \"Don't Cache URL\"-Regel für "
+
+#: admin/admin_detect_caching.php:43
+msgid ""
+"Cache Enabler: Disable 'Page Caching' or create a 'Don't Cache URL' rule for "
+msgstr "Cache Plugin gefunden: Bitte Cache für die Kalenderseite deaktivieren "
+
+#: admin/admin_detect_caching.php:46
+msgid "Litespeed Cache: Create a 'Don't Cache URL' rule for "
+msgstr "Litespeed Cache: Erstellen Sie eine \"Don't Cache URL\"-Regel für "
+
+#: admin/admin_detect_caching.php:49
+msgid ""
+"This page appears to be cached by a plugin. If you have difficulties saving "
+"changes, contact plugin support for disabling caching for "
+msgstr ""
+"Diese Seite scheint von einem Plugin zwischengespeichert zu werden. Wenn Sie "
+"Schwierigkeiten beim Speichern von Änderungen haben, wenden Sie sich an den "
+"Plugin-Support, um das Caching zu deaktivieren "
+
+#: admin/admin_detect_caching.php:56
+msgid "WordPress wp_cache_get function detected. This should be fine."
+msgstr "WordPress wp_cache_get Funktion erkannt. Das sollte in Ordnung sein."
+
+#: admin/admin_detect_caching.php:58
+msgid "WordPress wp_cache_flush function detected. This should be fine."
+msgstr "WordPress wp_cache_flush Funktion erkannt. Das sollte in Ordnung sein."
+
+#: admin/admin_funktionen.php:14
+msgid "Here is your calendar:"
+msgstr "Hier geht's zum Kalender:"
+
+#: admin/admin_funktionen.php:16
+msgid ""
+"Simply click the button here to get started with your Termin-Kalender. Open "
+"the calendar page using this link. Click on an empty slot on the calendar "
+"and fill out the details of your first appointment in the form that appears. "
+"You can also use the button below to generate sample calendar entries to "
+"help you visualize your first bookings."
+msgstr ""
+"Klicken Sie einfach auf den Button hier, um mit Ihrem Termin-Kalender "
+"loszulegen. Öffnen Sie die Kalenderseite über diesen Link. Klicken Sie auf "
+"einen leeren Bereich  im Kalender und füllen Sie die Details Ihres ersten "
+"Termins in das erscheinende Formular ein. Sie können auch die Schaltfläche "
+"unten verwenden, um Beispielkalendereinträge zu generieren, die Ihnen "
+"helfen, Ihre ersten Buchungen zu visualisieren."
+
+#: admin/admin_funktionen.php:28
+msgid "No page with the calendar found."
+msgstr "Es wurde keine Seite mit dem Kalender gefunden."
+
+#: admin/admin_funktionen.php:30
+msgid "Click here to automatically create a page with the calendar:"
+msgstr ""
+"Klicken Sie hier, um automatisch eine Seite mit dem Kalender zu erstellen:"
+
+#: admin/admin_funktionen.php:32
+msgid "Create calendar page"
+msgstr "Kalenderseite erstellen"
+
+#: admin/admin_info_pro.php:6
+msgid "Termin-Kalender PRO Version - Upgrade Your Calendar!"
+msgstr "Termin-Kalender PRO Version - Aktualisieren Sie Ihren Kalender!"
+
+#: admin/admin_info_pro.php:8
+msgid "Get advanced features and unlock the full potential of your calendar."
+msgstr ""
+"Holen Sie sich erweiterte Funktionen und schöpfen Sie das volle Potenzial "
+"Ihres Kalenders aus."
+
+#: admin/admin_info_pro.php:10
+msgid "Here's what you get with the PRO version:"
+msgstr "Das bekommen Sie mit der PRO-Version:"
+
+#: admin/admin_info_pro.php:12
+msgid "Form Fields:"
+msgstr "Formularfelder:"
+
+#: admin/admin_info_pro.php:14
+msgid ""
+"Capture additional details in your calendar entries. Add fields for phone "
+"numbers, addresses, mileage, or anything specific to your needs."
+msgstr ""
+"Erfassen Sie zusätzliche Details in Ihren Kalendereinträgen. Fügen Sie "
+"Felder für Telefonnummern, Adressen, Kilometerstände oder andere Dinge "
+"hinzu, die speziell auf Ihre Bedürfnisse zugeschnitten sind."
+
+#: admin/admin_info_pro.php:16
+msgid "Task repetition:"
+msgstr "Wiederholung:"
+
+#: admin/admin_info_pro.php:18
+msgid "Weekly, Monthly, Yearly recurring events."
+msgstr "Wöchentliche, monatliche, jährlich wiederkehrende Ereignisse."
+
+#: admin/admin_info_pro.php:20
+msgid "Schedule participants and send invites."
+msgstr "Planen Sie Teilnehmer und senden Sie Einladungen."
+
+#: admin/admin_info_pro.php:24
+msgid ""
+"Manage user access. Assign edit or edit & delete permissions to specific "
+"users registered in your WordPress."
+msgstr ""
+"Verwalten des Benutzerzugriffs. Weisen Sie bestimmten Benutzern, die in "
+"Ihrem WordPress registriert sind, Bearbeitungs- oder Bearbeitungs- und "
+"Löschberechtigungen zu."
+
+#: admin/admin_info_pro.php:28
+msgid ""
+"Protect your schedule. Download backups to your computer for safekeeping. "
+"Restore or transfer your calendar data to another WordPress site with ease."
+msgstr ""
+"Schützen Sie Ihren Zeitplan. Laden Sie Backups zur sicheren Aufbewahrung auf "
+"Ihren Computer herunter. Stellen Sie Ihre Kalenderdaten ganz einfach wieder "
+"her oder übertragen Sie sie auf eine andere WordPress-Seite."
+
+#: admin/admin_info_pro.php:30
+msgid "Request form Gutenberg block:"
+msgstr "Anfrageformular Gutenberg-Block:"
+
+#: admin/admin_info_pro.php:32
+msgid ""
+"Capture visitor input for appointments, bookings, etc. Lets you pick a "
+"category for reservation requests."
+msgstr ""
+"Erfassen Sie Besuchereingaben für Termine, Buchungen usw. Sie können eine "
+"Kategorie für Reservierungsanfragen auswählen."
+
+#: admin/admin_info_pro.php:34
+msgid "List Gutenberg block:"
+msgstr "Gutenberg-Block für Listen:"
+
+#: admin/admin_info_pro.php:36
+msgid ""
+"Display specific categories on your site. To display a list of events with "
+"pictures."
+msgstr ""
+"Zeigen Sie bestimmte Kategorien auf Ihrer Website an. Zeigen Sie zum "
+"Beispiel eine Liste von Veranstaltungen mit Bildern an."
+
+#: admin/admin_info_pro.php:38
+msgid "Support Development:"
+msgstr "Unterstützung der Entwicklung:"
+
+#: admin/admin_info_pro.php:40
+msgid ""
+"Your purchase helps us keep improving Termin-Kalender! Share your ideas and "
+"let us know what new features you'd like to see."
+msgstr ""
+"Mit Ihrem Kauf helfen Sie uns, den Termin-Kalender weiter zu verbessern! "
+"Teilen Sie uns Ihre Ideen mit und teilen Sie uns mit, welche neuen "
+"Funktionen Sie sich wünschen."
+
+#: admin/admin_info_pro.php:44
+msgid "Upgrade today"
+msgstr "Aktualisieren Sie noch heute"
+
+#: admin/admin_info_pro.php:47
+msgid " and take your calendar organization to the next level!"
+msgstr " und bringen Sie Ihre Kalenderorganisation auf die nächste Stufe!"
+
+#: admin/termin_kategorien.php:42
+msgid "Color-Coded Control: Calendar Areas"
+msgstr "Farbcodierte Übersicht: Kalenderbereiche"
+
+#: admin/termin_kategorien.php:47
+msgid "Create Custom Categories for Your Calendar"
+msgstr "Erstellen Sie benutzerdefinierte Kategorien für Ihren Kalender"
+
+#: admin/termin_kategorien.php:51
+msgid "Calendar Areas: Organize your schedule with custom categories."
+msgstr ""
+"Kalenderbereiche: Organisieren Sie Ihren Zeitplan mit benutzerdefinierten "
+"Kategorien."
+
+#: admin/termin_kategorien.php:53
+msgid ""
+"Create sections for courses, rooms, employees, rental cars, events, meetings "
+"or anything you need. Customize each with colors and icons for easy "
+"identification."
+msgstr ""
+"Erstellen Sie Kategorien für Kurse, Räume, Mitarbeiter, Mietwagen, "
+"Veranstaltungen, Meetings oder alles, was Sie brauchen. Passen Sie jede "
+"Kategorie mit Farben und Symbolen an, um eine einfache Termin-Übersicht zu "
+"ermöglichen."
+
+#: admin/termin_kategorien.php:115
+msgid "DELETE category"
+msgstr "Kategorie LÖSCHEN"
+
+#: admin/termin_kategorien.php:117
+msgid ""
+"Heads Up! Events Still Scheduled: There might still be events assigned to "
+"this category. To delete, please choose a new category for those events "
+"first."
+msgstr ""
+"Vorsicht! Noch geplante Veranstaltungen: Möglicherweise sind dieser "
+"Kategorie noch Veranstaltungen zugeordnet. Zum Löschen wählen Sie bitte "
+"zuerst eine neue Kategorie für diese Veranstaltungen aus."
+
+#: admin/termin_kategorien.php:120
+msgid "Move the events to category"
+msgstr "Verschieben Sie die Ereignisse in die Kategorie"
+
+#: admin/termin_kategorien.php:135
+msgid "and then delete category"
+msgstr "und dann Kategorie löschen"
+
+#: admin/termin_kategorien.php:138
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: admin/termin_kategorien.php:143
+msgid "Icons preview"
+msgstr "Vorschau der Symbole"
+
+#: admin/terminkalender_page.php:9
+msgid "Frontend Schedule and Resource Calendar."
+msgstr "Frontend-Zeitplan und Ressourcenkalender."
+
+#: admin/terminkalender_page.php:14
+msgid "Load some example dates in the calendar"
+msgstr "Laden Sie Beispieltermine in den Kalender"
+
+#: admin/terminkalender_page.php:20
+msgid "Installation & Help"
+msgstr "Installation & Hilfe"
+
+#: admin/terminkalender_page.php:22
+msgid "Infos for Installation"
+msgstr "Infos zur Installation"
+
+#: admin/terminkalender_page.php:25
+msgid ""
+"If you encounter any issues: Review our Help & FAQ on our website. If you "
+"can't find a solution, feel free to contact us. We're happy to help!"
+msgstr ""
+"Wenn Sie auf Probleme stoßen: Lesen Sie unsere Hilfe und FAQ auf unserer "
+"Website. Wenn Sie keine Lösung finden, können Sie sich gerne an uns wenden. "
+"Wir helfen Ihnen gerne weiter!"
+
+#: admin/terminkalender_page.php:27
+msgid ""
+"If changes in the calendar does not show immediately, try to EXCLUDE the "
+"calendar page in your caching plugin settings."
+msgstr ""
+"Wenn Änderungen im Kalender nicht sofort angezeigt werden, versuchen Sie, "
+"die Kalenderseite in Ihren Caching-Plugin-Einstellungen auszuschließen."
+
+#: admin/terminkalender_page.php:31
+msgid ""
+"Right after installation, the calendar is shown to all visitors of your "
+"site. Depending on Template and Plugins you use, think about restricting the "
+"access to the page with the calendar to your team or usergroup. For example, "
+"go to admin, page, quick edit, use Password or Privat option"
+msgstr ""
+"Direkt nach der Installation wird der Kalender allen Besuchern Ihrer Website "
+"angezeigt. Abhängig von der Vorlage und den Plugins, die Sie verwenden, "
+"sollten Sie darüber nachdenken, den Zugriff auf die Seite mit dem Kalender "
+"auf Ihr Team oder Ihre Benutzergruppe zu beschränken. Gehen Sie z. B. zu "
+"Admin, Seite, Schnellbearbeitung, verwenden Sie die Option \"Passwort\" oder "
+"\"Privat\""
+
+#: admin/terminkalender_page.php:33
+msgid ""
+"In the free version of the calendar, only YOU (admins) can add, edit and "
+"delete calendar entrys. Get the PRO version, if you like to give users the "
+"right to manage calendar entries."
+msgstr ""
+"In der kostenlosen Version des Kalenders können nur SIE (Admins) "
+"Kalendereinträge hinzufügen, bearbeiten und löschen. Holen Sie sich die PRO-"
+"Version, wenn Sie Benutzern das Recht geben möchten, Kalendereinträge zu "
+"verwalten."
+
+#: admin/terminkalender_page.php:36
+msgid "Help Website"
+msgstr "Hilfe-Website"
+
+#: admin/terminkalender_page.php:39
+msgid "Ask for help"
+msgstr "Frage stellen"
+
+#: admin_pro/backup__premium_only.php:28
+msgid "Calendar Data Backup"
+msgstr "Termin-Kalender Daten-Backup"
+
+#: admin_pro/backup__premium_only.php:30
+msgid "Backup your calendar often, especially before messing with settings."
+msgstr ""
+"Erstellen Sie regelmäßig Backups Ihrer Kalendereinträge. Vor allem aber, "
+"bevor Sie hier im Administrationsbereich Einstellungen ändern."
+
+#: admin_pro/backup__premium_only.php:36
+msgid "Backup: Protect your schedule."
+msgstr "Backup: Schützen Sie Ihren Zeitplan."
+
+#: admin_pro/backup__premium_only.php:38
+msgid ""
+"Download backups to your computer for safekeeping. Restore or transfer your "
+"calendar data to another WordPress site with ease."
+msgstr ""
+"Laden Sie Backups zur sicheren Aufbewahrung auf Ihren Computer herunter. "
+"Stellen Sie Ihre Kalenderdaten ganz einfach wieder her oder übertragen Sie "
+"sie auf eine andere WordPress-Seite."
+
+#: admin_pro/backup__premium_only.php:42
+msgid "Create a backup of calendar data"
+msgstr "Erstellen eines Backups der Kalenderdaten"
+
+#: admin_pro/backup__premium_only.php:43
+msgid "Save my data:"
+msgstr "Meine Daten speichern:"
+
+#: admin_pro/backup__premium_only.php:48
+msgid "Create backup"
+msgstr "Backup erstellen"
+
+#: admin_pro/backup__premium_only.php:60
+msgid "Download backup file"
+msgstr "Sicherungskopie herunterladen"
+
+#: admin_pro/backup__premium_only.php:61 admin_pro/backup__premium_only.php:85
+msgid " Choose file:"
+msgstr " Datei auswählen:"
+
+#: admin_pro/backup__premium_only.php:62
+msgid "Download the backup to save it locally:"
+msgstr "Laden Sie das Backup herunter, um es lokal zu speichern:"
+
+#: admin_pro/backup__premium_only.php:64
+msgid "The saved backup will be on your computer in your downloads folder."
+msgstr ""
+"Das gespeicherte Backup befindet sich auf Ihrem Computer in Ihrem Download-"
+"Ordner."
+
+#: admin_pro/backup__premium_only.php:84
+msgid "Upload backup file"
+msgstr "Backup-Datei hochladen"
+
+#: admin_pro/backup__premium_only.php:86
+msgid "Upload the backup to recover your data"
+msgstr "Laden Sie das Backup hoch, um Ihre Daten wiederherzustellen"
+
+#: admin_pro/backup__premium_only.php:88
+msgid ""
+"Save your appointments (backup) and then bring them back later (restore). "
+"You can even use this to move your appointments to a different website."
+msgstr ""
+"Speichern Sie Ihre Termine (Backup) und bringen Sie sie später wieder zurück "
+"(Wiederherstellen). Sie können dies sogar verwenden, um Ihre Termine auf "
+"eine andere Website zu verschieben."
+
+#: admin_pro/backup__premium_only.php:119
+msgid "Restore calendar data"
+msgstr "Wiederherstellen von Kalenderdaten"
+
+#: admin_pro/backup__premium_only.php:120
+msgid "Load saved data:"
+msgstr "Gespeicherte Daten laden:"
+
+#: admin_pro/backup__premium_only.php:122
+msgid "Restore data from backup. Warning!:"
+msgstr "Stellen Sie Daten aus dem Backup wieder her. Warnung!:"
+
+#: admin_pro/backup__premium_only.php:123
+msgid ""
+"Restoring will erase your current calendar info and replace it with the "
+"backup."
+msgstr ""
+"Durch die Wiederherstellung werden Ihre aktuellen Kalenderinformationen "
+"gelöscht und durch das Backup ersetzt."
+
+#: admin_pro/backup__premium_only.php:125
+msgid " Always make a backup of the most CURRENT data before restoring."
+msgstr ""
+" Erstellen Sie vor der Wiederherstellung immer eine Sicherungskopie der "
+"aktuellsten Daten."
+
+#: admin_pro/backup__premium_only.php:138
+msgid "Restore backup"
+msgstr "Backup wiederherstellen"
+
+#: admin_pro/backup__premium_only.php:148
+msgid "Data from:"
+msgstr "Daten von:"
+
+#: admin_pro/backup__premium_only.php:148
+msgid "have been restored"
+msgstr "wurden wieder hergestellt"
+
+#: admin_pro/backup__premium_only.php:154
+#: admin_pro/backup__premium_only.php:166
+msgid "Delete backup"
+msgstr "Backup löschen"
+
+#: admin_pro/backup__premium_only.php:155
+msgid "To delete old backup data:"
+msgstr "Löschen Sie alte Backup-Daten:"
+
+#: admin_pro/kalender_benutzer__premium_only.php:7
+#: admin_pro/kalender_benutzer__premium_only.php:8
+#: includes_pro/teilnehmer_einladen__premium_only.php:11
+msgid "No admin or NOT authorized user"
+msgstr "Kein Admin oder NICHT autorisierter Benutzer"
+
+#: admin_pro/kalender_benutzer__premium_only.php:21
+msgid "Users"
+msgstr "Benutzer"
+
+#: admin_pro/kalender_benutzer__premium_only.php:25
+msgid "Calendar Users: Manage user access."
+msgstr "Kalenderbenutzer: Verwalten Sie den Benutzerzugriff."
+
+#: admin_pro/kalender_benutzer__premium_only.php:27
+msgid ""
+"Assign edit or edit & delete permissions to specific users registered in "
+"your WordPress."
+msgstr ""
+"Weisen Sie bestimmten Benutzern, die in Ihrem WordPress registriert sind, "
+"Bearbeitungs- oder Bearbeitungs- und Löschberechtigungen zu."
+
+#: admin_pro/kalender_benutzer__premium_only.php:34
+msgid "Show only the following user roles to select from:"
+msgstr "Zeigen Sie nur die folgenden Benutzerrollen in der Auswahl an:"
+
+#: admin_pro/kalender_benutzer__premium_only.php:45
+msgid ""
+"If your user list is too long, you can disable the display of users here. "
+"(For example, to hide the many subscribers or shop customers)"
+msgstr ""
+"Wenn Ihre Benutzerliste zu lang ist, können Sie hier die Anzeige von "
+"Benutzern deaktivieren. (Zum Beispiel für Ihre Abonnenten oder Shop-Kunden)"
+
+#: admin_pro/kalender_benutzer__premium_only.php:59
+msgid "User"
+msgstr "Benutzer"
+
+#: admin_pro/kalender_benutzer__premium_only.php:60
+#: block/reservation_shortcode.php:88 js/block.js:156
+msgid "Email"
+msgstr "E-Mail"
+
+#: admin_pro/kalender_benutzer__premium_only.php:61
+msgid "Roles"
+msgstr "Rollen"
+
+#: admin_pro/kalender_benutzer__premium_only.php:62
+msgid "Rights"
+msgstr "Rechte"
+
+#: admin_pro/termin_felder__premium_only.php:12
+msgid "Forms configuration"
+msgstr "Formular Konfiguration"
+
+#: admin_pro/termin_felder__premium_only.php:15
+msgid "Calendar form fields"
+msgstr "Formularfelder für Kalender"
+
+#: admin_pro/termin_felder__premium_only.php:16
+msgid "Add fields to the form."
+msgstr "Füge dem Formular Felder hinzu."
+
+#: admin_pro/termin_felder__premium_only.php:18
+msgid ""
+"Add your own fields to your calendar form. For address or phone-number etc."
+msgstr ""
+"Fügen Sie eigene Felder zum Termin-Eingabeformular hinzu, z. B. Adressen "
+"oder Telefonnummern."
+
+#: admin_pro/termin_felder__premium_only.php:20
+msgid "HINT:"
+msgstr "HINWEIS:"
+
+#: admin_pro/termin_felder__premium_only.php:20
+msgid "Dont create too many fields, or your calendar form will be cluttered."
+msgstr ""
+"Erstellen Sie nicht zu viele Felder, sonst werden Ihre Kalendereinträge "
+"unübersichtlich."
+
+#: admin_pro/termin_felder__premium_only.php:23
+#: admin_pro/termin_felder__premium_only.php:143
+msgid "Show field"
+msgstr "Feld anzeigen"
+
+#: admin_pro/termin_felder__premium_only.php:24
+msgid "You can deactivate your fields for the calendar."
+msgstr "Sie können Ihre Felder für den Terminkalender deaktivieren."
+
+#: admin_pro/termin_felder__premium_only.php:26
+msgid "The fields are not deleted and the data is not accidentally lost."
+msgstr ""
+"Die Felder werden nicht gelöscht, damit Daten nicht versehentlich verloren "
+"gehen."
+
+#: admin_pro/termin_felder__premium_only.php:28
+msgid ""
+"If you delete a field here, it will be completely deleted from the database."
+msgstr ""
+"Wenn Sie hier ein Feld löschen, wird es vollständig aus der Datenbank "
+"gelöscht."
+
+#: admin_pro/termin_felder__premium_only.php:142
+#: admin_pro/termin_felder__premium_only.php:180
+msgid "Field Name"
+msgstr "Feldname"
+
+#: admin_pro/termin_felder__premium_only.php:144
+msgid "Field Type"
+msgstr "Feldtyp"
+
+#: admin_pro/termin_felder__premium_only.php:150
+msgid "No fields available"
+msgstr "Keine Felder verfügbar"
+
+#: admin_pro/termin_felder__premium_only.php:159
+#: admin_pro/termin_felder__premium_only.php:183
+msgid "YES"
+msgstr "JA"
+
+#: admin_pro/termin_felder__premium_only.php:160
+msgid "NO"
+msgstr "NEIN"
+
+#: admin_pro/termin_felder__premium_only.php:170
+#: templates/kalender-template.php:76
+msgid "Save"
+msgstr "Speichern"
+
+#: admin_pro/termin_felder__premium_only.php:171
+#: templates/kalender-template.php:84
+msgid "Delete"
+msgstr "Löschen"
+
+#: admin_pro/termin_felder__premium_only.php:188
+msgid "Multiline-text field"
+msgstr "Mehrzeiliges Textfeld"
+
+#: admin_pro/termin_felder__premium_only.php:194
+msgid "Add Field"
+msgstr "Feld hinzufügen"
+
+#: admin_pro/termin_felder__premium_only.php:202
+msgid "You can order YOUR fields by drag and drop"
+msgstr "Sie können IHRE Felder per Drag & Drop anordnen"
+
+#: admin_pro/termin_felder__premium_only.php:255
+msgid "Are you sure you want to delete this field"
+msgstr "Sind Sie sicher, dass Sie dieses Feld löschen möchten"
+
+#: block/event_list_shortcode.php:88
+msgid "Weekly, at "
+msgstr "Wöchentlich, am "
+
+#: block/event_list_shortcode.php:92
+msgid "Monthly, at "
+msgstr "Monatlich, am "
+
+#: block/event_list_shortcode.php:96
+msgid "Yearly, at "
+msgstr "Jährlich, am "
+
+#: block/event_list_shortcode.php:100
+msgid "Unknown "
+msgstr "Unbekannt "
+
+#: block/reservation_shortcode.php:84
+msgid "Name"
+msgstr "Ihr Name"
+
+#: block/reservation_shortcode.php:93
+msgid "Your Request Message"
+msgstr "Ihre Anfragenachricht"
+
+#: block/reservation_shortcode.php:99
+msgid "When would you like to reservate, from"
+msgstr "Wann möchten Sie reservieren, ab"
+
+#: block/reservation_shortcode.php:113
+msgid "Submit"
+msgstr "Senden"
+
+#: block/reservation_shortcode.php:249
+msgid "New request from "
+msgstr "Neue Anfrage von "
+
+#: block/reservation_shortcode.php:256
+msgid "Your request has been sent, thank you"
+msgstr "Ihre Anfrage wurde gesendet, vielen Dank"
+
+#: block/reservation_shortcode.php:258
+msgid "There was an error with your request, please try again"
+msgstr ""
+"Bei Ihrer Anfrage ist ein Fehler aufgetreten, bitte versuchen Sie es erneut"
+
+#: db/activate.php:83
+msgid "Termin-Kalender activated"
+msgstr "Termin-Kalender aktiviert"
+
+#: db/activate.php:87
+msgid "You can now enter your schedules"
+msgstr "Sie können nun Ihre eigenen Termine eintragen"
+
+#: db/kategorie_options.php:7
+msgid "Regular dates"
+msgstr "Regelmäßige Termine"
+
+#: db/kategorie_options.php:14
+msgid "Tasks"
+msgstr "Aufgaben"
+
+#: db/kategorie_options.php:21
+msgid "Events"
+msgstr "Events"
+
+#: db/kategorie_options.php:28
+msgid "Private dates"
+msgstr "Private Termine"
+
+#: db/kategorie_options.php:35
+msgid "Meeting"
+msgstr "Treffen"
+
+#: db/kategorie_options.php:42
+msgid "Holidays and absences"
+msgstr "Urlaub und Abwesenheit"
+
+#: db/kategorie_options.php:49
+msgid "Important Reminder"
+msgstr "Wichtige Erinnerung"
+
+#: db/kategorie_options.php:56
+msgid "Reservation"
+msgstr "Reservierung"
+
+#: extensions/todo_list.php:6
+msgid "To-Do List"
+msgstr "Aufgabenliste"
+
+#: extensions/todo_list.php:14
+msgid "Simple To-Do List."
+msgstr "Einfache To-Do-Liste."
+
+#: extensions/todo_list.php:16
+msgid "This is a simple To-Do List, not connected to the calendar."
+msgstr ""
+"Dies ist eine einfache To-Do-Liste, die nicht mit dem Kalender verbunden ist."
+
+#: extensions/todo_list.php:18
+msgid "Simply add and organize your tasks and notes here."
+msgstr ""
+"Fügen Sie hier einfach Ihre Aufgaben und Notizen hinzu und organisieren Sie "
+"diese."
+
+#: extensions/todo_list.php:19
+msgid "Gutenberg Block"
+msgstr "Gutenberg Block"
+
+#: extensions/todo_list.php:20
+msgid "You like to display and use it on a page in the frontend too?"
+msgstr ""
+"Sie  möchten diese Liste  auch auf einer Seite im Frontend anzeigen und "
+"verwenden?"
+
+#: extensions/todo_list.php:22
+msgid "Yes, you can do so, there is a free Gutenberg Block"
+msgstr "Ja, das können Sie, es gibt einen kostenlosen Gutenberg-Block"
+
+#: includes/kalender_form.php:6
+msgid "Schedule"
+msgstr "Planen"
+
+#: includes/kalender_form.php:17
+msgid "Please choose"
+msgstr "Bitte wählen"
+
+#: includes/kalender_form.php:23 includes/kalender_form.php:278
+msgid "Description"
+msgstr "Beschreibung"
+
+#: includes/kalender_form.php:60
+msgid "Title"
+msgstr "Titel"
+
+#: includes/kalender_form.php:62
+msgid ""
+"The titel of your calendar entry. You will see this, with the choosen "
+"category color, in all the calendar views "
+msgstr ""
+"Der Titel Ihres Kalendereintrags. Sie sehen diesen mit der gewählten "
+"Kategoriefarbe in allen Kalenderansichten "
+
+#: includes/kalender_form.php:67
+msgid "Date FROM"
+msgstr "Datum VON"
+
+#: includes/kalender_form.php:68
+msgid "Start Date and Time for the calendar entry."
+msgstr "Startdatum und -uhrzeit für den Kalendereintrag."
+
+#: includes/kalender_form.php:73
+msgid "Date TO"
+msgstr "Datum BIS"
+
+#: includes/kalender_form.php:74
+msgid ""
+"End Date and Time of your calendar entry. Single day events will be shown "
+"from choosen Start to End time. Multi-day entries will be shown as All Day "
+"entries. Repeating entries will be shown between Start and End Date for as "
+"many occurences as possible and at the choosen start and end time."
+msgstr ""
+"Enddatum und Uhrzeit Ihres Kalendereintrags. Eintägige Ereignisse werden von "
+"der gewählten Start- bis zur Endzeit angezeigt. Mehrtägige Einträge werden "
+"als Ganztageseinträge angezeigt. Sich wiederholende Einträge werden zwischen "
+"Start- und Enddatum und zur gewählten Start- und Endzeit angezeigt."
+
+#: includes/kalender_form.php:215
+msgid "Recurring events? Get PRO"
+msgstr "Wiederkehrende Termine? Holen Sie sich PRO"
+
+#: includes/kalender_form.php:223 js/block.js:150 js/block.js:250
+msgid "Category"
+msgstr "Kategorie"
+
+#: includes/kalender_form.php:225
+msgid ""
+"Choose the category. Your calendar entry will be shown in this color, for an "
+"easy overview in the monthly view. A category can be a Teammember, a Car to "
+"rent or a room occupancy and many more."
+msgstr ""
+"Wählen Sie die Kategorie aus. Ihr Kalendereintrag wird in dieser Farbe "
+"angezeigt, um eine einfache Übersicht in der Monatsansicht zu ermöglichen. "
+"Eine Kategorie kann ein Teammitglied, ein zu vermietendes Auto oder eine "
+"Zimmerbelegung und vieles mehr sein."
+
+#: includes/kalender_form.php:238
+msgid "Location"
+msgstr "Ort"
+
+#: includes/kalender_form.php:240
+msgid ""
+"Is there a location for your event, meeting or appointment? Give any address "
+"that can be located in Google Maps and a Google-Maps link to this place will "
+"be created for you."
+msgstr ""
+"Gibt es einen Ort für Ihre Veranstaltung, Ihr Meeting oder Ihren Termin? "
+"Geben Sie eine beliebige Adresse an, die in Google Maps gefunden werden "
+"kann, und es wird ein Maps Link zu diesem Ort für Sie erstellt."
+
+#: includes/kalender_form.php:254
+msgid ""
+"PRO: Choose attendees for this entry. Attendee must have a User account on "
+"your Wordpress Site, any sort of user account will be shown, also Guest( Not "
+"only users you added in admin area to be able to edit calendar entries). "
+"Once you choosen all the attendees you can send a invitation for this event "
+"to their registered email"
+msgstr ""
+"PRO: Wählen Sie die Teilnehmer für diesen Eintrag aus. Der Teilnehmer muss "
+"ein Benutzerkonto auf Ihrer Wordpress-Site haben, jede Art von Benutzerkonto "
+"wird angezeigt, auch Gast (nicht nur Benutzer, die Sie im Admin-Bereich "
+"hinzugefügt haben, um Kalendereinträge bearbeiten zu können). Sobald Sie "
+"alle Teilnehmer ausgewählt haben, können Sie eine Einladung für diese "
+"Veranstaltung an ihre registrierte E-Mail-Adresse senden"
+
+#: includes/kalender_form.php:264
+msgid "Want to invite by Email? Get PRO"
+msgstr "Möchten Sie per E-Mail einladen? Holen Sie sich PRO"
+
+#: includes/kalender_form.php:270
+msgid "Notes"
+msgstr "Notizen"
+
+#: includes/kalender_form.php:272
+msgid "Any important notes or something to remember for this event?"
+msgstr ""
+"Gibt es wichtige Hinweise oder etwas, das Sie sich für diese Veranstaltung "
+"merken sollten?"
+
+#: includes/kalender_form.php:280
+msgid "This is the main description for this entry."
+msgstr "Dies ist die Hauptbeschreibung für diesen Eintrag."
+
+#: includes/kalender_form.php:281
+msgid ""
+"If you are familar with Basic HTML, you can use the buttons below. To draw "
+"text bold, italic, underline or strikethrough. Add a line or draw a part of "
+"text as Quote or formatted Code. Add a list or even include links and link "
+"images to be displayed. Remember, the PRO Version of the calendar allows to "
+"also upload pictures and is easyer to use"
+msgstr ""
+"Wenn Sie mit Basic HTML vertraut sind, können Sie die Schaltflächen unten "
+"verwenden. Um Text fett, kursiv, unterstrichen oder durchgestrichen zu "
+"zeichnen. Fügen Sie eine Zeile hinzu oder zeichnen Sie einen Textteil als "
+"Anführungszeichen oder formatierten Code. Fügen Sie eine Liste hinzu oder "
+"fügen Sie sogar Links und Blider hinzu. Denken Sie daran, dass die PRO-"
+"Version des Kalenders auch das Hochladen von Bildern ermöglicht und "
+"einfacher zu bedienen ist"
+
+#: includes/kalender_form.php:301
+msgid ""
+"PRO: Need a field like phone number? Create them in the admin area. You can "
+"extend your form with either a one line or a multiline field for long text. "
+"Use them carefully, mostly you can add all you need in the description field."
+msgstr ""
+"PRO: Benötigen Sie ein Feld wie Telefonnummer? Erstellen Sie diese im Admin-"
+"Bereich. Sie können Ihr Formular entweder mit einem einzeiligen oder einem "
+"mehrzeiligen Feld für langen Text erweitern. Verwenden Sie sie mit Bedacht, "
+"meistens können Sie alles, was Sie brauchen, in das Beschreibungsfeld "
+"einfügen."
+
+#: includes/kalender_form.php:303 includes/kalender_form_ausgabe.php:36
+msgid "Additional fields"
+msgstr "Zusätzliche Felder"
+
+#: includes/kalender_form.php:326
+msgid "Website-Link URL"
+msgstr "Website-Link URL"
+
+#: includes/kalender_form.php:328
+msgid "Add a Link to a Website"
+msgstr "Hinzufügen eines Links zu einer Website"
+
+#: includes/kalender_help_page.php:11
+msgid ""
+"Click a calendar entry to open and see details (and edit, delete, or "
+"duplicate it).\n"
+"        Click on a free space on the date you prefer and add your calendar "
+"entry (Appointment, Event, Schedule...)."
+msgstr ""
+"Klicken Sie auf einen Kalendereintrag, um ihn zu öffnen und Details "
+"anzuzeigen (und ihn zu bearbeiten, zu löschen oder zu duplizieren).\n"
+"        Klicken Sie auf ein freies Feld an dem von Ihnen gewünschten Datum "
+"und fügen Sie Ihren Kalendereintrag hinzu (Termin, Veranstaltung, "
+"Zeitplan...)."
+
+#: includes/kalender_help_page.php:18
+msgid "Edit the main categories, icon, title and colors"
+msgstr "Bearbeiten Sie die Hauptkategorien, Symbole, Titel und Farben"
+
+#: includes/kalender_help_page.php:24
+msgid "Calendar form settings, add & edit fields"
+msgstr "Kalenderformulareinstellungen, Felder hinzufügen und bearbeiten"
+
+#: includes/kalender_help_page.php:30
+msgid "User rights"
+msgstr "Benutzer Rechte"
+
+#: includes/kalender_help_page.php:42
+msgid "Gutenberg Blocks for the Termin-Kalender"
+msgstr "Gutenberg-Blöcke für den Termin-Kalender"
+
+#: includes/kalender_help_page.php:70 templates/kalender-template.php:41
+#: templates/kalender-template.php:46
+msgid ""
+"From now on only corrections will be done and no new features added until we "
+"are fine for the release of a stable Version 1.0. Please help and message us "
+"any difficulties you have and errors you discover. All serious error "
+"reporting will be awarded with 3 Months free PRO. Thank you all so much!"
+msgstr ""
+"Von nun an werden nur noch Korrekturen vorgenommen und keine neuen "
+"Funktionen hinzugefügt, bis wir eine stabile Version 1.0 veröffentlichen "
+"können. Bitte helfen Sie uns und senden Sie uns eine Nachricht, wenn Sie "
+"Schwierigkeiten haben oder Fehler entdecken. Alle schwerwiegenden "
+"Fehlermeldungen werden mit 3 Monaten kostenlosem PRO belohnt. Vielen Dank an "
+"alle!"
+
+#: includes/kalender_help_page.php:79
+msgid "To the calendar main page"
+msgstr "Zur Kalender-Hauptseite"
+
+#: includes/kalender_help_page.php:82
+msgid "Termin-Kalender Website"
+msgstr "Termin-Kalender Webseite"
+
+#: includes_pro/kalender_zusatzfelder__premium_only.php:9
+msgid "Picture"
+msgstr "Bild"
+
+#: includes_pro/teilnehmer_einladen__premium_only.php:17
+msgid "Select participants: "
+msgstr "Ausgewählte Teilnehmer: "
+
+#: includes_pro/teilnehmer_einladen__premium_only.php:29
+msgid "add"
+msgstr "hinzufügen"
+
+#: includes_pro/teilnehmer_einladen__premium_only.php:30
+msgid "remove"
+msgstr "entfernen"
+
+#: includes_pro/teilnehmer_einladen__premium_only.php:48
+msgid "Send Invitation"
+msgstr "Einladung senden"
+
+#: includes_pro/teilnehmer_einladen__premium_only.php:115
+msgid "New schedule for you, from: "
+msgstr "Neuer Zeitplan für Sie, von: "
+
+#: includes_pro/wiederhol_event__premium_only.php:10
+msgid "Repetition: "
+msgstr "Wiederholung: "
+
+#: includes_pro/wiederhol_event__premium_only.php:12
+msgid ""
+"PRO: Choose first a Start and End DATE for your recurring event. Then choose "
+"weekly ( the choice for the days  will be opened if you choose weekly), "
+"monthly or yearly. The event will repeat for as many times as possible "
+"between choosen Start and End Time."
+msgstr ""
+"PRO: Wählen Sie zuerst ein Start- und Enddatum für Ihr wiederkehrendes "
+"Ereignis. Wählen Sie dann wöchentlich (die Auswahl für die Tage wird "
+"geöffnet, wenn Sie wöchentlich wählen), monatlich oder jährlich. Das "
+"Ereignis wird zwischen der gewählten Start- und Endzeit so oft wie möglich "
+"wiederholt."
+
+#: includes_pro/wiederhol_event__premium_only.php:15
+msgid "None"
+msgstr "Keine"
+
+#: includes_pro/wiederhol_event__premium_only.php:16
+#: init/register_enqueue.php:33
+msgid "Weekly "
+msgstr "Wöchentlich "
+
+#: includes_pro/wiederhol_event__premium_only.php:17
+#: init/register_enqueue.php:34
+msgid "Monthly "
+msgstr "Monatlich "
+
+#: includes_pro/wiederhol_event__premium_only.php:18
+#: init/register_enqueue.php:35
+msgid "Annual "
+msgstr "Jährlich "
+
+#: includes_pro/wiederhol_event__premium_only.php:21
+msgid "Choose Days:"
+msgstr "Wählen Sie Tage:"
+
+#: includes_pro/wiederhol_event__premium_only.php:24
+msgid "Mon"
+msgstr "Mo"
+
+#: includes_pro/wiederhol_event__premium_only.php:27
+msgid "Tue"
+msgstr "Di"
+
+#: includes_pro/wiederhol_event__premium_only.php:30
+msgid "Wed"
+msgstr "Mi"
+
+#: includes_pro/wiederhol_event__premium_only.php:33
+msgid "Thu"
+msgstr "Do"
+
+#: includes_pro/wiederhol_event__premium_only.php:36
+msgid "Fri"
+msgstr "Fr"
+
+#: includes_pro/wiederhol_event__premium_only.php:39
+msgid "Sat"
+msgstr "Sa"
+
+#: includes_pro/wiederhol_event__premium_only.php:42
+msgid "Sun"
+msgstr "So"
+
+#: init/register_enqueue.php:28
+msgid "Participants"
+msgstr "Teilnehmer"
+
+#: init/register_enqueue.php:30
+msgid "New Schedule"
+msgstr "Neuer Termin"
+
+#: init/register_enqueue.php:31
+msgid "New schedule at "
+msgstr "Neuer Termin am "
+
+#: init/register_enqueue.php:32 init/register_enqueue.php:53
+msgid "click for more"
+msgstr "Klicken Sie hier für mehr"
+
+#: init/register_enqueue.php:39
+msgid "Do you really want to delete this schedule?"
+msgstr "Möchten Sie diesen Termin wirklich löschen?"
+
+#: init/register_enqueue.php:40
+msgid "HELP"
+msgstr "HILFE"
+
+#: init/register_enqueue.php:41
+msgid "End date after start date please"
+msgstr "Enddatum nach Startdatum bitte"
+
+#: init/register_enqueue.php:42
+msgid "Please set the start date before end date"
+msgstr "Bitte legen Sie das Startdatum vor dem Enddatum fest"
+
+#: init/register_enqueue.php:50
+msgid "Must keep one (will not save)"
+msgstr "Bitte einen Empfänger behalten (wird nicht gespeichert)"
+
+#: init/register_enqueue.php:51
+msgid "Please select a user to send to"
+msgstr "Bitte wählen Sie einen Benutzer aus, an den gesendet werden soll"
+
+#: init/register_enqueue.php:52
+msgid "Notification sent"
+msgstr "Benachrichtigung gesendet"
+
+#: init/register_enqueue.php:102
+msgid "Example dates where loaded into the calendar"
+msgstr "Beispieldaten wurden in den Kalender geladen"
+
+#: js/block.js:36
+msgid ""
+"A calendar block to overview and organize my monthly tasks, events, "
+"schedules etc."
+msgstr ""
+"Ein Kalenderblock, um meine monatlichen Aufgaben, Termine, Zeitpläne usw. zu "
+"überblicken und zu organisieren."
+
+#: js/block.js:47
+msgid ""
+"Please use only the Termin-Kalender block on this page. Set to full width "
+"page with all other elements deactivated. "
+msgstr ""
+"Bitte verwenden Sie auf dieser Seite nur den Termin-Kalender-Block. Stellen "
+"Sie die Seite auf die volle Breite ein, wobei alle anderen Elemente "
+"deaktiviert sind. "
+
+#: js/block.js:96
+msgid "Termin-Kalender Reservation/Appointment Form"
+msgstr "Termin-Kalender Reservierungs-/Terminformular"
+
+#: js/block.js:118
+msgid ""
+"Termin-Kalender request Form: A block to show a requests form for "
+"appointment and reservation requests"
+msgstr ""
+"Termin-Kalender-Anfrageformular: Ein Block zum Anzeigen eines "
+"Anfrageformulars für Termin- und Reservierungsanfragen"
+
+#: js/block.js:147
+msgid "Termin-Kalender Request Form for Reservation or Appointment."
+msgstr "Termin-Kalender Anfrageformular für Reservierung oder Termin."
+
+#: js/block.js:148
+msgid ""
+"Add your message about what can be reservated or booked and the information "
+"you expect before this block. Choose the category to place the request and "
+"find your email where a copy of the confirmation email will be sent"
+msgstr ""
+"Fügen Sie Infos, was reserviert oder gebucht werden kann vor diesem Block "
+"hinzu. Wählen Sie die Kategorie aus, in der eine Anfrage gespeichert wird. "
+"Eine E-Mail wird an Sie und den Absender  geschickt"
+
+#: js/block.js:189
+msgid "Termin-Kalender Event List"
+msgstr "Termin-Kalender Veranstaltungsliste"
+
+#: js/block.js:213
+msgid "Termin-Kalender Event List: A block to display a list of events"
+msgstr ""
+"Termin-Kalender Veranstaltungsliste: Ein Gutenberg Block zur Anzeige einer "
+"Liste von Ereignissen"
+
+#: js/block.js:246
+msgid "Termin-Kalender Event List:"
+msgstr "Termin-Kalender Veranstaltungsliste:"
+
+#: js/block.js:247
+msgid ""
+"Add this block to display a list of upcoming events. Choose a Category to be "
+"listed:"
+msgstr ""
+"Fügen Sie diesen Block hinzu, um eine Liste der bevorstehenden "
+"Veranstaltungen anzuzeigen. Wählen Sie eine Kategorie aus, die aufgelistet "
+"werden soll:"
+
+#: templates/kalender-template.php:37
+msgid "Log in to edit tasks"
+msgstr "Melden Sie sich an, um Aufgaben zu bearbeiten"
+
+#: templates/kalender-template.php:74
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: templates/kalender-template.php:75
+msgid "Update"
+msgstr "Aktualisieren"
+
+#: templates/kalender-template.php:77
+msgid "Duplicate"
+msgstr "Duplizieren"
+
+#: templates/kalender-template.php:80
+msgid "No user rights to save or edit appointments"
+msgstr "Keine Benutzerrechte zum Speichern oder Bearbeiten von Terminen"
+
+#: templates/kalender-template.php:87
+msgid "Not sufficient user rights to delete appointments"
+msgstr "Unzureichende Benutzerrechte zum Löschen von Terminen"
+
+#: templates/kalender-template.php:89
+msgid "Close"
+msgstr "Schließen"
+
+#. Plugin Name of the plugin/theme
+msgid "Termin-Kalender"
+msgstr "Termin-Kalender"
+
+#. Plugin URI of the plugin/theme
+msgid "https://termin-kalender.pro"
+msgstr "https://termin-kalender.pro"
+
+#. Description of the plugin/theme
+msgid ""
+"Termin-Kalender is your easy monthly planner. This calendar app provides a "
+"clear, monthly overview to keep you organized."
+msgstr ""
+"Termin-Kalender ist Ihr einfacher Monatsplaner. Diese Kalender-App bietet "
+"eine klare, monatliche Übersicht, damit Sie organisiert bleiben."
+
+#. Author of the plugin/theme
+msgid "Beat Kueffer"
+msgstr "Beat Kueffer"
+
+#~ msgid "Set the standard durtion for recurring events"
+#~ msgstr "Festlegen der Standarddauer für wiederkehrende Ereignisse"
+
+#~ msgid "URL"
+#~ msgstr "Website URL"
+
+#~ msgid ""
+#~ "Start Date and Time for the calendar entry. For recurring events: They "
+#~ "will be shown each at the starting time with standard lenght of 1 hour. "
+#~ "And until the choosen end day. Ending hour will not be used"
+#~ msgstr ""
+#~ "Startdatum und -uhrzeit für den Kalendereintrag. Bei wiederkehrenden "
+#~ "Veranstaltungen: Sie werden jeweils zur Startzeit mit einer Standardlänge "
+#~ "von 1 Stunde angezeigt. Und bis zum gewählten Endtag. Die Endstunde wird "
+#~ "nicht verwendet"
+
+#~ msgid ""
+#~ "Add the \"Termin-Kalender Event List\" block (Gutenberg) and choose the "
+#~ "category. For pictures (optional): pick images from your Media Library "
+#~ "and copy their URLs. Edit events in the chosen category (calendar) and "
+#~ "paste URLs into the new \"list_image\" field (might appear first time "
+#~ "adding block)."
+#~ msgstr ""
+#~ "Fügen Sie den Block \"Termin-Kalender Veranstaltungsliste\" (Gutenberg) "
+#~ "hinzu und wählen Sie die Kategorie aus. Für Bilder (optional): Wählen Sie "
+#~ "ein Bild  aus Ihrer Medienbibliothek aus und kopieren Sie die  URL. "
+#~ "Bearbeiten Sie Termine in der ausgewählten Kategorie (Kalender) und fügen "
+#~ "Sie die URL in das neue Feld \"list_image\" ein (wird  beim ersten "
+#~ "Hinzufügen eines Blocks angezeigt werden)."
+
+#~ msgid "Recurring event duration"
+#~ msgstr "Dauer des wiederkehrenden Ereignisses"
+
+#~ msgid "Recurring Duration"
+#~ msgstr "Dauer der Wiederhol-Termine"
+
+#~ msgid "Event Display Rules:"
+#~ msgstr "Regeln für die Anzeige von Ereignissen:"
+
+#~ msgid "Single Day:"
+#~ msgstr "Einzelner Tag:"
+
+#~ msgid "Shows from start time to end time (hours included)."
+#~ msgstr "Zeigt von der Startzeit bis zur Endzeit (einschließlich Stunden)."
+
+#~ msgid "Multi-Day Events:"
+#~ msgstr "Mehrtägige Kalendereinträge:"
+
+#~ msgid "Shown as all-day events."
+#~ msgstr "Werden als ganztägige Einträge angezeigt."
+
+#~ msgid "Recurring Events:"
+#~ msgstr "Wiederkehrende Veranstaltungen:"
+
+#~ msgid ""
+#~ "Appear at each occurrence on the chosen day, starting at the set hour and "
+#~ "lasting for the standard duration you define here."
+#~ msgstr ""
+#~ "Erscheint bei jedem Vorkommen am ausgewählten Tag, beginnend mit der "
+#~ "eingestellten Stunde und für die Standarddauer, die Sie hier definieren."
+
+#~ msgid "To the calendar help page"
+#~ msgstr "Zur Kalender-Hilfeseite"
+
+#~ msgid ""
+#~ "The PRO version of Termin-Kalender has been activated or installed. "
+#~ "PLEASE UNINSTALL FREE."
+#~ msgstr ""
+#~ "Die PRO-Version des Termin-Kalenders wurde aktiviert bzw. installiert. "
+#~ "BITTE KOSTENLOS DEINSTALLIEREN."
+
+#~ msgid "Help"
+#~ msgstr "Hilfe"
+
+#~ msgid "Replace existing entries with"
+#~ msgstr "Ersetzen Sie vorhandene Einträge durch"
+
+#~ msgid "and then"
+#~ msgstr "und dann"
+
+#~ msgid "RESERVATION"
+#~ msgstr "RESERVIERUNG"
+
+#~ msgid "Add members to this schedule"
+#~ msgstr "Mitarbeiter zum Termin hinzufügen"
+
+#~ msgid "Save before adding attendees and send invitation"
+#~ msgstr ""
+#~ "Speichern Sie, bevor Sie Teilnehmer hinzufügen und eine Einladung senden"
+
+#~ msgid ""
+#~ "Does the Termin-Kalender displays properly with your WordPress theme? Our "
+#~ "calendar typically prefers a full-width and full-height layout. If you "
+#~ "encounter any issues: Check the list of known theme compatibility below. "
+#~ "Review our Help & FAQ on our website. If you can't find a solution, feel "
+#~ "free to reach out through our contact form. We're happy to help!"
+#~ msgstr ""
+#~ "Wird der Termin-Kalender mit Ihrem WordPress-Theme richtig angezeigt? "
+#~ "Unser Kalender bevorzugt in der Regel ein Layout in voller Breite und "
+#~ "voller Höhe. Wenn Sie auf Probleme stoßen: Sehen Sie sich die Liste der "
+#~ "bekannten Theme-Kompatibilität unten an. Lesen Sie unsere Hilfe und FAQ "
+#~ "auf unserer Website. Wenn Sie keine Lösung finden, können Sie sich gerne "
+#~ "über unser Kontaktformular an uns wenden. Wir helfen Ihnen gerne weiter!"
+
+#~ msgid "Template compatibility"
+#~ msgstr "Template-Kompatibilität"
+
+#~ msgid "You do not have sufficient permissions to access this page."
+#~ msgstr ""
+#~ "Du hast nicht die erforderlichen Rechte, um auf diese Seite zuzugreifen."
+
+#~ msgid "Configuration & Settings:"
+#~ msgstr "Konfiguration & Einstellungen:"
+
+#~ msgid "Choose a Category to Modify"
+#~ msgstr "Wählen Sie eine Kategorie aus, die geändert werden soll"
+
+#~ msgid "EDIT category"
+#~ msgstr "Kategorie BEARBEITEN"
+
+#~ msgid "Background-Color"
+#~ msgstr "Hintergrund-Farbe"
+
+#~ msgid "Text color"
+#~ msgstr "Textfarbe"
+
+#~ msgid "Icon"
+#~ msgstr "Icon"
+
+#~ msgid "ADD new category"
+#~ msgstr "Neue Kategorie hinzufügen"
+
+#~ msgid "Organize your work and life with Calendar Categories"
+#~ msgstr "Organisieren Sie Ihre Arbeit und Ihr Leben mit Kalenderkategorien"
+
+#~ msgid ""
+#~ "Staying organized is key for any small business. Calendar categories can "
+#~ "be your secret weapon! They let you see everything at once and prioritize "
+#~ "tasks effectively."
+#~ msgstr ""
+#~ "Organisiert zu bleiben ist der Schlüssel für jedes kleine Unternehmen. "
+#~ "Kalenderkategorien können Ihre Geheimwaffe sein! Sie ermöglichen es "
+#~ "Ihnen, alles auf einmal zu sehen und Aufgaben effektiv zu priorisieren."
+
+#~ msgid "Here's how categories can transform your business schedule:"
+#~ msgstr ""
+#~ "Hier erfahren Sie, wie Kategorien Ihre Geschäftliche Planung optimieren "
+#~ "kann:"
+
+#~ msgid "Car Rental:"
+#~ msgstr "Autovermietung:"
+
+#~ msgid ""
+#~ "Category: \"Vehicle Maintenance\" (Set reminders for oil changes, tire "
+#~ "rotations) Category: \"Customer Bookings\" (Track upcoming rentals, "
+#~ "prevent double-booking)"
+#~ msgstr ""
+#~ "Kategorie: \"Fahrzeugwartung\" (Erinnerungen für Ölwechsel, Reifenwechsel "
+#~ "einstellen) Kategorie: \"Kundenbuchungen\" (Verfolgen Sie anstehende "
+#~ "Anmietungen, vermeiden Sie Doppelbuchungen)"
+
+#~ msgid ""
+#~ "Category: \"Cleaning Schedule\" (Block out cleaning times to avoid "
+#~ "disrupting guests) Category: \"Guest Arrivals & Departures\" (Ensure a "
+#~ "smooth check-in/check-out process)"
+#~ msgstr ""
+#~ "Kategorie: \"Reinigungsplan\" (Blockieren Sie Reinigungszeiten, um Gäste "
+#~ "nicht zu stören) Kategorie: \"An- und Abreise von Gästen\" (Sorgen Sie "
+#~ "für einen reibungslosen Check-in/Check-out-Prozess)"
+
+#~ msgid "These are just a few examples!  You can create categories for:"
+#~ msgstr ""
+#~ "Dies sind nur einige Beispiele!  Sie können Kategorien erstellen für:"
+
+#~ msgid ""
+#~ "Team meetings with invitation email. Internal Deadlines. Holidays & Time "
+#~ "Off. Schedule Workshops and Classes. Meeting- and other room "
+#~ "reservations. Patient Appointments. Staff Shift Schedules. Equipment "
+#~ "Rentals. Delivery Schedule. Driver Availability. Schedule re-stocking "
+#~ "etc. Calendar categories help you become a scheduling pro and keep your "
+#~ "small business running smoothly!"
+#~ msgstr ""
+#~ "Teambesprechungen mit Einladungs-E-Mail. Interne Fristen. Urlaub & "
+#~ "Freizeit. Planen Sie Workshops und Kurse. Tagungs- und andere "
+#~ "Zimmerreservierungen. Patiententermine. Schichtpläne des Personals. "
+#~ "Verleih von Ausrüstung. Lieferplan. Verfügbarkeit von Fahrern. Planen Sie "
+#~ "das Re-Stocking usw. Kalenderkategorien helfen Ihnen, ein Planungsprofi "
+#~ "zu werden und Ihr kleines Unternehmen reibungslos am Laufen zu halten!"
+
+#~ msgid "Setup user rights for: "
+#~ msgstr "Richten Sie Benutzerrechte ein für: "
+
+#~ msgid "Select user"
+#~ msgstr "Benutzer auswählen"
+
+#~ msgid ""
+#~ "User rights for the calendar: Select a user to authorize him to do "
+#~ "calendar entries"
+#~ msgstr ""
+#~ "Benutzerrechte für den Terminkalender: Wählen Sie einen Benutzer aus, um "
+#~ "ihn zum Vornehmen von Kalendereinträgen zu berechtigen"
+
+#~ msgid "Users who can enter and edit schedules: "
+#~ msgstr "Benutzer, die Termine eingeben und bearbeiten können: "
+
+#~ msgid "Allowed to create and edit entrys in the calendar"
+#~ msgstr "Berechtigt, Einträge im Kalender zu erstellen und zu bearbeiten"
+
+#~ msgid "Zusatzfelder für das Formular."
+#~ msgstr "Zusatzfelder für das Formular."
+
+#~ msgid ""
+#~ "Before upgrading to the PRO version, it's best to deactivate (and later "
+#~ "uninstall) the free version. You won't need both, and your calendar data "
+#~ "from the free version will be automatically transferred to the PRO "
+#~ "version."
+#~ msgstr ""
+#~ "Vor dem Upgrade auf die PRO-Version ist es am besten, die kostenlose "
+#~ "Version zu deaktivieren (und später zu deinstallieren). Sie benötigen "
+#~ "nicht beides und Ihre Kalenderdaten aus der kostenlosen Version werden "
+#~ "automatisch in die PRO-Version übertragen."
+
+#~ msgid "How can I display the calendar on a page?"
+#~ msgstr "Wie kann ich den Kalender auf einer Seite anzeigen?"
+
+#~ msgid "DIVI (and other Page Builder): Try a Text Module and this Shortcode:"
+#~ msgstr ""
+#~ "DIVI (und andere Page Builder): Probiere einen Textbaustein und diesen "
+#~ "Shortcode aus:"
+
+#~ msgid ""
+#~ "Simplify your scheduling with Termin-Kalender! Get instructions and "
+#~ "helpful resources on our website."
+#~ msgstr ""
+#~ "Vereinfachen Sie Ihre Terminplanung mit Termin-Kalender! Holen Sie sich "
+#~ "Anleitungen und hilfreiche Ressourcen auf unserer Website."
+
+#~ msgid "activated"
+#~ msgstr "aktiviert"
+
+#~ msgid "Calendar Areas"
+#~ msgstr "Kalender-Bereiche"
+
+#~ msgid "my easy Termin-Kalender calendar Website"
+#~ msgstr "my easy Termin-Kalender calendar Website"
+
+#~ msgid "Calendar Areas (Categories)"
+#~ msgstr "Kalenderbereiche (Kategorien)"
+
+#~ msgid "my easy Termin-Kalender calendar PRO"
+#~ msgstr "my easy Termin-Kalender calendar PRO"
+
+#~ msgid "my easy Termin-Kalender calendar FREE"
+#~ msgstr "my easy Termin-Kalender calendar FREE"
+
+#~ msgid "Calendar Users:"
+#~ msgstr "Kalender Benutzer:"
+
+#~ msgid "Area (Category)"
+#~ msgstr "Bereich (Kategorie)"
+
+#~ msgid ""
+#~ "You can upload a backup file that you downloaded from this calendar and "
+#~ "then restore it. You can also use this feature to easily move the "
+#~ "appointment data from one WordPress installation to another"
+#~ msgstr ""
+#~ "Sie können eine Sicherungsdatei hochladen, die Sie aus diesem Kalender "
+#~ "heruntergeladen haben, und sie dann wiederherstellen. Sie können diese "
+#~ "Funktion auch verwenden, um die Termindaten einfach von einer WordPress-"
+#~ "Installation in eine andere zu verschieben"
+
+#~ msgid ""
+#~ "All current data will be lost and will be overwritten with the data from "
+#~ "the backup!"
+#~ msgstr ""
+#~ "Alle aktuellen Daten gehen verloren und werden mit den Daten aus dem "
+#~ "Backup überschrieben!"
+
+#~ msgid "my easy Termin-Kalender calendar Users"
+#~ msgstr "my easy Termin-Kalender calendar Benutzer"
+
+#~ msgid "Calendar User Management."
+#~ msgstr "Benutzerverwaltung des Terminkalenders."
+
+#~ msgid "Show field:"
+#~ msgstr "Feld anzeigen:"
+
+#~ msgid "Field name"
+#~ msgstr "Feldname"
+
+#~ msgid "my easy Termin-Kalender calendar activated"
+#~ msgstr "Der my easy Termin-Kalender calendar wurde aktiviert"
+
+#~ msgid "my easy Termin-Kalender calendar website"
+#~ msgstr "my easy Termin-Kalender calendar Website"
+
+#~ msgid "Help..loading"
+#~ msgstr "Hilfe.. Laden"
+
+#~ msgid ""
+#~ "Client Meetings (Track proposals, follow-up calls) Project Deadlines "
+#~ "(Ensure projects stay on schedule) Marketing Campaigns (Plan social media "
+#~ "posts, track campaign progress) Inventory Management (Schedule re-"
+#~ "stocking, track low stock alerts) Employee Training (Block out training "
+#~ "sessions, manage staff schedules)"
+#~ msgstr ""
+#~ "Kundenbesprechungen (Verfolgen von Vorschlägen, Follow-up-Anrufen) "
+#~ "Projektfristen (Sicherstellen, dass Projekte im Zeitplan bleiben) "
+#~ "Marketingkampagnen (Planen von Social-Media-Posts, Verfolgen des "
+#~ "Kampagnenfortschritts) Bestandsverwaltung (Wiederauffüllung planen, "
+#~ "Warnungen bei niedrigem Lagerbestand verfolgen) Mitarbeiterschulung "
+#~ "(Blockieren von Schulungssitzungen, Verwalten von Personalplänen)"
+
+#~ msgid ""
+#~ "By color-coding your categories, you can easily see what needs your "
+#~ "attention most.  Calendar categories help you become a scheduling pro and "
+#~ "keep your small business running smoothly!"
+#~ msgstr ""
+#~ "Durch die Farbcodierung Ihrer Kategorien können Sie leicht erkennen, was "
+#~ "Ihre Aufmerksamkeit am meisten erfordert.  Kalenderkategorien helfen "
+#~ "Ihnen, ein Planungsprofi zu werden und Ihr kleines Unternehmen "
+#~ "reibungslos am Laufen zu halten!"
+
+#~ msgid ""
+#~ "Here you can set your most important and most common categories for the "
+#~ "calendar:"
+#~ msgstr ""
+#~ "Hier können Sie Ihre wichtigsten und häufigsten Bereiche (Kategorien) für "
+#~ "den Terminkalender festlegen:"
+
+#~ msgid "Show all Icons"
+#~ msgstr "Alle Icons anzeigen"
+
+#~ msgid ""
+#~ "If events with this category still exist: You must select a different "
+#~ "category for these events before we can delete the category."
+#~ msgstr ""
+#~ "Wenn es noch Veranstaltungen mit dieser Kategorie gibt: Sie müssen eine "
+#~ "andere Kategorie für diese Veranstaltungen auswählen, bevor wir die "
+#~ "Kategorie löschen können."
+
+#~ msgid "Just suggestions. You can customize individually."
+#~ msgstr "Vorschläge, die Sie individuell anpassen können."
+
+#~ msgid "Meetings Scheduling"
+#~ msgstr "Meetings Terminplanung"
+
+#~ msgid ""
+#~ "Meetings, conferences, gatherings with colleagues, customers or business "
+#~ "partners.\n"
+#~ "                This section should contain all the appointments and "
+#~ "meetings for the day.\n"
+#~ "                Daily planning. Weekly schedule: An overview of the most "
+#~ "important tasks and\n"
+#~ "                Events of the week to make sure you have everything in "
+#~ "view."
+#~ msgstr ""
+#~ "Termine für Besprechungen, Konferenzen und andere Zusammenkünfte mit "
+#~ "Kollegen, Kunden oder anderen Geschäftspartnern.\n"
+#~ "                Dieser Abschnitt sollte alle Termine und Besprechungen "
+#~ "für den Tag enthalten. Tagesplanung Termine Besprechungen Wochenplan: Die "
+#~ "wichtigsten Aufgaben im Überblick und\n"
+#~ "                Ereignisse der Woche, um sicherzustellen, dass Sie alles "
+#~ "im Blick haben."
+
+#~ msgid "Tasks and Projects"
+#~ msgstr "Aufgaben (Tasks) Projekte (projects)"
+
+#~ msgid ""
+#~ "Deadlines for tasks that need to be completed.\n"
+#~ "                Project management section, where you note milestones, "
+#~ "tasks, and progress.\n"
+#~ "                Ideas and Brainstorming: Here you can jot down ideas and "
+#~ "thoughts that come to mind during the day.\n"
+#~ "                Goals: A Goal Setting section can help you achieve your "
+#~ "goals.\n"
+#~ "                Define long-term goals and track your progress towards "
+#~ "those goals."
+#~ msgstr ""
+#~ "Fristen für Aufgaben, die erledigt werden müssen, z. B. wichtige "
+#~ "Aufgaben, die erledigt werden müssen.\n"
+#~ "                Projektmanagement, in dem Sie Meilensteine, Aufgaben und "
+#~ "Fortschritte notieren\n"
+#~ "                Ideen und Brainstorming: Hier können Sie Ideen und "
+#~ "Gedanken notieren, die Ihnen im Laufe des Tages in den Sinn kommen. \n"
+#~ "Ziele: Ein Abschnitt Zielsetzung kann Ihnen helfen, Ihre Ziele zu "
+#~ "erreichen.\n"
+#~ "                Definieren Sie langfristige Ziele und verfolgen Sie Ihre "
+#~ "Fortschritte auf dem Weg zu diesen Zielen."
+
+#~ msgid "Events Birthdays"
+#~ msgstr "Veranstaltungen (Events) Geburtstage"
+
+#~ msgid ""
+#~ "Dates for birthdays, anniversaries or other important dates, such as "
+#~ "company parties, customer events or conferences."
+#~ msgstr ""
+#~ "Termine für Geburtstage, Jubiläen oder andere wichtige Ereignisse, wie "
+#~ "Firmenfeiern, Kundenevents oder Tagungen."
+
+#~ msgid "Private meetings"
+#~ msgstr "Private Termine"
+
+#~ msgid ""
+#~ "Schedule personal appointments, such as visits to the dentist, "
+#~ "hairdresser appointments or other dates related to your private life."
+#~ msgstr ""
+#~ "Persönliche Termine, wie z.B. Zahnarztbesuche, Friseurtermine oder andere "
+#~ "Termine mit Bezug zum Privatleben."
+
+#~ msgid "Regular meetings"
+#~ msgstr "Regelmäßige Meetings"
+
+#~ msgid ""
+#~ "Appointments that take place on a regular basis, such as weekly schedules "
+#~ "or monthly reports,\n"
+#~ "                    or birthdays"
+#~ msgstr ""
+#~ "Termine, die regelmässig stattfinden, wie z.B. wöchentliche Meetings oder "
+#~ "monatliche Berichte.\n"
+#~ "                    Geburtstage (Birthdays)"
+
+#~ msgid ""
+#~ "Holidays, Travel, vacation days. All dates where you are not available, "
+#~ "such as vacation or business trips."
+#~ msgstr ""
+#~ "Feiertage, Reisen, Urlaubstage. Alle Termine, an denen Sie nicht "
+#~ "verfügbar sind, wie z. B. Urlaub oder Geschäftsreisen."
+
+#~ msgid "Deadlines Finance"
+#~ msgstr "Fristen Finanzen"
+
+#~ msgid ""
+#~ "Deadlines to be met, such as submission of offers or applications.\n"
+#~ "                If you are in charge of your business, you should have a "
+#~ "finance section where you set reminder for  expenses, and budgets."
+#~ msgstr ""
+#~ "Zu beachtende Fristen, wie z.B. Abgabe von Angeboten oder Bewerbungen.\n"
+#~ "                Wenn Sie für Ihr Unternehmen verantwortlich sind, sollten "
+#~ "Sie einen Finanzbereich haben, in dem Sie Erinnerungen für Ausgaben und "
+#~ "Budgets festlegen können."
+
+#~ msgid "Important Reminder. Priority List"
+#~ msgstr "Prioritätenliste für wichtige Erinnerungen"
+
+#~ msgid ""
+#~ "Important Tasks or Schedules.\n"
+#~ "                 Use it for To-Do-Lists: All important notes and priority "
+#~ "tasks."
+#~ msgstr ""
+#~ "Wichtige Aufgaben oder Zeitpläne.\n"
+#~ "                 Verwenden Sie es für To-Do-Listen: Alle wichtigen "
+#~ "Notizen und Prioritätsaufgaben."
+
+#~ msgid "Inspirations or just Notes"
+#~ msgstr "Inspirationen (Inspirations) Notizen"
+
+#~ msgid "Inspirations  (Books)  (Movies)  (Health)  (Nutrition)  (Fitness)..."
+#~ msgstr ""
+#~ "Inspirationen (Inspirations) B&uuml;cher (Books) Filme (Movies) "
+#~ "Gesundheit (Health) Ern&auml;hrung (Nutrition) Fitness (Fitness)..."
+
+#~ msgid "New or to Review"
+#~ msgstr "Neu oder zu überprüfen"
+
+#~ msgid "Marking new entries, or those who need review."
+#~ msgstr ""
+#~ "Markieren von neuen Einträgen oder solchen, die überprüft werden müssen."
+
+#~ msgid " is shown. Want to edit?:"
+#~ msgstr " wird gezeigt. Bearbeiten?:"
+
+#~ msgid "Titel"
+#~ msgstr "Titel"
+
+#~ msgid "Content"
+#~ msgstr "Inhalt"
+
+#~ msgid "PRO:"
+#~ msgstr "PRO:"
+
+#~ msgid "Calendar test entries:"
+#~ msgstr "Kalender Testeinträge:"
+
+#~ msgid ""
+#~ "Would you like to test the calendar? Here you can enter test data in the "
+#~ "calendar with one click:"
+#~ msgstr ""
+#~ "Möchten Sie den Kalender testen? Hier können Sie mit einem Klick "
+#~ "Testdaten in den Kalender eintragen:"
+
+#~ msgid "PRO: Administrate users who can create calendar entrys."
+#~ msgstr "PRO: Verwalten Sie Benutzer, die Termine erstellen können."
+
+#~ msgid "PRO: Make a backup copy of your important Schedules here."
+#~ msgstr ""
+#~ "PRO: Erstellen Sie hier eine Sicherungskopie Ihrer wichtigen Termine."
+
+#~ msgid ""
+#~ "Open the calendar page with following link, click on a free space and "
+#~ "input the details of your first calendar entry in the form which opens"
+#~ msgstr ""
+#~ "Öffnen Sie die Kalenderseite mit folgendem Link, klicken Sie auf ein "
+#~ "freies Feld und geben Sie die Details Ihres ersten Kalendereintrags in "
+#~ "das sich öffnende Formular ein"
+
+#~ msgid ""
+#~ "After installation, check if the calendar shows correctly with your "
+#~ "wordpress template. The calendar likes to display full width and height. "
+#~ "Some templates need you to deactivate header or footer. Check the list "
+#~ "below, Help and FAQ, or use the contact form to let us know if the "
+#~ "calendar does not show well with your template"
+#~ msgstr ""
+#~ "Überprüfen Sie nach der Installation, ob der Kalender mit Ihrem WordPress-"
+#~ "Template korrekt in der vollen Breite und Höhe angezeigt wird. Bei "
+#~ "einigen Templates müssen Sie die Kopf- oder Fußzeile deaktivieren. "
+#~ "Schauen Sie in der Hilfe und in den FAQ nach oder verwenden Sie das "
+#~ "Kontaktformular, um uns mitzuteilen, wenn der Kalender mit Ihrem Template "
+#~ "nicht gut angezeigt wird"
+
+#~ msgid ""
+#~ " On the my easy Termin-Kalender calendar website you will find detailed "
+#~ "instructions and help."
+#~ msgstr ""
+#~ " Auf der Website des Terminkalenders finden Sie eine ausführliche "
+#~ "Anleitung und Hilfestellung."
+
+#~ msgid ""
+#~ "PRO: Set the Standard Duration for recurring calendar entries. Single DAY "
+#~ "entries show from start to end HOUR. Multi-day entries show as ALL DAY "
+#~ "entries. Recurring events show at every occurence DAY at the START HOUR "
+#~ "you set in the calendar and for the STANDARD HOURS lenght you set here. "
+#~ msgstr ""
+#~ "PRO: Legen Sie die Standarddauer für wiederkehrende Kalendereinträge "
+#~ "fest. Einzelne TAGES-Einträge werden von Anfang bis Ende der Stunde "
+#~ "angezeigt. Mehrtägige Einträge werden als GANZTAGESEINTRÄGE angezeigt. "
+#~ "Wiederkehrende Ereignisse werden an jedem TAG zu der STARTSTUNDE "
+#~ "angezeigt, die Sie im Kalender festgelegt haben, und für die STANDARD-"
+#~ "DAUER, die Sie hier festlegen. "
+
+#~ msgid ""
+#~ "If you add the Reservation Form Block you will find this options: Add "
+#~ "your email address to receive a copy of requests."
+#~ msgstr ""
+#~ "Wenn Sie den Block für das Reservierungsformular hinzufügen, finden Sie "
+#~ "diese Optionen: Fügen Sie Ihre E-Mail-Adresse hinzu, um eine Kopie der "
+#~ "Anfragen zu erhalten."
+
+#~ msgid ""
+#~ "Then choose the category for the requests for this reservation form "
+#~ "block. All requests will be shown in the calendar with this category "
+#~ "label."
+#~ msgstr ""
+#~ "Wählen Sie dann die Kategorie für die Anfragen für diesen "
+#~ "Reservierungsformularblock aus. Alle Anfragen werden im Kalender mit "
+#~ "dieser Kategoriebezeichnung angezeigt."
+
+#~ msgid ""
+#~ "Add the Event List Gutenberg Block. (A new field with name list_image "
+#~ "will be created for your forms)."
+#~ msgstr ""
+#~ "Fügen Sie den Gutenberg-Block der Ereignisliste hinzu. (Für Ihre "
+#~ "Formulare wird ein neues Feld mit dem Namen list_image erstellt.)"
+
+#~ msgid ""
+#~ "Choose the Category that you would like to be shown as List in the "
+#~ "Gutenberg Block editor."
+#~ msgstr ""
+#~ "Wählen Sie die Kategorie aus, die als Liste im Gutenberg-Block-Editor "
+#~ "angezeigt werden soll."
+
+#~ msgid ""
+#~ "To add pictures: Choose a picture in your Wordpress media library and "
+#~ "copy the full URL."
+#~ msgstr ""
+#~ "So fügen Sie Bilder hinzu: Wählen Sie ein Bild in Ihrer Wordpress-"
+#~ "Medienbibliothek aus und kopieren Sie die vollständige URL."
+
+#~ msgid ""
+#~ "In the Calendar open a entry with the same category that you have choosen "
+#~ "for your list. Paste the picture URL  into the field "
+#~ msgstr ""
+#~ "Öffnen Sie im Kalender einen Eintrag mit der gleichen Kategorie, die Sie "
+#~ "für Ihre Liste ausgewählt haben. Fügen Sie die Bild-URL in das Feld ein "
+
+#~ msgid "Edit Field"
+#~ msgstr "Feld bearbeiten"
+
+#~ msgid "Do you want a multi-line text input field?"
+#~ msgstr "Möchten Sie ein mehrzeiliges Texteingabefeld?"
+
+#~ msgid "You can modify the categories in the Termin-Kalender admin area"
+#~ msgstr "Sie können die Kategorien im Termin-Kalender-Admin-Bereich ändern"
+
+#~ msgid "Edit the categories"
+#~ msgstr "Termin-Kategorien bearbeiten"
+
+#~ msgid "No calendar user logged in"
+#~ msgstr "Kein Kalenderbenutzer angemeldet"
+
+#~ msgid "my easy Termin-Kalender calendar. A frontend scheduler for teams"
+#~ msgstr ""
+#~ "my easy Termin-Kalender calendar.  Ein Frontend-Terminkalender für Teams"
+
+#~ msgid "The easy Termin-Kalender calendar has been successfully installed"
+#~ msgstr "Der my easy Termin-Kalender calendar wurde erfolgreich installiert"
+
+#~ msgid "Close this info and dont show anymore"
+#~ msgstr "Schließen Sie diese Informationen und zeigen Sie sie nicht mehr an"
+
+#~ msgid "The PRO version for my easy Termin-Kalender calendar"
+#~ msgstr "Die PRO Version vom Termin-Kalender"
+
+#~ msgid ""
+#~ "Would you like to take advantage of the advanced features of the "
+#~ "Calendar?\n"
+#~ "Get it now. Just click below."
+#~ msgstr ""
+#~ "Möchten Sie die erweiterten Funktionen des Kalenders nutzen?\n"
+#~ "Holen Sie sich jetzt. die PRO Version. Klicken Sie einfach unten."
+
+#~ msgid "With the PRO version you will get these features:"
+#~ msgstr "Mit der PRO-Version erhalten Sie diese Funktionen:"
+
+#~ msgid ""
+#~ "Customize the sections (categories) of your calendar.\n"
+#~ "Are you planning assignments for different employees? Then enter the "
+#~ "employee name as an area,\n"
+#~ "with its own color and icon. Or do you rent out cars?\n"
+#~ "Then enter an area, color and icon for each vehicle.\n"
+#~ "The calendar is very easy to customize for any kind or application."
+#~ msgstr ""
+#~ "Passen Sie die Bereiche  (Kategorien) Ihres Kalenders an.\n"
+#~ "Planen Sie Einsätze für verschiedene Mitarbeiter? Geben Sie dann den "
+#~ "Namen des Mitarbeiters als Bereich ein,\n"
+#~ "mit eigener Farbe und eigenem Symbol. Oder vermieten Sie Autos?\n"
+#~ "Geben Sie dann für jedes Fahrzeug einen Bereich, eine Farbe und ein "
+#~ "Symbol ein.\n"
+#~ "Der Kalender lässt sich sehr einfach an jede Anwendung anpassen."
+
+#~ msgid ""
+#~ "Would you like additional entries in the calendar ?\n"
+#~ "Phone number or address.\n"
+#~ "Or for the mileage of your rental cars.\n"
+#~ "You can add as many fields or text areas as you want to the calendar form."
+#~ msgstr ""
+#~ "Wünschen Sie zusätzliche Einträge im Kalendereintrag? Auch das ist kein "
+#~ "Problem.\n"
+#~ "Z.B. für den Termin des nächsten Urlaubs Ihrer Mitarbeiter.\n"
+#~ "Oder für die Laufleistung ihres Mietfahrzeugs.\n"
+#~ "Sie können in der Terminvorlage so viele Felder oder Textbereiche "
+#~ "hinzufügen, wie Sie möchten."
+
+#~ msgid ""
+#~ "Simple user management for the schedule calendar.\n"
+#~ "Select a user who is registered in your WordPress and give him edit or -"
+#~ "edit and delete- rights for the  calendar."
+#~ msgstr ""
+#~ "Einfache Benutzerverwaltung für den Terminkalender.\n"
+#~ "Wählen Sie einen Benutzer aus, der in Ihrem WordPress registriert ist, "
+#~ "und geben Sie ihm Bearbeitungs- oder Bearbeitungs- und Löschrechte für "
+#~ "den Terminkalender."
+
+#~ msgid ""
+#~ "With the purchase of the Pro version you support the further "
+#~ "development.\n"
+#~ "Can we improve? Let us know what new features you would like to see."
+#~ msgstr ""
+#~ "Mit dem Kauf der Pro-Version unterstützen Sie die Weiterentwicklung.\n"
+#~ "Lassen Sie uns wissen, welche neuen Funktionen Sie sich wünschen."
+
+#~ msgid ""
+#~ "TIPP: The labels and colors of the free version does not fit you? Just "
+#~ "activate PRO for one month and you can configure everything as you wish. "
+#~ "After expiry of your PRO, all settings will remain, but you cant change "
+#~ "them anymore."
+#~ msgstr ""
+#~ "TIPP: Die Beschriftungen und Farben der kostenlosen Version passen nicht "
+#~ "zu Ihnen? Aktivieren Sie PRO einfach für einen Monat und Sie können alles "
+#~ "nach Ihren Wünschen konfigurieren. Nach Ablauf Ihres PRO bleiben alle "
+#~ "Einstellungen erhalten, aber Sie können sie nicht mehr ändern."
+
+#~ msgid "All Categories"
+#~ msgstr "Alle Kategorien"
+
+#~ msgid "Termin-Kalender Reservation Form"
+#~ msgstr "Termin-Kalender Reservierungsformular"
+
+#~ msgid ""
+#~ "Termin-Kalender Reservation request Form: A block to show a reservation "
+#~ "requests form"
+#~ msgstr ""
+#~ "Termin-Kalender Reservierungsanfrageformular: Ein Block zum Anzeigen "
+#~ "eines Reservierungsanfrageformulars"
+
+#~ msgid ""
+#~ "Termin-Kalender Request Form: Choose the category where requests should "
+#~ "be placed in the calendar. Add a email address to receive copies of the "
+#~ "request. Add your message about what can be reservated and the "
+#~ "information you expect before this block"
+#~ msgstr ""
+#~ "Termin-Kalender-Anfrageformular: Wählen Sie die Kategorie aus, in der "
+#~ "Anfragen im Kalender platziert werden sollen. Fügen Sie eine E-Mail-"
+#~ "Adresse hinzu, um Kopien der Anfrage zu erhalten. Fügen Sie Ihre "
+#~ "Nachricht darüber hinzu, was reserviert werden kann und welche "
+#~ "Informationen Sie vor diesem Block erwarten"
+
+#~ msgid "Send email copy to:"
+#~ msgstr "Senden Sie eine E-Mail-Kopie an:"
+
+#~ msgid "Please enter a valid email address."
+#~ msgstr "Bitte geben Sie eine gültige E-Mail-Adresse ein."
+
+#~ msgid "Reservation Request"
+#~ msgstr "Reservierungsanfrage"
+
+#~ msgid ""
+#~ "Email address where you would like to receive a copy of reservation "
+#~ "requests. If you use the Termin-Kalender Reservation Form"
+#~ msgstr ""
+#~ "E-Mail-Adresse, an die Sie eine Kopie der Reservierungsanfragen erhalten "
+#~ "möchten. Wenn Sie das Termin-Kalender-Reservierungsformular verwenden"
+
+#~ msgid ""
+#~ "PRO: Choose the category for the appointment or reservation requests. You "
+#~ "will find all reservation requests labeled with this category in the "
+#~ "calendar. And can then edit them as needed"
+#~ msgstr ""
+#~ "PRO: Wählen Sie die Kategorie für die Termin- oder Reservierungsanfragen. "
+#~ "Im Kalender finden Sie dann alle Reservierungsanfragen mit dieser "
+#~ "Kategorie gekennzeichnet. Und kann sie dann nach Bedarf bearbeiten zu "
+#~ "können"
+
+#~ msgid "Reservation or Appointment Category"
+#~ msgstr "Reservierungs- oder Terminkategorie"
+
+#~ msgid ""
+#~ "Termin-Kalender Reservation Form: Add to request a reservation. This "
+#~ "block can be used with other blocks on one page. Not like the calendar "
+#~ "who need full page display. Add your message about what can be reservated "
+#~ "and the information you expect before this block"
+#~ msgstr ""
+#~ "Termin-Kalender Reservierungsformular: Hinzufügen, um eine Reservierung "
+#~ "anzufordern. Dieser Block kann mit anderen Blöcken auf einer Seite "
+#~ "verwendet werden. Nicht wie der Kalender, der eine ganzseitige Anzeige "
+#~ "benötigt. Fügen Sie Ihre Nachricht darüber hinzu, was reserviert werden "
+#~ "kann und welche Informationen Sie im Formular erwarten"
+
+#~ msgid "This picture will then be shown in your Event List."
+#~ msgstr "Dieses Bild wird dann in Ihrer Event-Liste angezeigt."
+
+#~ msgid ""
+#~ "PRO: choose the category to be shown in your Termin-Kalender Event list "
+#~ "block. "
+#~ msgstr ""
+#~ "PRO: Wählen Sie die Kategorie aus, die in Ihrem Termin-Kalender angezeigt "
+#~ "werden soll. "
+
+#~ msgid "Category for Event list Block"
+#~ msgstr "Kategorie für Ereignislisten Block"
+
+#~ msgid "PRO: Here you can add your own form fields."
+#~ msgstr "PRO: Hier können Sie Ihre eigenen Terminfelder hinzufügen."
+
+#~ msgid "Date FROM and UNTIL"
+#~ msgstr "Datum VON und BIS"
+
+#~ msgid "You can add your own fields here:"
+#~ msgstr "Sie können hier Ihre eigenen Felder zu diesen Feldern hinzufügen:"
+
+#~ msgid ""
+#~ "You can also adapt the calendar categories to your needs (name, color and "
+#~ "icon), which helps with the schedules overview."
+#~ msgstr ""
+#~ "Sie können auch die Terminkategorien an Ihre Bedürfnisse anpassen (Name, "
+#~ "Farbe und Symbol), was bei der Terminübersicht hilft."
+
+#~ msgid "New field"
+#~ msgstr "Neues Feld"
+
+#~ msgid "Enter the name of the new field for your calendar form."
+#~ msgstr ""
+#~ "Geben Sie den Namen des neuen Feldes ein, das Sie Ihrem Terminformular "
+#~ "hinzufügen möchten."
+
+#~ msgid "My new field:"
+#~ msgstr "Mein neues Feld:"
+
+#~ msgid "Select field type:"
+#~ msgstr "Wählen Sie den Feldtyp aus:"
+
+#~ msgid "Text"
+#~ msgstr "Text"
+
+#~ msgid "Add a field"
+#~ msgstr "Feld hinzufügen"
+
+#~ msgid "Done! Your field was created"
+#~ msgstr "Fertig! Ihr Feld wurde erstellt"
+
+#~ msgid "DO NOT display this field in forms"
+#~ msgstr "Zeigen Sie dieses Feld NICHT in Formularen an"
+
+#~ msgid "Re-enable the hidden field:"
+#~ msgstr "Aktivieren Sie das ausgeblendete Feld erneut:"
+
+#~ msgid ""
+#~ "Have you accidentally deactivated one of your fields, or would you like "
+#~ "to view old data again?"
+#~ msgstr ""
+#~ "Haben Sie versehentlich ein zusätzliches Feld deaktiviert oder möchten "
+#~ "Sie alte Daten noch einmal einsehen?"
+
+#~ msgid "Here you can re-enable the hidden fields."
+#~ msgstr "Hier können Sie die ausgeblendeten Felder wieder aktivieren."
+
+#~ msgid "Show this field"
+#~ msgstr "Dieses Feld wieder  anzeigen"
+
+#~ msgid "To rename the field:"
+#~ msgstr "Feld umbenennen:"
+
+#~ msgid "No additional fields found"
+#~ msgstr "Keine zusätzlichen Felder gefunden"
+
+#~ msgid "Select a field to change"
+#~ msgstr "Wählen Sie ein Feld aus, das geändert werden soll"
+
+#~ msgid "Rename field"
+#~ msgstr "Feld umbenennen"
+
+#~ msgid "Delete fields"
+#~ msgstr "Felder löschen"
+
+#~ msgid "delete from the database!"
+#~ msgstr "aus der Datenbank löschen!"
+
+#~ msgid "PRO: Set the Standard Duration for recurring calendar entries"
+#~ msgstr ""
+#~ "PRO: Festlegen der Standarddauer für wiederkehrende Kalendereinträge"
+
+#~ msgid "Hide Field"
+#~ msgstr "Feld ausblenden"
+
+#~ msgid "No fields found with feld_basis = 0"
+#~ msgstr "Keine Felder mit feld_basis = 0 gefunden"
+
+#~ msgid ""
+#~ "The frontend scheduler for teams, private or business:\n"
+#~ "        After install, the calendar contains some sample data, click to "
+#~ "open.\n"
+#~ "        To add a schedule, click on any free space at the date you like "
+#~ "and add your entry.\n"
+#~ "        If you have the right to do so, you will get the entry form to "
+#~ "add your schedule.\n"
+#~ "        In the admin backend (again, if you have the rights) open the "
+#~ "easy Termin-Kalender menu\n"
+#~ "        to find the options you are allowed to setup, in the PRO version: "
+#~ "The calendar areas, form fields\n"
+#~ "        and calendar users allowed to add and edit entrys as also a "
+#~ "backup function will be found.\n"
+#~ "        For loged in users in the free version the help page is "
+#~ "accessible, find the direct link here below.\n"
+#~ "        Not Logged in? Find infos and help for the calendar:"
+#~ msgstr ""
+#~ "Der Frontend-Terminplan für Teams, privat oder geschäftlich:\n"
+#~ "        Nach der Installation enthält der Kalender einige Beispieldaten, "
+#~ "klicken Sie darauf, um sie zu öffnen.\n"
+#~ "        Um einen Termin hinzuzufügen, klicken Sie auf einen beliebigen "
+#~ "freien Bereich an dem gewünschten Datum und fügen Sie Ihren Eintrag "
+#~ "hinzu.\n"
+#~ "        Wenn Sie dazu berechtigt sind, sehen Sie das Formular, um Ihren "
+#~ "Zeitplan hinzuzufügen.\n"
+#~ "        Öffnen Sie im Admin-Backend (wenn Sie die Rechte dazu haben) das "
+#~ "easy Termin-Kalender-Menü\n"
+#~ "        , um die Optionen zu finden, die Sie in der PRO-Version "
+#~ "einrichten dürfen: Die Kalenderbereiche, Formularfelder\n"
+#~ "        und Kalenderbenutzer, die Einträge hinzufügen und bearbeiten "
+#~ "dürfen, sowie eine Backup-Funktion.\n"
+#~ "        Für angemeldete Benutzer in der kostenlosen Version ist die "
+#~ "Hilfeseite zugänglich, den direkten Link finden Sie hier unten.\n"
+#~ "        Nur zu Besuch? Infos zum Kalender finden Sie unter:"
+
+#~ msgid "Help & FAQ"
+#~ msgstr "Hilfe & FAQ"
+
+#~ msgid ""
+#~ "On the first page of the easy Termin-Kalender admin menu you can create a "
+#~ "new page to show the calendar with some demo events:"
+#~ msgstr ""
+#~ "Auf der ersten Seite des Termin-Kalender-Admin-Menüs können Sie eine neue "
+#~ "Seite erstellen, um den Kalender mit einigen Demo-Terminen zu erstellen:"
+
+#~ msgid ""
+#~ "You can also delete this page and paste this code into the shortcode "
+#~ "Gutenberg block. To display the calendar wherever you like:"
+#~ msgstr ""
+#~ "Sie können diese Seite auch löschen und diesen Code in den Shortcode-"
+#~ "Gutenberg-Block einfügen. So zeigen Sie den Kalender an einer beliebigen "
+#~ "Stelle an:"
+
+#~ msgid "Its even easier if you use the Gutenberg appointment calendar block:"
+#~ msgstr ""
+#~ "Noch einfacher ist es, wenn Sie den Gutenberg-Terminkalender-Block "
+#~ "verwenden:"
+
+#~ msgid "New"
+#~ msgstr "Neu"
+
+#~ msgid "Meetings"
+#~ msgstr "Meetings"
+
+#~ msgid "Icons"
+#~ msgstr "Icons"
+
+#~ msgid "Stored"
+#~ msgstr "Gespeichert"
+
+#~ msgid "Lösch Info"
+#~ msgstr "Lösch Info"
+
+#~ msgid "The calendar is already on following page(s):"
+#~ msgstr "Der Kalender befindet sich bereits auf folgender Seite:"
+
+#~ msgid ""
+#~ "Before activating Termin-Kalender PRO version, please, deactivate Free "
+#~ "version. You can't activate it both."
+#~ msgstr ""
+#~ "Bevor Sie die Termin-Kalender PRO-Version installieren, deaktivieren Sie "
+#~ "bitte die kostenlose Version (später deinstallieren). Sie brauchen nicht "
+#~ "beide Versionen. Ihre kostenlosen Kalenderdaten gehen nicht verloren."
+
+#~ msgid "Backup file is downloading"
+#~ msgstr "Backup-Datei wird heruntergeladen"
+
+#~ msgid " No data found for this schedule "
+#~ msgstr " Für diesen Termin wurden keine Daten gefunden "
+
+#~ msgid "Date UNTIL"
+#~ msgstr "Datum BIS"
+
+#~ msgid "Reccure"
+#~ msgstr "Wiederholen"
+
+#~ msgid "Get my easy Termin-Kalender calendar PRO"
+#~ msgstr "Hol Dir den my easy Termin-Kalender calendar PRO"
+
+#~ msgid ""
+#~ "To do this, simply paste this code into the shortcode Gutenberg block:"
+#~ msgstr ""
+#~ "Fügen Sie dazu einfach diesen Code in den Shortcode-Gutenberg-Block ein:"
+
+#~ msgid "City"
+#~ msgstr "Stadt"
+
+#~ msgid "My fields:"
+#~ msgstr "Meine Felder:"
+
+#, fuzzy
+#~| msgid "Additional fields:"
+#~ msgid "All additional fields:"
+#~ msgstr "Zusätzliche Felder:"
+
+#~ msgid "Appointments-calendar"
+#~ msgstr "Terminkalender"
+
+#~ msgid "Appointment Calendar Settings."
+#~ msgstr "Terminkalender-Einstellungen."
+
+#~ msgid "Help & Instruction Manual"
+#~ msgstr "Hilfe & Bedienungsanleitung"
+
+#~ msgid "Appointment Calendar Users"
+#~ msgstr "Benutzer des Terminkalenders"
+
+#~ msgid "Select User"
+#~ msgstr "Benutzer auswählen"
+
+#~ msgid "Erledigt! Das Feld wurde eingetragen"
+#~ msgstr "Erledigt! Das Feld wurde eingetragen"
+
+#~ msgid "Feld deaktivieren:"
+#~ msgstr "Feld deaktivieren:"
+
+#~ msgid "All additional fields show:"
+#~ msgstr "Alle zusätzlichen Felder zeigen:"
+
+#~ msgid "How do I display the calendar on my site?"
+#~ msgstr "Wie zeige ich den Kalender auf meiner Website an?"
+
+#~ msgid ""
+#~ "If you have installed the calendar plug-in and activate it, a new page "
+#~ "will be automatically created and the calendar will be displayed with "
+#~ "some demo events:"
+#~ msgstr ""
+#~ "Wenn Sie das Kalender-Plug-in installiert und aktiviert haben, wird "
+#~ "automatisch eine neue Seite erstellt und der Kalender mit einigen Demo-"
+#~ "Ereignissen angezeigt:"
+
+#~ msgid "Appointment Calendar Website"
+#~ msgstr "Termin-Kalender Website"
+
+#~ msgid "Items"
+#~ msgstr "Artikel"
+
+#~ msgid "Private Appointments Appointments"
+#~ msgstr "Private Termine Termine"
+
+#~ msgid ""
+#~ "Tagging new entries, or a review section can help you reflect on your "
+#~ "performance and identify what you can do better."
+#~ msgstr ""
+#~ "Das Prüfen  neuer Einträge oder eines Bewertungsbereichs kann Ihnen "
+#~ "helfen, Ihre Leistung zu reflektieren und herauszufinden, was Sie besser "
+#~ "machen können."
+
+#~ msgid "Area"
+#~ msgstr "Bereich"
+
+#~ msgid ""
+#~ "The appointment calendar for all your appointments, private or business :"
+#~ msgstr "Der Terminkalender für alle Ihre Termine, privat oder geschäftlich:"
+
+#~ msgid ""
+#~ "This page has been created by the the Wordpress extension Easy "
+#~ "Appointment Calendar for you.\n"
+#~ "                                        Together with sample dates, so "
+#~ "that you can quickly and easily get a first impression of the "
+#~ "possibilities of the calendar.\n"
+#~ "                                        To set up the appointment "
+#~ "calendar for you personally, you will find the link to the configuration "
+#~ "page for admins below.\n"
+#~ "                                        You can insert the calendar on "
+#~ "any page.\n"
+#~ "                                        The instructions on how to do "
+#~ "this can be found in the settings below:"
+#~ msgstr ""
+#~ "Diese Seite wurde von der Wordpress-Erweiterung Easy Appointment Calendar "
+#~ "für Sie erstellt.\n"
+#~ "                                        Zusammen mit Beispielterminen, "
+#~ "damit Sie sich schnell und einfach einen ersten Eindruck von den "
+#~ "Möglichkeiten des Kalenders verschaffen können.\n"
+#~ "                                        Um den Terminkalender für Sie "
+#~ "persönlich einzurichten, finden Sie unten den Link zur "
+#~ "Konfigurationsseite für Admins.\n"
+#~ "                                        Sie können den Kalender auf einer "
+#~ "beliebigen Seite einfügen.\n"
+#~ "                                        Die Anleitung dazu finden Sie in "
+#~ "den folgenden Einstellungen:"
+
+#~ msgid "To the appointment calendar settings"
+#~ msgstr "Zu den Terminkalender-Einstellungen"
+
+#~ msgid "Edit appointment"
+#~ msgstr "Terminanfrage bearbeiten"
+
+#~ msgid "Invite Wordpress users to this event"
+#~ msgstr "Mitarbeiter (Wordpress-Benutzer) zu diesem Temin einladen"
+
+#~ msgid "Appointment Calendar Licensed, THANK YOU"
+#~ msgstr "Terminkalender lizenziert, DANKE"
+
+#~ msgid "Buy PRO version"
+#~ msgstr "PRO Version kaufen"
+
+#~ msgid ""
+#~ "Would you like to take advantage of the advanced features of the Terrmin "
+#~ "Calendar?\n"
+#~ "Then buy it now. Click below and you will be redirected to the purchase "
+#~ "page.\n"
+#~ "After the purchase you will receive a license by email.\n"
+#~ "Then enter your license number here on this page to activate it."
+#~ msgstr ""
+#~ "Möchten Sie die erweiterten Funktionen des Terrmin-Kalenders nutzen?\n"
+#~ "Dann kaufen Sie es jetzt. Klicken Sie unten und Sie werden auf die "
+#~ "Kaufseite weitergeleitet.\n"
+#~ "Nach dem Kauf erhalten Sie eine Lizenz per E-Mail.\n"
+#~ "Dann geben Sie hier auf dieser Seite Ihre Lizenznummer ein, um sie zu "
+#~ "aktivieren."
+
+#~ msgid "Appointment Areas:"
+#~ msgstr "Terminbereiche:"
+
+#~ msgid "Appointment Fields:"
+#~ msgstr "Termin-Felder:"
+
+#~ msgid "Calendar users:"
+#~ msgstr "Kalender Benutzer:"
+
+#~ msgid "Backup:"
+#~ msgstr "Backup:"
+
+#~ msgid "Easy Frontend Termin-Kalender"
+#~ msgstr "Easy Frontend Termin-Kalender"
+
+#~ msgid "https://www.facebook.com/beat.kueffer.ph"
+#~ msgstr "https://www.facebook.com/beat.kueffer.ph"
+
+#~ msgid "Termin-Bereiche"
+#~ msgstr "Termin-Bereiche"
+
+#~ msgid "Termin-Felder"
+#~ msgstr "Termin-Felder"
+
+#~ msgid "Kalender-Benutzer"
+#~ msgstr "Kalender-Benutzer"
+
+#~ msgid "Backup & Wiederherstellen"
+#~ msgstr "Backup & Wiederherstellen"
+
+#~ msgid "Hilfe"
+#~ msgstr "Hilfe"
+
+#~ msgid "Kein Admin oder NICHT berechtigter Benutzer"
+#~ msgstr "Kein Admin oder NICHT berechtigter Benutzer"
+
+#~ msgid "Termin Kalender Einstellungen."
+#~ msgstr "Termin Kalender Einstellungen."
+
+#~ msgid "Wie kann ich den Kalender auf einer Seite anzeigen?"
+#~ msgstr "Wie kann ich den Kalender auf einer Seite anzeigen?"
+
+#~ msgid ""
+#~ "F&uuml;gen Sie dazu einfach diesen Code in den Shortcode Gutenberg Block "
+#~ "ein:"
+#~ msgstr ""
+#~ "F&uuml;gen Sie dazu einfach diesen Code in den Shortcode Gutenberg Block "
+#~ "ein:"
+
+#~ msgid ""
+#~ "Klicken Sie hier, um die Termin-Kalender Seite automatisch zu erstellen:"
+#~ msgstr ""
+#~ "Klicken Sie hier, um die Termin-Kalender Seite automatisch zu erstellen:"
+
+#~ msgid "Termin-Kalender Seite erstellen"
+#~ msgstr "Termin-Kalender Seite erstellen"
+
+#~ msgid ""
+#~ "M&ouml;chten Sie den Terminkalender testen? Hier k&ouml;nnen Sie "
+#~ "Testdaten mit einem Klick in den Kalender eintragen:"
+#~ msgstr ""
+#~ "M&ouml;chten Sie den Terminkalender testen? Hier k&ouml;nnen Sie "
+#~ "Testdaten mit einem Klick in den Kalender eintragen:"
+
+#~ msgid "10 Beispieltermine im Kalender eintragen"
+#~ msgstr "10 Beispieltermine im Kalender eintragen"
+
+#~ msgid "Kategorien: Termin-Bereiche"
+#~ msgstr "Kategorien: Termin-Bereiche"
+
+#~ msgid ""
+#~ "MIT LIZENZ: Sie k&ouml;nnen ihre Termine in Bereiche (Kategorien) "
+#~ "einteilen."
+#~ msgstr ""
+#~ "MIT LIZENZ: Sie k&ouml;nnen ihre Termine in Bereiche (Kategorien) "
+#~ "einteilen."
+
+#~ msgid ""
+#~ "MIT LIZENZ: Hier k&ouml;nnen Sie ihre eigenen Termin-Felder hinzuf&uuml;"
+#~ "gen."
+#~ msgstr ""
+#~ "MIT LIZENZ: Hier k&ouml;nnen Sie ihre eigenen Termin-Felder hinzuf&uuml;"
+#~ "gen."
+
+#~ msgid "Kalender Benutzer"
+#~ msgstr "Kalender Benutzer"
+
+#~ msgid "MIT LIZENZ: Benutzer welche Termine erstellen können administrieren."
+#~ msgstr ""
+#~ "MIT LIZENZ: Benutzer welche Termine erstellen können administrieren."
+
+#~ msgid "Backup und Wiederherstellung"
+#~ msgstr "Backup und Wiederherstellung"
+
+#~ msgid ""
+#~ "MIT LIZENZ: Machen Sie hier Sicherheitskopine ihrer wichtigen Termin-"
+#~ "Daten."
+#~ msgstr ""
+#~ "MIT LIZENZ: Machen Sie hier Sicherheitskopine ihrer wichtigen Termin-"
+#~ "Daten."
+
+#~ msgid "Hilfe und Bedienungsanleitung"
+#~ msgstr "Hilfe und Bedienungsanleitung"
+
+#~ msgid "Termine wurden im Kalender eingetragen"
+#~ msgstr "Termine wurden im Kalender eingetragen"
+
+#~ msgid ""
+#~ "Erstellen Sie regelm&auml;ssige Backups ihrer Kalender-Einträge. Aber "
+#~ "besonders, bevor Sie hier im Administrationsbereich Einstellungen &auml;"
+#~ "ndern."
+#~ msgstr ""
+#~ "Erstellen Sie regelm&auml;ssige Backups ihrer Kalender-Einträge. Aber "
+#~ "besonders, bevor Sie hier im Administrationsbereich Einstellungen &auml;"
+#~ "ndern."
+
+#~ msgid "Backup der Kalender-Daten erstellen"
+#~ msgstr "Backup der Kalender-Daten erstellen"
+
+#~ msgid "Meine Daten speichern:"
+#~ msgstr "Meine Daten speichern:"
+
+#~ msgid "Backup-Datei herunterladen"
+#~ msgstr "Backup-Datei herunterladen"
+
+#~ msgid " Datei wählen:"
+#~ msgstr " Datei wählen:"
+
+#~ msgid "Laden Sie das Backup herunter um es lokal zu speichern:"
+#~ msgstr "Laden Sie das Backup herunter um es lokal zu speichern:"
+
+#~ msgid ""
+#~ "Sie finden das Backup danach auf ihrem Computer in ihrem Download "
+#~ "Verzeichnis."
+#~ msgstr ""
+#~ "Sie finden das Backup danach auf ihrem Computer in ihrem Download "
+#~ "Verzeichnis."
+
+#~ msgid "Backup-Datei hochladen"
+#~ msgstr "Backup-Datei hochladen"
+
+#~ msgid "Laden Sie das Backup hoch um es wieder herzustellen"
+#~ msgstr "Laden Sie das Backup hoch um es wieder herzustellen"
+
+#~ msgid ""
+#~ "Sie könnnen eine Backupdatei die Sie von diesem Termin-Kalender "
+#~ "heruntergeladen haben hochladen und dann wieder herstellen. Sie können "
+#~ "mit dieser Funktion auch die Daten von einem Terminakelnder aus einer "
+#~ "Wordpress Installation einfach zu einer anderen verschieben"
+#~ msgstr ""
+#~ "Sie könnnen eine Backupdatei die Sie von diesem Termin-Kalender "
+#~ "heruntergeladen haben hochladen und dann wieder herstellen. Sie können "
+#~ "mit dieser Funktion auch die Date von einem Terminakelnder aus einer "
+#~ "Wordpress Installation einfach zu einer anderen verschieben"
+
+#~ msgid "Kalender-Daten wiederherstellen"
+#~ msgstr "Kalender-Daten wiederherstellen"
+
+#~ msgid "Gespeicherte Daten laden:"
+#~ msgstr "Gespeicherte Daten laden:"
+
+#~ msgid "Daten aus dem Backup wiederherstellen. Vorsicht:"
+#~ msgstr "Daten aus dem Backup wiederherstellen. Vorsicht:"
+
+#~ msgid ""
+#~ "Alle aktuellen Daten gehen verloren und werden mit den Daten aus dem "
+#~ "Backup &uuml;berschrieben. Prüfen Sie die Backup-Datei vor dem hochladen!"
+#~ msgstr ""
+#~ "Alle aktuellen Daten gehen verloren und werden mit den Daten aus dem "
+#~ "Backup &uuml;berschrieben. Prüfen Sie die Backup-Datei vor dem hochladen!"
+
+#~ msgid ""
+#~ " Machen Sie immer ein Backup von den aktuellen Daten, bevor Sie das "
+#~ "Backup wiederherstellen."
+#~ msgstr ""
+#~ " Machen Sie immer ein Backup von den aktuellen Daten, bevor Sie das "
+#~ "Backup wiederherstellen."
+
+#~ msgid "Backup wieder herstellen"
+#~ msgstr "Backup wieder herstellen"
+
+#~ msgid "Daten aus:"
+#~ msgstr "Daten aus:"
+
+#~ msgid "werden wieder hergestellt"
+#~ msgstr "werden wieder hergestellt"
+
+#~ msgid "Backup l&ouml;schen"
+#~ msgstr "Backup l&ouml;schen"
+
+#~ msgid "Alte Backup-Daten l&ouml;schen:"
+#~ msgstr "Alte Backup-Daten l&ouml;schen:"
+
+#~ msgid "Backup wird heruntergeladen"
+#~ msgstr "Backup wird heruntergeladen"
+
+#~ msgid "Termin Kalender Benutzer-Verwaltung."
+#~ msgstr "Termin Kalender Benutzer-Verwaltung."
+
+#~ msgid "Zeige nur folgende Benutzer-Rollen in der Auswahl: "
+#~ msgstr "Zeige nur folgende Benutzer-Rollen in der Auswahl: "
+
+#~ msgid ""
+#~ "Wenn Ihre Benutzer-Liste zu lang ist, können sie hier die Anzeige von "
+#~ "Benutzern deaktivieren. (Zum Beispiel für ihre Abonnenten oder Shop-"
+#~ "Kunden)"
+#~ msgstr ""
+#~ "Wenn Ihre Benutzer-Liste zu lang ist, können sie hier die Anzeige von "
+#~ "Benutzern deaktivieren. (Zum Beispiel für ihre Abonnenten oder Shop-"
+#~ "Kunden)"
+
+#~ msgid "Benutzer-Rechte einstellen für : "
+#~ msgstr "Benutzer-Rechte einstellen für : "
+
+#~ msgid "Benutzer auswählen: "
+#~ msgstr "Benutzer auswählen: "
+
+#~ msgid ""
+#~ "Benutzer-Rechte für den Termin-Kalender: Wählen Sie einen Benutzer um ihn "
+#~ "zu berechtigen, Kalendereinträge machen zu können"
+#~ msgstr ""
+#~ "Benutzer-Rechte für den Termin-Kalender: Wählen Sie einen Benutzer um ihn "
+#~ "zu berechtigen, Kalendereinträge machen zu können"
+
+#~ msgid "Benutzer auswählen"
+#~ msgstr "Benutzer auswählen"
+
+#~ msgid "Benutzer welche Termine erfassen und bearbeiten können: "
+#~ msgstr "Benutzer welche Termine erfassen und bearbeiten können: "
+
+#~ msgid "Kategorien Termin-Bereiche"
+#~ msgstr "Kategorien Termin-Bereiche"
+
+#~ msgid ""
+#~ "Hier k&ouml;nnen Sie Ihre wichtigsten und h&auml;ufigsten Kategorien "
+#~ "f&uuml;r den  Terminkalender einstellen:"
+#~ msgstr ""
+#~ "Hier k&ouml;nnen Sie Ihre wichtigsten und h&auml;ufigsten Kategorien "
+#~ "f&uuml;r den  Terminkalender einstellen:"
+
+#~ msgid ""
+#~ "Sie finden hier Vorschl&auml;ge, welche Sie individuell anpassen k&ouml;"
+#~ "nnen."
+#~ msgstr ""
+#~ "Sie finden hier Vorschl&auml;ge, welche Sie individuell anpassen k&ouml;"
+#~ "nnen."
+
+#~ msgid "Hintergrundfarbe:"
+#~ msgstr "Hintergrundfarbe:"
+
+#~ msgid "Textfarbe:"
+#~ msgstr "Textfarbe:"
+
+#~ msgid "Speichern"
+#~ msgstr "Speichern"
+
+#~ msgid "Gespeichert"
+#~ msgstr "Gespeichert"
+
+#~ msgid ""
+#~ "Ein Bereich, in dem Sie weitere Informationen zu Terminen hinzuf&uuml;gen "
+#~ "k&ouml;nnen, wie z.B. Adressen oder Telefonnummern."
+#~ msgstr ""
+#~ "Ein Bereich, in dem Sie weitere Informationen zu Terminen hinzuf&uuml;gen "
+#~ "k&ouml;nnen, wie z.B. Adressen oder Telefonnummern."
+
+#~ msgid "Das sind die Standardfelder des Kalenders:"
+#~ msgstr "Das sind die Standardfelder des Kalenders:"
+
+#~ msgid "Datum AB und BIS"
+#~ msgstr "Datum AB und BIS"
+
+#~ msgid "Beschreibung"
+#~ msgstr "Beschreibung"
+
+#~ msgid "Ort"
+#~ msgstr "Ort"
+
+#~ msgid "Teilnehmer"
+#~ msgstr "Teilnehmer"
+
+#~ msgid "Notizen"
+#~ msgstr "Notizen"
+
+#~ msgid ""
+#~ "Diese Felder k&ouml;nnen Sie hier mit ihren eigenen Feldern erg&auml;nzen:"
+#~ msgstr ""
+#~ "Diese Felder k&ouml;nnen Sie hier mit ihren eigenen Feldern erg&auml;nzen:"
+
+#~ msgid "TIPP:"
+#~ msgstr "TIPP:"
+
+#~ msgid ""
+#~ "Erstellen Sie nicht zuviele Felder, sonst werden Ihre Kalendereintr&auml;"
+#~ "ge un&uuml;bersichtlich."
+#~ msgstr ""
+#~ "Erstellen Sie nicht zuviele Felder, sonst werden Ihre Kalendereintr&auml;"
+#~ "ge un&uuml;bersichtlich."
+
+#~ msgid ""
+#~ "In den allermeisten Anwendungsf&auml;llen reichen die Standardfelder."
+#~ msgstr ""
+#~ "In den allermeisten Anwendungsf&auml;llen reichen die Standardfelder."
+
+#~ msgid ""
+#~ "Passen Sie auch die Termin-Kategorien ihren Bed&uuml;rfnissen an (Namen, "
+#~ "Farbe und Icon), das hilft bei der Termin-&Uuml;bersicht."
+#~ msgstr ""
+#~ "Passen Sie auch die Termin-Kategorien ihren Bed&uuml;rfnissen an (Namen, "
+#~ "Farbe und Icon), das hilft bei der Termin-&Uuml;bersicht."
+
+#~ msgid "Neues Feld"
+#~ msgstr "Neues Feld"
+
+#~ msgid ""
+#~ "Tragen Sie hier den Namen des neuen Feldes ein, dass Sie zu ihrem "
+#~ "Terminformular hinzuf&uuml;gen m&ouml;chten."
+#~ msgstr ""
+#~ "Tragen Sie hier den Namen des neuen Feldes ein, dass Sie zu ihrem "
+#~ "Terminformular hinzuf&uuml;gen m&ouml;chten."
+
+#~ msgid "M&ouml;chten Sie ein mehrzeiliges Texteingabe-Feld?"
+#~ msgstr "M&ouml;chten Sie ein mehrzeiliges Texteingabe-Feld?"
+
+#~ msgid "Feldart wählen:"
+#~ msgstr "Feldart wählen:"
+
+#~ msgid "Mehrzeiliges Text-Eingabefeld"
+#~ msgstr "Mehrzeiliges Text-Eingabefeld"
+
+#~ msgid "Feld hinzuf&uuml;gen"
+#~ msgstr "Feld hinzuf&uuml;gen"
+
+#~ msgid ""
+#~ "Hier k&ouml;nnen Sie ihre Felder f&uuml;r den Termin-Kalender "
+#~ "deaktivieren."
+#~ msgstr ""
+#~ "Hier k&ouml;nnen Sie ihre Felder f&uuml;r den Termin-Kalender "
+#~ "deaktivieren."
+
+#~ msgid ""
+#~ "Die Felder werden dabei nicht gel&ouml;scht, damit nicht versehentlich "
+#~ "Daten verloren gehen."
+#~ msgstr ""
+#~ "Die Felder werden dabei nicht gel&ouml;scht, damit nicht versehentlich "
+#~ "Daten verloren gehen."
+
+#~ msgid "Dieses Feld in Formularen NICHT anzeigen"
+#~ msgstr "Dieses Feld in Formularen NICHT anzeigen"
+
+#~ msgid "Pers&ouml;nliches Feld wieder aktivieren:"
+#~ msgstr "Pers&ouml;nliches Feld wieder aktivieren:"
+
+#~ msgid ""
+#~ "Haben Sie ein Zusatz-Feld versehentlich deaktiviert, oder m&ouml;chten "
+#~ "alte Daten wieder einsehen."
+#~ msgstr ""
+#~ "Haben Sie ein Zusatz-Feld versehentlich deaktiviert, oder m&ouml;chten "
+#~ "alte Daten wieder einsehen."
+
+#~ msgid "Hier k&ouml;nnen Sie die versteckten Felder wieder aktivieren."
+#~ msgstr "Hier k&ouml;nnen Sie die versteckten Felder wieder aktivieren."
+
+#~ msgid "Dieses Feld  wieder anzeigen"
+#~ msgstr "Dieses Feld  wieder anzeigen"
+
+#~ msgid "Feld umbenennen:"
+#~ msgstr "Feld umbenennen:"
+
+#~ msgid "Keine Zusatzfelder gefunden"
+#~ msgstr "Keine Zusatzfelder gefunden"
+
+#~ msgid "Feld zum &auml;ndern ausw&auml;hlen"
+#~ msgstr "Feld zum &auml;ndern ausw&auml;hlen"
+
+#~ msgid "Feld umbenennen"
+#~ msgstr "Feld umbenennen"
+
+#~ msgid "Meine Felder:"
+#~ msgstr "Meine Felder:"
+
+#~ msgid "Alle Zusatz-Felder zeigen:"
+#~ msgstr "Alle Zusatz-Felder zeigen:"
+
+#~ msgid ""
+#~ "Wenn Sie hier ein Feld l&ouml;schen, wird es komplett aus der Datebank "
+#~ "gel&ouml;scht."
+#~ msgstr ""
+#~ "Wenn Sie hier ein Feld l&ouml;schen, wird es komplett aus der Datebank "
+#~ "gel&ouml;scht."
+
+#~ msgid "aus der Datenbank l&ouml;schen!"
+#~ msgstr "aus der Datenbank l&ouml;schen!"
+
+#~ msgid "Wie kann ich den Kalender auf meiner Seite anzeigen?"
+#~ msgstr "Wie kann ich den Kalender auf meiner Seite anzeigen?"
+
+#~ msgid ""
+#~ "Wenn Sie den Terminkalender im Plug-In Verzeichnis installiert haben und "
+#~ "das Plugin aktivieren wird automatisch eine neue Seite erstellt und der "
+#~ "Terminkalender wird mit einigen Demo-Terminen angezeigt:"
+#~ msgstr ""
+#~ "Wenn Sie den Terminkalender im Plug-In Verzeichnis installiert haben und "
+#~ "das Plugin aktivieren wird automatisch eine neue Seite erstellt und der "
+#~ "Terminkalender wird mit einigen Demo-Terminen angezeigt:"
+
+#~ msgid ""
+#~ "Sie k&ouml;nnen diese Seite auch l&ouml;schen und diesen Code in den "
+#~ "Shortcode Gutenberg Block einf&uuml;gen:"
+#~ msgstr ""
+#~ "Sie k&ouml;nnen diese Seite auch l&ouml;schen und diesen Code in den "
+#~ "Shortcode Gutenberg Block einf&uuml;gen:"
+
+#~ msgid ""
+#~ "Noch einfacher geht es, wenn sie den Gutenberg Termin-Kalender Block "
+#~ "verwenden:"
+#~ msgstr ""
+#~ "Noch einfacher geht es, wenn sie den Gutenberg Termin-Kalender Block "
+#~ "verwenden:"
+
+#~ msgid ""
+#~ " Auf der Termin-Kalender Website finden sie ausführliche Anleitungen und "
+#~ "Hilfe."
+#~ msgstr ""
+#~ " Auf der Termin-Kalender Website finden sie ausführliche Anleitungen und "
+#~ "Hilfe."
+
+#~ msgid ""
+#~ "Termine f&uuml;r Besprechungen, Konferenzen und andere Zusammenk&uuml;"
+#~ "nfte mit Kollegen, Kunden oder anderen Gesch&auml;ftspartnern.\n"
+#~ "                Dieser Abschnitt sollte alle Termine und Meetings f&uuml;"
+#~ "r den Tag enthalten. Tagesplanung (Daily planning) Termine (Appointments) "
+#~ "Besprechungen (meetings) Wochenplan: Ein &Uuml;berblick &uuml;ber die "
+#~ "wichtigsten Aufgaben und\n"
+#~ "                Ereignisse der Woche, um sicherzustellen, dass Sie alles "
+#~ "im Blick haben."
+#~ msgstr ""
+#~ "Termine f&uuml;r Besprechungen, Konferenzen und andere Zusammenk&uuml;"
+#~ "nfte mit Kollegen, Kunden oder anderen Gesch&auml;ftspartnern.\n"
+#~ "                Dieser Abschnitt sollte alle Termine und Meetings f&uuml;"
+#~ "r den Tag enthalten. Tagesplanung (Daily planning) Termine (Appointments) "
+#~ "Besprechungen (meetings) Wochenplan: Ein &Uuml;berblick &uuml;ber die "
+#~ "wichtigsten Aufgaben und\n"
+#~ "                Ereignisse der Woche, um sicherzustellen, dass Sie alles "
+#~ "im Blick haben."
+
+#~ msgid "Aufgaben"
+#~ msgstr "Aufgaben"
+
+#~ msgid ""
+#~ "Termine f&uuml;r Aufgaben, die zu erledigen sind, wie zum Beispiel "
+#~ "Deadlines, Abgabetermine oder wichtige Aufgaben, die erledigt werden "
+#~ "m&uuml;ssen.\n"
+#~ "                Abschnitt f&uuml;r das Projektmanagement, in dem Sie "
+#~ "Meilensteine, Aufgaben und Fortschritte notieren k&ouml;nnen.\n"
+#~ "                Ideen (Ideas) und Brainstorming: Hier k&ouml;nnen Sie "
+#~ "Ideen und Gedanken notieren, die Ihnen w&auml;hrend des Tages in den Sinn "
+#~ "kommen.\n"
+#~ "                Ziele (Goals) Zielsetzung: Ein Abschnitt f&uuml;r "
+#~ "Zielsetzung kann helfen, Ihre\n"
+#~ "                langfristigen Ziele zu definieren und Ihre Fortschritte "
+#~ "auf diese Ziele zu verfolgen."
+#~ msgstr ""
+#~ "Termine f&uuml;r Aufgaben, die zu erledigen sind, wie zum Beispiel "
+#~ "Deadlines, Abgabetermine oder wichtige Aufgaben, die erledigt werden "
+#~ "m&uuml;ssen.\n"
+#~ "                Abschnitt f&uuml;r das Projektmanagement, in dem Sie "
+#~ "Meilensteine, Aufgaben und Fortschritte notieren k&ouml;nnen.\n"
+#~ "                Ideen (Ideas) und Brainstorming: Hier k&ouml;nnen Sie "
+#~ "Ideen und Gedanken notieren, die Ihnen w&auml;hrend des Tages in den Sinn "
+#~ "kommen.\n"
+#~ "                Ziele (Goals) Zielsetzung: Ein Abschnitt f&uuml;r "
+#~ "Zielsetzung kann helfen, Ihre\n"
+#~ "                langfristigen Ziele zu definieren und Ihre Fortschritte "
+#~ "auf diese Ziele zu verfolgen."
+
+#~ msgid ""
+#~ "Termine f&uuml;r Geburtstage, Jubil&auml;en oder andere wichtige  "
+#~ "Ereignisse, wie z.B. Firmenfeiern, Kundenevents oder Konferenzen."
+#~ msgstr ""
+#~ "Termine f&uuml;r Geburtstage, Jubil&auml;en oder andere wichtige  "
+#~ "Ereignisse, wie z.B. Firmenfeiern, Kundenevents oder Konferenzen."
+
+#~ msgid "Private Termine Verabredungen"
+#~ msgstr "Private Termine Verabredungen"
+
+#~ msgid ""
+#~ "Termine f&uuml;r pers&ouml;nliche Verabredungen, wie z.B. "
+#~ "Zahnarztbesuche, Friseurtermine oder andere Termine, die mit dem "
+#~ "Privatleben zu tun haben."
+#~ msgstr ""
+#~ "Termine f&uuml;r pers&ouml;nliche Verabredungen, wie z.B. "
+#~ "Zahnarztbesuche, Friseurtermine oder andere Termine, die mit dem "
+#~ "Privatleben zu tun haben."
+
+#~ msgid "Termin"
+#~ msgstr "Termin"
+
+#~ msgid "Regelm&auml;ssige Termine"
+#~ msgstr "Regelm&auml;ssige Termine"
+
+#~ msgid "Urlaub und Abwesenheiten"
+#~ msgstr "Urlaub und Abwesenheiten"
+
+#~ msgid ""
+#~ "Feiertage (holidays), Reisen (Travel),  Urlaubstage (vacation days).\n"
+#~ "            Alle Termine, an denen Sie nicht verf&uuml;gbar sind, wie z."
+#~ "B. Urlaub oder Gesch&auml;ftsreisen."
+#~ msgstr ""
+#~ "Feiertage (holidays), Reisen (Travel),  Urlaubstage (vacation days).\n"
+#~ "            Alle Termine, an denen Sie nicht verf&uuml;gbar sind, wie z."
+#~ "B. Urlaub oder Gesch&auml;ftsreisen."
+
+#~ msgid "Fristen Finanzen"
+#~ msgstr "Fristen Finanzen"
+
+#~ msgid ""
+#~ "Termine f&uuml;r Fristen, die einzuhalten sind, wie z.B. Abgabe von "
+#~ "Angeboten oder Bewerbungen.\n"
+#~ "                Wenn Sie f&uuml;r Ihr Unternehmen verantwortlich sind, "
+#~ "sollten Sie einen Abschnitt f&uuml;r Finanzen haben, in dem Sie "
+#~ "Einnahmen, Ausgaben und Budgets notieren k&ouml;nnen."
+#~ msgstr ""
+#~ "Termine f&uuml;r Fristen, die einzuhalten sind, wie z.B. Abgabe von "
+#~ "Angeboten oder Bewerbungen.\n"
+#~ "                Wenn Sie f&uuml;r Ihr Unternehmen verantwortlich sind, "
+#~ "sollten Sie einen Abschnitt f&uuml;r Finanzen haben, in dem Sie "
+#~ "Einnahmen, Ausgaben und Budgets notieren k&ouml;nnen."
+
+#~ msgid "Wichtig Reminder"
+#~ msgstr "Wichtig Reminder"
+
+#~ msgid "Wichtig  Reminder Priorit&auml;tenliste"
+#~ msgstr "Wichtig  Reminder Priorit&auml;tenliste"
+
+#~ msgid "Neu oder R&uuml;ckblick"
+#~ msgstr "Neu oder R&uuml;ckblick"
+
+#~ msgid ""
+#~ "Markieren Sie neue Einträge, oder ein Abschnitt f&uuml;r R&uuml;ckblick "
+#~ "kann Ihnen helfen, Ihre Leistung zu reflektieren und zu identifizieren, "
+#~ "was Sie besser machen k&ouml;nnen."
+#~ msgstr ""
+#~ "Markieren Sie neue Einträge, oder ein Abschnitt f&uuml;r R&uuml;ckblick "
+#~ "kann Ihnen helfen, Ihre Leistung zu reflektieren und zu identifizieren, "
+#~ "was Sie besser machen k&ouml;nnen."
+
+#~ msgid "Sie k&ouml;nnen nun ihre eigenen Termine eintragen"
+#~ msgstr "Sie k&ouml;nnen nun ihre eigenen Termine eintragen"
+
+#~ msgid "Bitte w&auml;hlen"
+#~ msgstr "Bitte w&auml;hlen"
+
+#~ msgid "Datum AB"
+#~ msgstr "Datum AB"
+
+#~ msgid "Datum BIS"
+#~ msgstr "Datum BIS"
+
+#~ msgid "Bereich"
+#~ msgstr "Bereich"
+
+#~ msgid "Zusatzfelder:"
+#~ msgstr "Zusatzfelder:"
+
+#~ msgid " Keine Daten für diesen Termin gefunden "
+#~ msgstr " Keine Daten für diesen Termin gefunden "
+
+#~ msgid "Termin AB"
+#~ msgstr "Termin AB"
+
+#~ msgid "Termin BIS"
+#~ msgstr "Termin BIS"
+
+#~ msgid "Wiederholen"
+#~ msgstr "Wiederholen"
+
+#~ msgid "Zusatzfelder"
+#~ msgstr "Zusatzfelder"
+
+#~ msgid ""
+#~ "Der Termin-Kalender für alle Ihre Termine, Privat oder Gesch&auml;ftlich :"
+#~ msgstr ""
+#~ "Der Termin-Kalender für alle Ihre Termine, Privat oder Gesch&auml;ftlich :"
+
+#~ msgid ""
+#~ "Diese Seite hat die Wordpress Erweiterung Easy Termin-Kalender für Sie "
+#~ "erstellt.\n"
+#~ "    Zusammen mit Beispielterminen, damit Sie schnell und einfach einen "
+#~ "ersten Eindruck von den Möglichkeiten des Kalenders erhalten.\n"
+#~ "    Um den Termin-Kalender f&uuml;r Sie pers&ouml;nlich einzurichten, "
+#~ "finden Sie unten den Link zu der Konfigurationsseite für Admins.\n"
+#~ "    Den Kalender k&ouml;nnen Sie auf jeder beliebigen Seite einf&uuml;"
+#~ "gen.\n"
+#~ "    Die Anleitung dazu finden Sie in den Einstellungen unten:"
+#~ msgstr ""
+#~ "Diese Seite hat die Wordpress Erweiterung Easy Termin-Kalender für Sie "
+#~ "erstellt.\n"
+#~ "                                        Zusammen mit Beispielterminen, "
+#~ "damit Sie schnell und einfach einen ersten Eindruck von den Möglichkeiten "
+#~ "des Kalenders erhalten.\n"
+#~ "                                        Um den Termin-Kalender f&uuml;r "
+#~ "Sie pers&ouml;nlich einzurichten, finden Sie unten den Link zu der "
+#~ "Konfigurationsseite für Admins.\n"
+#~ "                                        Den Kalender k&ouml;nnen Sie auf "
+#~ "jeder beliebigen Seite einf&uuml;gen.\n"
+#~ "                                        Die Anleitung dazu finden Sie in "
+#~ "den Einstellungen unten:"
+
+#~ msgid "Zu den Termin-Kalender Einstellungen"
+#~ msgstr "Zu den Termin-Kalender Einstellungen"
+
+#~ msgid "Schliessen"
+#~ msgstr "Schliessen"
+
+#~ msgid "Termin bearbeiten"
+#~ msgstr "Termin bearbeiten"
+
+#~ msgid "Aktualisieren"
+#~ msgstr "Aktualisieren"
+
+#~ msgid "Keine Benutzer-Rechte um Termine zu speichern oder zu bearbeiten"
+#~ msgstr "Keine Benutzer-Rechte um Termine zu speichern oder zu bearbeiten"
+
+#~ msgid "L&ouml;schen"
+#~ msgstr "L&ouml;schen"
+
+#~ msgid "Keine Benutzer-Rechte um Termine zu löschen"
+#~ msgstr "Keine Benutzer-Rechte um Termine zu löschen"
+
+#~ msgid "Abbrechen"
+#~ msgstr "Abbrechen"
+
+#~ msgid "End-Datum bitte nach Start-Datum"
+#~ msgstr "End-Datum bitte nach Start-Datum"
+
+#~ msgid "Start-Datum bitte vor End-Datum"
+#~ msgstr "Start-Datum bitte vor End-Datum"
+
+#~ msgid "Teilnehmer auswählen: "
+#~ msgstr "Teilnehmer auswählen: "
+
+#~ msgid "hinzufügen"
+#~ msgstr "hinzufügen"
+
+#~ msgid "entfernen"
+#~ msgstr "entfernen"
+
+#~ msgid "Wordpress Benutzer zu diesen Termin einladen"
+#~ msgstr "Wordpress Benutzer zu diesen Termin einladen"
+
+#~ msgid "Wiederholung: "
+#~ msgstr "Wiederholung: "
+
+#~ msgid "Keine"
+#~ msgstr "Keine"
+
+#~ msgid "Wöchentlich "
+#~ msgstr "Wöchentlich "
+
+#~ msgid "Monatlich "
+#~ msgstr "Monatlich "
+
+#~ msgid "Jährlich "
+#~ msgstr "Jährlich "
+
+#~ msgid "Kein Kalender-Benutzer angemeldet"
+#~ msgstr "Kein Kalender-Benutzer angemeldet"
+
+#~ msgid "Aktueller Benutzer"
+#~ msgstr "Aktueller Benutzer"
+
+#~ msgid "Benutzerrechte"
+#~ msgstr "Benutzerrechte"
+
+#~ msgid "Termin-Kalender Lizenz vorhanden, DANKE"
+#~ msgstr "Termin-Kalender Lizenz vorhanden, DANKE"
+
+#~ msgid ""
+#~ "Möchten Sie die erweiterten Funktionen des Terrminkalenders nutzen? \n"
+#~ "Dann kaufen Sie ihn jetzt. Klicken Sie unten und sie werden zur Kaufseite "
+#~ "weitergeleitet.\n"
+#~ "Nach dem Kauf erhalten Sie eine Lizenz per Email.\n"
+#~ "Tragen Sie Ihre Lizenz-Nummer dann hier auf dieser Seite ein, um sie zu "
+#~ "aktivieren."
+#~ msgstr ""
+#~ "Möchten Sie die erweiterten Funktionen des Terrminkalenders nutzen? \n"
+#~ "Dann kaufen Sie ihn jetzt. Klicken Sie unten und sie werden zur Kaufseite "
+#~ "weitergeleitet.\n"
+#~ "Nach dem Kauf erhalten Sie eine Lizenz per Email.\n"
+#~ "Tragen Sie Ihre Lizenz-Nummer dann hier auf dieser Seite ein, um sie zu "
+#~ "aktivieren."
+
+#~ msgid "Mit der PRO Version erhalten Sie diese Funktionen:"
+#~ msgstr "Mit der PRO Version erhalten Sie diese Funktionen:"
+
+#~ msgid "Termin Bereiche:"
+#~ msgstr "Termin Bereiche:"
+
+#~ msgid ""
+#~ "Passen Sie die Bereiche (Kategorien) ihres Kalenders an.\n"
+#~ "Planen Sie Einsätze für verschiedene Mitarbeiter ? Dann Tragen Sie den "
+#~ "Mitarbeiternamen als Bereich ein,\n"
+#~ "mit einer eigenen Farbe und einem Icon. Oder Sie vermieten Autos?\n"
+#~ "Dann tragen Sie für jedes Fahrzeug einen Bereich, Farbe und Icon ein.\n"
+#~ "Der Kalender lässt sich für jede Anwendung sehr einfach anpassen."
+#~ msgstr ""
+#~ "Passen Sie die Bereiche (Kategorien) ihres Kalenders an.\n"
+#~ "Planen Sie Einsätze für verschiedene Mitarbeiter ? Dann Tragen Sie den "
+#~ "Mitarbeiternamen als Bereich ein,\n"
+#~ "mit einer eigenen Farbe und einem Icon. Oder Sie vermieten Autos?\n"
+#~ "Dann tragen Sie für jedes Fahrzeug einen Bereich, Farbe und Icon ein.\n"
+#~ "Der Kalender lässt sich für jede Anwendung sehr einfach anpassen."
+
+#~ msgid "Termin Felder:"
+#~ msgstr "Termin Felder:"
+
+#~ msgid ""
+#~ "Sie möchten zusätzliche Einträge im Kalendereintrag? Auch das kein "
+#~ "Problem.\n"
+#~ "Z.B. für das Datum der nächsten Ferien ihrer Mitarbeiter.\n"
+#~ "Oder für die Kilometerzahl ihres Mietfahrzeugs.\n"
+#~ "Sie können in der Terminvorlage beliebig viele Felder oder Textbereiche "
+#~ "hinzufügen."
+#~ msgstr ""
+#~ "Sie möchten zusätzliche Einträge im Kalendereintrag? Auch das kein "
+#~ "Problem.\n"
+#~ "Z.B. für das Datum der nächsten Ferien ihrer Mitarbeiter.\n"
+#~ "Oder für die Kilometerzahl ihres Mietfahrzeugs.\n"
+#~ "Sie können in der Terminvorlage beliebig viele Felder oder Textbereiche "
+#~ "hinzufügen."
+
+#~ msgid ""
+#~ "Einfache Benutzerverwaltung für den Terminkalender.\n"
+#~ "Wählen Sie einen Benutzer der in ihrem Wordpress erfasst ist und geben "
+#~ "Sie ihm Bearbeiten oder Bearbeiten und Löschen Rechte für den Termin-"
+#~ "Kalender."
+#~ msgstr ""
+#~ "Einfache Benutzerverwaltung für den Terminkalender.\n"
+#~ "Wählen Sie einen Benutzer der in ihrem Wordpress erfasst ist und geben "
+#~ "Sie ihm Bearbeiten oder Bearbeiten und Löschen Rechte für den Termin-"
+#~ "Kalender."
+
+#~ msgid ""
+#~ "Sichern Sie ihre Termine. Laden Sie die Sicherung herunter auf ihren PC.\n"
+#~ "Stellen Sie die Termine wieder her oder verschieben Sie diese mit der "
+#~ "Bachupfunktion auf eine andere Wordpress Installation."
+#~ msgstr ""
+#~ "Sichern Sie ihre Termine. Laden Sie die Sicherung herunter auf ihren PC.\n"
+#~ "Stellen Sie die Termine wieder her oder verschieben Sie diese mit der "
+#~ "Bachupfunktion auf eine andere Wordpress Installation."
+
+#~ msgid "Weiterentwicklung:"
+#~ msgstr "Weiterentwicklung:"
+
+#~ msgid ""
+#~ "Mit dem Kauf der Pro Version unterstützen Sie die Weiterentwicklung.\n"
+#~ "Lassen Sie uns wissen, welche neuen Funktionen Sie wünschen."
+#~ msgstr ""
+#~ "Mit dem Kauf der Pro Version unterstützen Sie die Weiterentwicklung.\n"
+#~ "Lassen Sie uns wissen, welche neuen Funktionen Sie wünschen."
+
+#~ msgid "Die PRO Version kaufen"
+#~ msgstr "Die PRO Version kaufen"
+
+#~ msgid ""
+#~ "Möchten Sie die erweiterten Funktionen des Terrminkalenders nutzen?\n"
+#~ "Dann kaufen Sie ihn jetzt. Klicken Sie unten und sie werden zur Kaufseite "
+#~ "weitergeleitet.\n"
+#~ "Nach dem Kauf erhalten Sie eine Lizenz per Email.\n"
+#~ "Tragen Sie Ihre Lizenz-Nummer dann hier auf dieser Seite ein, um sie zu "
+#~ "aktivieren."
+#~ msgstr ""
+#~ "Möchten Sie die erweiterten Funktionen des Terrminkalenders nutzen?\n"
+#~ "Dann kaufen Sie ihn jetzt. Klicken Sie unten und sie werden zur Kaufseite "
+#~ "weitergeleitet.\n"
+#~ "Nach dem Kauf erhalten Sie eine Lizenz per Email.\n"
+#~ "Tragen Sie Ihre Lizenz-Nummer dann hier auf dieser Seite ein, um sie zu "
+#~ "aktivieren."
+
+#~ msgid "Nur Benutzer mit diesen Rollen werden gezeigt: "
+#~ msgstr "Nur Benutzer mit diesen Rollen werden gezeigt: "
+
+#~ msgid "Benutzer-Liste zu lang? "
+#~ msgstr "Benutzer-Liste zu lang? "
+
+#~ msgid "Benutzerrechte bearbeiten"
+#~ msgstr "Benutzerrechte bearbeiten"
+
+#~ msgid "Benutzer hinzuf&uuml;gen und Benutzer-Rechte verwalten:"
+#~ msgstr "Benutzer hinzuf&uuml;gen und Benutzer-Rechte verwalten:"
+
+#~ msgid "Welche Benutzer-Rolle haben die Benutzer ihres Kalenders?"
+#~ msgstr "Welche Benutzer-Rolle haben die Benutzer ihres Kalenders?"
+
+#~ msgid ""
+#~ "Wählen Sie erst eine Rolle aus um eine Liste aller Benutzer dieser Rolle "
+#~ "anzuzeigen.\n"
+#~ "                    Danach k&ouml;nnen Sie den Benutzer wählen und "
+#~ "einstellen ob er Termine erstellen, bearbeiten und löschen kann."
+#~ msgstr ""
+#~ "Wählen Sie erst eine Rolle aus um eine Liste aller Benutzer dieser Rolle "
+#~ "anzuzeigen.\n"
+#~ "                    Danach k&ouml;nnen Sie den Benutzer wählen und "
+#~ "einstellen ob er Termine erstellen, bearbeiten und löschen kann."
+
+#~ msgid "Benutzer anzeigen und bearbeiten"
+#~ msgstr "Benutzer anzeigen und bearbeiten"
+
+#~ msgid "Auswahl:"
+#~ msgstr "Auswahl:"
+
+#~ msgid "Kalender Einträge erstellen und bearbeiten"
+#~ msgstr "Kalender Einträge erstellen und bearbeiten"
+
+#~ msgid "Kalender Einträge erstellen, bearbeiten und löschen"
+#~ msgstr "Kalender Einträge erstellen, bearbeiten und löschen"
+
+#~ msgid "Benutzer und Rechte:"
+#~ msgstr "Benutzer und Rechte:"
+
+#~ msgid "Liste mit allen Benutzern und ihren Rechten:"
+#~ msgstr "Liste mit allen Benutzern und ihren Rechten:"
+
+#~ msgid "Nicht in der Liste unten:"
+#~ msgstr "Nicht in der Liste unten:"
+
+#~ msgid ""
+#~ "Wenn der Kalender auf einer Wordpress Seite angezeigt wird, können alle "
+#~ "Besucher die Kalendereinträge sehen."
+#~ msgstr ""
+#~ "Wenn der Kalender auf einer Wordpress Seite angezeigt wird, können alle "
+#~ "Besucher die Kalendereinträge sehen."
+
+#~ msgid ""
+#~ "Wenn Sie das nicht möchten stellen Sie die Seite auf PRIVAT oder MIT "
+#~ "PASSWORT in den Wordpress Einstellungen zu der Seite."
+#~ msgstr ""
+#~ "Wenn Sie das nicht möchten stellen Sie die Seite auf PRIVAT oder MIT "
+#~ "PASSWORT in den Wordpress Einstellungen zu der Seite."
+
+#~ msgid ""
+#~ "Oder verwenden Sie die Möglichkeiten ihres Wordpress Editors, Theme oder "
+#~ "eines Benutzerverwaltungs-Plugin um die Besucher einzuschränken, welche "
+#~ "die Seite besuchen."
+#~ msgstr ""
+#~ "Oder verwenden Sie die Möglichkeiten ihres Wordpress Editors, Theme oder "
+#~ "eines Benutzerverwaltungs-Plugin um die Besucher einzuschränken, welche "
+#~ "die Seite besuchen."
+
+#~ msgid "Administratoren haben immer volle Rechte"
+#~ msgstr "Administratoren haben immer volle Rechte"
+
+#~ msgid "Folgender Benutzer wurde entfernt:"
+#~ msgstr "Folgender Benutzer wurde entfernt:"
+
+#~ msgid "Benutzerrechte:"
+#~ msgstr "Benutzerrechte:"
+
+#~ msgid "Benutzer"
+#~ msgstr "Benutzer"
+
+#~ msgid "Benutzer-Rechte einstellen"
+#~ msgstr "Benutzer-Rechte einstellen"
+
+#~ msgid "Kann Bearbeiten"
+#~ msgstr "Kann Bearbeiten"
+
+#~ msgid "Kann Bearbeiten und Löschen"
+#~ msgstr "Kann Bearbeiten und Löschen"
+
+#~ msgid " gel&ouml;scht"
+#~ msgstr " gel&ouml;scht"
+
+#~ msgid " <br>Wiederholtage: 0 So, 1 Mo, 2 Di, 3 Mi, 4 Do, 5 Fr, 6 Sa "
+#~ msgstr " <br>Wiederholtage: 0 So, 1 Mo, 2 Di, 3 Mi, 4 Do, 5 Fr, 6 Sa "
+
+#~ msgid "Termin wöchentlich wiederholen, am: "
+#~ msgstr "Termin wöchentlich wiederholen, am: "
+
+#~ msgid ""
+#~ " (Wöchentliche Termine: Wählen Sie das BIS Datum nach dem letzten "
+#~ "Wiederholtag! Sonst werden die Termine nicht angezeigt.)"
+#~ msgstr ""
+#~ " (Wöchentliche Termine: Wählen Sie das BIS Datum nach dem letzten "
+#~ "Wiederholtag! Sonst werden die Termine nicht angezeigt.)"
+
+#~ msgid ""
+#~ "Dies ist ihr Termin-Kalender Backup.\n"
+#~ "\n"
+#~ "Sie können das Backup wiederherstellen indem Sie die Datei mit dem selben "
+#~ "Dateinamen im Admin Bereich auswählen und wiederherstellen.\n"
+#~ "\n"
+#~ "Haben Sie die online Datei bereits gelöscht oder möchten Sie ihre "
+#~ "Termindaten zu einer anderen Wordpress Installation migrieren.\n"
+#~ "Dann laden Sie die SQL Datei in diesem Ordner in die neue Wordpress "
+#~ "Installation unter\n"
+#~ "pugins->termin_ kalender->db_backup\n"
+#~ "\n"
+#~ "\n"
+#~ "Weitere Infos unter:"
+#~ msgstr ""
+#~ "Dies ist ihr Termin-Kalender Backup.\n"
+#~ "\n"
+#~ "Sie können das Backup wiederherstellen indem Sie die Datei mit dem selben "
+#~ "Dateinamen im Admin Bereich auswählen und wiederherstellen.\n"
+#~ "\n"
+#~ "Haben Sie die online Datei bereits gelöscht oder möchten Sie ihre "
+#~ "Termindaten zu einer anderen Wordpress Installation migrieren.\n"
+#~ "Dann laden Sie die SQL Datei in diesem Ordner in die neue Wordpress "
+#~ "Installation unter\n"
+#~ "pugins->termin_ kalender->db_backup\n"
+#~ "\n"
+#~ "\n"
+#~ "Weitere Infos unter:"
+
+#~ msgid "Mein Termin-Kalender"
+#~ msgstr "Mein Termin-Kalender"
+
+#~ msgid ""
+#~ "M&ouml;chten Sie die erweiterten Funktionen des Terrminkalenders nutzen?\n"
+#~ "Dann kaufen Sie ihn jetzt. Klicken Sie unten und sie werden zur Kaufseite "
+#~ "weitergeleitet.\n"
+#~ "Nach dem Kauf erhalten Sie eine Lizenz per Email.\n"
+#~ "Tragen Sie Ihre Lizenz-Nummer dann hier auf dieser Seite ein, um sie zu "
+#~ "aktivieren.<br>\n"
+#~ "<hr>\n"
+#~ "<b>Mit der PRO Version erhalten Sie diese Funktionen:</b><br>\n"
+#~ "<hr>\n"
+#~ "<b>Termin Bereiche:</b>\n"
+#~ "Passen Sie die Bereiche (Kategorien) ihres Kalenders an.\n"
+#~ "Planen Sie Einsätze für verschiedene Mitarbeiter ? Dann Tragen Sie den "
+#~ "Mitarbeiternamen als Bereich ein,\n"
+#~ "mit einer eigenen Farbe und einem Icon. Oder Sie vermieten Autos?\n"
+#~ "Dann tragen Sie für jedes Fahrzeug einen Bereich, Farbe und Icon ein.\n"
+#~ "Der Kalender lässt sich für jede Anwendung sehr einfach anpassen.\n"
+#~ "<hr>\n"
+#~ "<b>Termin Felder:</b>\n"
+#~ "Sie möchten zusätzliche Einträge im Kalendereintrag? Auch das kein "
+#~ "Problem.\n"
+#~ "Z.B. für das Datum der nächsten Ferien ihrer Mitarbeiter.\n"
+#~ "Oder für die Kilometerzahl ihres Mietfahrzeugs.\n"
+#~ "Sie können in der Terminvorlage beliebig viele Felder oder Textbereiche "
+#~ "hinzufügen.\n"
+#~ "<hr>\n"
+#~ "<b>Kalender Benutzer:</b>\n"
+#~ "Einfache Benutzerverwaltung für den Terminkalender.\n"
+#~ "Wählen Sie einen Benutzer der in ihrem Wordpress erfasst ist und geben "
+#~ "Sie ihm Bearbeiten oder Bearbeiten und Löschen Rechte für den Termin-"
+#~ "Kalender.\n"
+#~ "<hr>\n"
+#~ "<b>Backup:</b>\n"
+#~ "Sichern Sie ihre Termine. Laden Sie die Sicherung herunter auf ihren PC.\n"
+#~ "Stellen Sie die Termine wieder her oder verschieben Sie diese mit der "
+#~ "Bachupfunktion auf eine andere Wordpress Installation.\n"
+#~ "<hr>\n"
+#~ "<b>Weiterentwicklung:</b>\n"
+#~ "Mit dem Kauf der Pro Version unterstützen Sie die Weiterentwicklung.\n"
+#~ "Lassen Sie uns wissen, welche neuen Funktionen Sie wünschen."
+#~ msgstr ""
+#~ "M&ouml;chten Sie die erweiterten Funktionen des Terrminkalenders nutzen?\n"
+#~ "Dann kaufen Sie ihn jetzt. Klicken Sie unten und sie werden zur Kaufseite "
+#~ "weitergeleitet.\n"
+#~ "Nach dem Kauf erhalten Sie eine Lizenz per Email.\n"
+#~ "Tragen Sie Ihre Lizenz-Nummer dann hier auf dieser Seite ein, um sie zu "
+#~ "aktivieren.<br>\n"
+#~ "<hr>\n"
+#~ "<b>Mit der PRO Version erhalten Sie diese Funktionen:</b><br>\n"
+#~ "<hr>\n"
+#~ "<b>Termin Bereiche:</b>\n"
+#~ "Passen Sie die Bereiche (Kategorien) ihres Kalenders an.\n"
+#~ "Planen Sie Einsätze für verschiedene Mitarbeiter ? Dann Tragen Sie den "
+#~ "Mitarbeiternamen als Bereich ein,\n"
+#~ "mit einer eigenen Farbe und einem Icon. Oder Sie vermieten Autos?\n"
+#~ "Dann tragen Sie für jedes Fahrzeug einen Bereich, Farbe und Icon ein.\n"
+#~ "Der Kalender lässt sich für jede Anwendung sehr einfach anpassen.\n"
+#~ "<hr>\n"
+#~ "<b>Termin Felder:</b>\n"
+#~ "Sie möchten zusätzliche Einträge im Kalendereintrag? Auch das kein "
+#~ "Problem.\n"
+#~ "Z.B. für das Datum der nächsten Ferien ihrer Mitarbeiter.\n"
+#~ "Oder für die Kilometerzahl ihres Mietfahrzeugs.\n"
+#~ "Sie können in der Terminvorlage beliebig viele Felder oder Textbereiche "
+#~ "hinzufügen.\n"
+#~ "<hr>\n"
+#~ "<b>Kalender Benutzer:</b>\n"
+#~ "Einfache Benutzerverwaltung für den Terminkalender.\n"
+#~ "Wählen Sie einen Benutzer der in ihrem Wordpress erfasst ist und geben "
+#~ "Sie ihm Bearbeiten oder Bearbeiten und Löschen Rechte für den Termin-"
+#~ "Kalender.\n"
+#~ "<hr>\n"
+#~ "<b>Backup:</b>\n"
+#~ "Sichern Sie ihre Termine. Laden Sie die Sicherung herunter auf ihren PC.\n"
+#~ "Stellen Sie die Termine wieder her oder verschieben Sie diese mit der "
+#~ "Bachupfunktion auf eine andere Wordpress Installation.\n"
+#~ "<hr>\n"
+#~ "<b>Weiterentwicklung:</b>\n"
+#~ "Mit dem Kauf der Pro Version unterstützen Sie die Weiterentwicklung.\n"
+#~ "Lassen Sie uns wissen, welche neuen Funktionen Sie wünschen."
+
+#~ msgid "Lizenz"
+#~ msgstr "Lizenz"
+
+#~ msgid "Lizenz (Your license)"
+#~ msgstr "Lizenz (Your license)"

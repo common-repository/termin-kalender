@@ -1,0 +1,285 @@
+# Translation of Plugins - Termin-Kalender - Stable Readme (latest release) in German
+# This file is distributed under the same license as the Plugins - Termin-Kalender - Stable Readme (latest release) package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugins - Termin-Kalender - Stable Readme (latest release)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-09-04 18:24+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.5\n"
+
+#. Found in description paragraph.
+msgid "Termin-Kalender is your easy monthly planner. This calendar app provides a clear, monthly overview to keep you organized."
+msgstr "Ihr Terminplaner für WordPress mit klarer Monatsansicht. Termine hinzufügen, bearbeiten und löschen direkt im Frontend. Flexible Beschriftungen (Kategorien) für Ihre individuelle Übersicht."
+
+#. Plugin name.
+msgid "Termin-Kalender"
+msgstr "Termin-Kalender"
+
+#. Found in description paragraph.
+msgid ""
+"Monthly overview: Get a quick picture of your schedule.\n"
+"Customizable labels: Tailor categories to your needs.\n"
+"Easy editing: Add, move, and edit calendar entries.\n"
+"Add website-link, google maps and a picture to every calendar entry\n"
+"Optimized for Wordpress Gutenberg"
+msgstr ""
+"Monatsübersicht: Verschaffen Sie sich schnell einen Überblick über Ihren Terminplan.\n"
+"Anpassbare Beschriftungen: Passen Sie die Kategorien Ihren Bedürfnissen an.\n"
+"Einfache Bearbeitung: Kalendereinträge hinzufügen, verschieben und bearbeiten.\n"
+"Fügen Sie jedem Kalendereintrag einen Website-Link, Google Maps und ein Bild hinzu.\n"
+"Optimiert für WordPress Gutenberg"
+
+#. Found in description list item.
+msgid "PRO: Calendar and Gutenberg-List includes image and website-link"
+msgstr "PRO: Kalendereintrag und Gutenberg-Liste mit Google Maps, Website-Link und Bild"
+
+#. Found in description list item.
+msgid "Simple setup &amp; intuitive interface for a streamlined workflow directly in the wordpress frontend."
+msgstr "Einfache Einrichtung und intuitive Benutzeroberfläche für einen optimierten Arbeitsablauf direkt im WordPress-Frontend."
+
+#. Found in installation list item.
+msgid ""
+"<strong>Enjoy!</strong>\n"
+"We hope you enjoy using the easy Termin-Kalender plugin!"
+msgstr ""
+"<strong>Enjoy!</strong>\n"
+"Wir wünschen viel Spaß mit dem einfachen Termin-Kalender-Plugin!"
+
+#. Found in installation list item.
+msgid ""
+"<strong>Activation:</strong>\n"
+"Go to the \"Plugins\" menu in your WordPress dashboard and activate the Termin-Kalender plugin."
+msgstr ""
+"<strong>Aktivierung:</strong>\n"
+"Gehen Sie in das Admin Menu und aktivieren Sie das Termin-Kalender Plugin."
+
+#. Found in description paragraph.
+msgid "*PRO Features require upgrade."
+msgstr "*PRO-Funktionen erfordern ein Upgrade."
+
+#. Screenshot description.
+msgid "Adding Pictures to Lists (PRO Feature updated: direct upload of pictures now possible)"
+msgstr "Bilder zu Listen hinzufügen (PRO-Funktion aktualisiert: direkter Upload von Bildern jetzt möglich)"
+
+#. Found in faq paragraph.
+msgid "Visit our Website: <a href=\"https://termin-kalender.pro\">termin-kalender.pro</a>"
+msgstr "Besuchen Sie: <a href=\"https://termin-kalender.pro\">termin-kalender.pro</a>"
+
+#. Found in description paragraph.
+msgid ""
+"This plugin uses the following libraries:\n"
+"<strong>Bootstrap:</strong> https://getbootstrap.com/\n"
+"<strong>Fullcalendar:</strong> https://fullcalendar.io/\n"
+"<strong>rrule:</strong> https://github.com/jkbrzt/rrule\n"
+"Inspired by ajax-event-calendar from Eran Miller, a discontinued Plug-In, last updated in 2015 for Wordpress 4.2  https://wordpress.org/plugins/ajax-event-calendar/#description\n"
+"my easy Termin-Kalender calendar is a complete code redo and enhancements, based on most recent Wordpress 6.+, Fullcalendar 6.+ and Php 8.+ as for 2024."
+msgstr ""
+"Das Plugin verwendet folgende Code-Bibliotheken:\n"
+"<strong>Bootstrap:</strong> https://getbootstrap.com/\n"
+"<strong>Fullcalendar:</strong> https://fullcalendar.io/\n"
+"<strong>rrule:</strong> https://github.com/jkbrzt/rrule\n"
+"Inspiriert durch ajax-event-calendar von Eran Miller, eingestelltes Plug-In, letztes Update 2015 für WordPress 4.2  https://wordpress.org/plugins/ajax-event-calendar/#description\n"
+"my easy Termin-Kalender calendar ist eine komplett neu Entwickelte und erweiterte Version, basierend auf aktuellem WordPress 6.+, Fullcalendar 6.+ and Php 8.+ in 2024."
+
+#. Found in description paragraph.
+msgid "<strong>Frontend Termin-Kalender: Your all-in-one monthly planning solution.</strong>"
+msgstr "<strong>Frontend-Termin-Kalender: Ihre All-in-One-Lösung zur Monatsplanung.</strong>"
+
+#. Found in description paragraph.
+msgid "<strong>Get organized today!</strong>"
+msgstr "<strong>Organisieren Sie ihre Termine jetzt!</strong>"
+
+#. Found in description paragraph.
+msgid ""
+"<em>PRO Features:</em>\n"
+"Request forms: Capture visitor input for appointments, bookings, etc.\n"
+"List blocks: Display a specific categorie on your site.\n"
+"Forms &amp; lists: Configure them for different purposes."
+msgstr ""
+"<em>PRO-Funktionen:</em>\n"
+"Anfrageformulare: Erfassen Sie Besuchereingaben für Termine, Buchungen usw.\n"
+"Gutenberg Block für Listen: Zeigen Sie eine bestimmte Kategorie auf Ihrer Site als Liste.\n"
+"Formulare und Listen: Konfigurieren Sie sie für verschiedene Zwecke."
+
+#. Found in description paragraph.
+msgid "<strong>This plugin provides a clear monthly overview directly in your WordPress frontend.</strong>"
+msgstr "<strong>Dieses Plugin bietet eine klare Monatsübersicht direkt in Ihrem WordPress-Frontend.</strong>"
+
+#. Found in description paragraph.
+msgid "<strong>Plan your month with ease!</strong>"
+msgstr "<strong>Übersichtliche Monatsplanung!</strong>"
+
+#. Found in description list item.
+msgid "PRO: User rights"
+msgstr "PRO: Benutzerrechte"
+
+#. Found in description list item.
+msgid "PRO: Backup"
+msgstr "PRO: Backup"
+
+#. Found in description list item.
+msgid "PRO, Gutenberg List Block: Display specific category entries on your website."
+msgstr "PRO, Gutenberg Listen Block: Zeigen Sie eine ihrer Kategorien als Veranstaltungsliste auf ihrer Website."
+
+#. Found in description list item.
+msgid "PRO, Gutenberg block Request Form: Allow visitors to submit appointments or reservation requests."
+msgstr "PRO, Gutenberg-Block-Anfrageformular: Ermöglichen Sie Besuchern, Termin- oder Reservierungsanfragen einzureichen."
+
+#. Found in description list item.
+msgid "PRO: Capture specific details with additional form fields."
+msgstr "PRO: Erfassen Sie spezifische Details mit zusätzlichen Formularfeldern."
+
+#. Found in description list item.
+msgid "Multiple calendar views: Yearly, monthly, weekly, daily, and list views."
+msgstr "Kalenderansichten: Jahres-, Monats-, Wochen-, Tages- und Listenansichten."
+
+#. Found in description list item.
+msgid "Frontend editing: Add, edit, and move calendar entries directly."
+msgstr "Frontend-Bearbeitung: Kalendereinträge direkt auf der Website hinzufügen, bearbeiten und verschieben."
+
+#. Found in description list item.
+msgid "Flexible categories: Customize labels for a clear organized schedule view."
+msgstr "Flexible Kategorien: Passen Sie Beschriftungen für eine übersichtliche, organisierte Zeitplanansicht an."
+
+#. Found in description list item.
+msgid "Customer appointments, resource management, room bookings (and more!)."
+msgstr "Kundentermine, Ressourcenverwaltung, Raumbuchungen (und mehr!)."
+
+#. Found in description list item.
+msgid "Personal use"
+msgstr "Ihre Persönliche Agenda"
+
+#. Found in description list item.
+msgid "Teams"
+msgstr "Kleine Arbeitsgruppen"
+
+#. Found in description list item.
+msgid "Small businesses"
+msgstr "Klein-Unternehmen"
+
+#. Found in description header.
+msgid "Features:"
+msgstr "Funktionen:"
+
+#. Found in description header.
+msgid "Ideal for:"
+msgstr "Ideal für:"
+
+#. Found in description header.
+msgid "easy Frontend Termin-Kalender calendar"
+msgstr "easy Frontend Termin-Kalender calendar"
+
+#. Found in installation list item.
+msgid ""
+"<strong>Adding Your First Entry:</strong>\n"
+"Navigate to your new calendar page (wordpress page in the frontend) and click an empty date. A pop-up form will appear, allowing you to create your first calendar entry."
+msgstr ""
+"<strong>Ersten Eintrag hinzufügen:</strong>\n"
+"Navigieren Sie zu Ihrer neuen Kalenderseite (WordPress-Seite im Frontend) und klicken Sie auf ein leeres Datum. Ein Popup-Formular wird angezeigt, in dem Sie Ihren ersten Kalendereintrag erstellen können."
+
+#. Found in installation list item.
+msgid ""
+"<strong>Initial Setup:</strong>\n"
+"Upon activation (refresh the admin-page if needed), you'll find the Termin-Kalender menu in the Admin area. Open it. Inside the menu, create your first calendar with sample data."
+msgstr ""
+"<strong>Ersteinrichtung:</strong>\n"
+"Nach der Aktivierung (aktualisieren Sie ggf. die Admin-Seite) finden Sie im Admin-Bereich das Menü Termin-Kalender. Öffnen Sie es. Erstellen Sie im Menü Ihren ersten Kalender mit Beispieldaten."
+
+#. Found in installation list item.
+msgid "Search for \"Termin-Kalender\" in the WordPress plugin repository and install it."
+msgstr "Im WordPress-Plugin-Repository nach „Termin-Kalender“ suchen und und Installieren."
+
+#. Screenshot description.
+msgid "The list block (PRO) lets you create a list of events for a chosen category, like \"Events,\" \"Registration requests,\" or \"Meetings.\""
+msgstr "Mit dem Listenblock (PRO) können Sie eine Liste von Ereignissen für eine ausgewählte Kategorie erstellen, z. B. „Ereignisse“, „Registrierungsanfragen“ oder „Treffen“."
+
+#. Screenshot description.
+msgid "3 Gutenberg Blocks available. For the shared calendar and the Request and List form for the PRO calendars."
+msgstr "3 Gutenberg-Blöcke verfügbar. Für den Kalender und das Anforderungs- und Listenformular für die PRO-Kalender."
+
+#. Screenshot description.
+msgid "PRO: The simple request form: This form allows visitors to request appointments, reservations, or other things you offer. Make sure to clearly explain what kind of requests this form is for above and around the block where visitors will see it. For example, you could say \"Book a table for your next dinner party\" or \"Schedule a consultation\"."
+msgstr "PRO: Das einfache Anfrageformular: Mit diesem Formular können Besucher Termine, Reservierungen oder andere Dinge, die Sie anbieten, anfragen. Stellen Sie sicher, dass Sie oben und um den Block herum, wo Besucher es sehen, klar erklären, für welche Art von Anfragen dieses Formular gedacht ist. Sie könnten zum Beispiel sagen: „Reservieren Sie einen Tisch für Ihre nächste Dinnerparty“ oder „Vereinbaren Sie einen Beratungstermin“."
+
+#. Screenshot description.
+msgid "Using Gutenberg Blocks: Termin-Kalender works with Gutenberg blocks, the wordpress feature for building website pages. There are three blocks available: Calendar: This displays the calendar itself. Request Form (PRO): This lets visitors request appointments or make reservations. List Block (PRO): This shows a list of events or whatever you want to display, for a chosen category. Here's how to use the Request Form block: Choose a category for the request form. The request will appear on the calendar on the chosen date with that category label. You can create special categories for requests. Once you approve a request, just change the category label from \"request\" to the \"approved\" category you made. You'll also receive a copy of the email sent to the visitor."
+msgstr "Gutenberg-Blöcke verwenden: Termin-Kalender arbeitet mit Gutenberg-Blöcken, der WordPress-Funktion zum Erstellen von Webseiten. Es stehen drei Blöcke zur Verfügung: Kalender: Hier wird der Kalender selbst angezeigt. Anfrageformular (PRO): Hiermit können Besucher Termine anfragen oder Reservierungen vornehmen. Listenblock (PRO): Hier wird eine Liste von Ereignissen oder was auch immer Sie anzeigen möchten für eine ausgewählte Kategorie angezeigt. So verwenden Sie den Anfrageformularblock: Wählen Sie eine Kategorie für das Anfrageformular. Die Anfrage wird am ausgewählten Datum mit dieser Kategoriebezeichnung im Kalender angezeigt. Sie können spezielle Kategorien für Anfragen erstellen. Sobald Sie eine Anfrage genehmigen, ändern Sie einfach die Kategoriebezeichnung von „Anfrage“ in die von Ihnen erstellte Kategorie „Genehmigt“. Sie erhalten auch eine Kopie der E-Mail, die an den Besucher gesendet wurde."
+
+#. Screenshot description.
+msgid "Moving Events: You can move most calendar entries by dragging and dropping them. However, repeating events (available in the PRO version) cannot be moved."
+msgstr "Ereignisse verschieben: Die meisten Kalendereinträge können Sie per Drag & Drop verschieben. Wiederkehrende Ereignisse (verfügbar in der PRO-Version) können jedoch nicht verschoben werden."
+
+#. Screenshot description.
+msgid "Categories: Remember, you can change the categories, including their colors and icons, to fit your needs. Click on the category list at the top of the calendar to go to the \"easy Termin-Kalender\" admin page for managing them."
+msgstr "Kategorien: Denken Sie daran, dass Sie die Kategorien, einschließlich ihrer Farben und Symbole, Ihren Bedürfnissen entsprechend ändern können. Klicken Sie oben im Kalender auf die Kategorieliste, um zur Admin-Seite von „easy Termin-Kalender“ zu gelangen und diese zu verwalten."
+
+#. Screenshot description.
+msgid "Editing Events: Click \"Edit\" to make changes to an event. Click \"Update\" to save your changes. Click \"Delete\" to remove the event, or just close the window to leave it unchanged."
+msgstr "Ereignisse bearbeiten: Klicken Sie auf „Bearbeiten“, um Änderungen an einem Ereignis vorzunehmen. Klicken Sie auf „Aktualisieren“, um Ihre Änderungen zu speichern. Klicken Sie auf „Löschen“, um das Ereignis zu entfernen, oder schließen Sie einfach das Fenster, um es unverändert zu lassen."
+
+#. Screenshot description.
+msgid "Viewing Existing Events: Clicking on a date in the calendar shows you a read-only version of the event details, similar to what visitors will see. The location link will now open that address in Google Maps. If you're the admin or a privileged user (PRO version), you can click \"Edit\" or \"Duplicate\" the event. Visitors will only see a \"Close\" button."
+msgstr "Vorhandene Ereignisse anzeigen: Wenn Sie im Kalender auf ein Datum klicken, wird Ihnen eine schreibgeschützte Version der Ereignisdetails angezeigt, ähnlich dem, was Besucher sehen. Der Standortlink öffnet diese Adresse jetzt in Google Maps. Wenn Sie der Administrator oder ein privilegierter Benutzer (PRO-Version) sind, können Sie auf „Bearbeiten“ oder „Duplizieren“ des Ereignisses klicken. Besucher sehen nur eine Schaltfläche „Schließen“."
+
+#. Screenshot description.
+msgid "Adding a New Event: Click on an empty space in the calendar. A window should appear to let you create a new event. Change the \"Schedule:\" text to your event title. Choose the date and time for the event's start and end. Pick a category for the event (you can change these in the \"easy Termin-Kalender\" admin menu). Add the full address for the location if needed. Write any notes you want to include about the event. Add a detailed description of the event. (The PRO version lets you add even more custom fields to this form.)"
+msgstr "Neues Ereignis hinzufügen: Klicken Sie auf eine leere Stelle im Kalender. Ein Fenster sollte erscheinen, in dem Sie ein neues Ereignis erstellen können. Ändern Sie den Titel in Ihren Ereignistitel. Wählen Sie Datum und Uhrzeit für Beginn und Ende des Ereignisses. Wählen Sie eine Kategorie für das Ereignis (Sie können diese im Admin-Menü „easy Termin-Kalender“ ändern). Fügen Sie bei Bedarf die vollständige Adresse des Veranstaltungsortes hinzu. Schreiben Sie alle gewünschten Notizen zum Ereignis. Fügen Sie eine detaillierte Beschreibung des Ereignisses hinzu. (Mit der PRO-Version können Sie diesem Formular noch mehr benutzerdefinierte Felder hinzufügen.)"
+
+#. Screenshot description.
+msgid "Link to help"
+msgstr "Link zur Hilfe-Seite"
+
+#. Screenshot description.
+msgid "Using the Calendar: The calendar you see has categories at the top. You can change these categories to fit your needs. Click the \"Home\" button to return to the main website page. Click on an empty spot in the calendar to add a new event, or click on an existing date to open it. You can move dates around (except for repeating events) by dragging and dropping them."
+msgstr "Verwenden des Kalenders: Der Kalender, den Sie sehen, hat oben Kategorien. Sie können diese Kategorien Ihren Bedürfnissen entsprechend ändern. Klicken Sie auf die Schaltfläche „Home“, um zur Hauptseite der Website zurückzukehren. Klicken Sie auf eine leere Stelle im Kalender, um ein neues Ereignis hinzuzufügen, oder klicken Sie auf ein vorhandenes Datum, um es zu öffnen. Sie können Daten (außer bei wiederkehrenden Ereignissen) durch Ziehen und Ablegen verschieben."
+
+#. Screenshot description.
+msgid "You can find help with installation by clicking the question signs, or by visiting the website: <a href=\"https://termin-kalender.pro\">termin-kalender.pro</a>"
+msgstr "Hilfe zur Installation finden Sie, indem Sie auf die Fragezeichen klicken oder die Website besuchen: <a href=\"https://termin-kalender.pro\">termin-kalender.pro</a>"
+
+#. Screenshot description.
+msgid "After Installation: Look for the menu called \"easy Termin-Kalender.\" If you don't see it right away, refresh the page. Click the link under \"Here is your calendar\" to open the calendar."
+msgstr "Nach der Installation: Suchen Sie nach dem Menü „easy Termin-Kalender“. Wenn Sie es nicht gleich sehen, aktualisieren Sie die Seite. Klicken Sie auf den Link unter „Hier ist Ihr Kalender“, um den Kalender zu öffnen."
+
+#. Found in faq header.
+msgid "Where can i find Help and detailed Information about the Termin-Kalender"
+msgstr "Wo finde ich Hilfe und ausführliche Informationen zum Termin-Kalender"
+
+#. Found in description header.
+msgid "Credits"
+msgstr "Nachweise"
+
+#. Found in changelog list item.
+msgid "Added readme.txt in german and french on translate.wordpress"
+msgstr "Added readme.txt in german and french on translate.wordpress"
+
+#. Found in changelog list item.
+msgid "Preparation for first release candidate"
+msgstr "Preparation for first release candidate"
+
+#. Found in changelog list item.
+msgid "minor corr.: event list"
+msgstr "minor corr.: event list"
+
+#. Found in changelog list item.
+msgid "First final Version ** planned for 2024**"
+msgstr "Erste stabile Version ** geplant für 2024**"
+
+#. Found in changelog list item.
+msgid "Please let us know about issues with this Beta, so we can optimize for you."
+msgstr "Bitte informieren Sie uns über Probleme mit dieser Beta, damit wir sie für Sie optimieren können."
+
+#. Found in changelog list item.
+msgid "2024 09 01"
+msgstr "2024 09 01"
+
+#. Found in changelog list item.
+msgid "<strong>THIS IS STILL BETA -Planned Initial Version 1.0</strong>"
+msgstr "<strong>DIES IST NOCH EINE BETA-VERSION - Geplante Erstversion 1.0</strong>"

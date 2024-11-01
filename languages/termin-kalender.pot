@@ -1,0 +1,1145 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Termin-Kalender\n"
+"POT-Creation-Date: 2024-09-13 19:18+0800\n"
+"PO-Revision-Date: 2023-04-25 22:34+0800\n"
+"Last-Translator: \n"
+"Language-Team: contact@termin-kalender.pro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: termin-kalender.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: assets\n"
+"X-Poedit-SearchPathExcluded-2: css\n"
+"X-Poedit-SearchPathExcluded-3: db_backup\n"
+"X-Poedit-SearchPathExcluded-4: plugin-update-checker-5.0\n"
+"X-Poedit-SearchPathExcluded-5: test\n"
+"X-Poedit-SearchPathExcluded-6: freemius\n"
+"X-Poedit-SearchPathExcluded-7: dist\n"
+
+#: admin/admin.php:17
+msgid "easy Termin-Kalender"
+msgstr ""
+
+#: admin/admin.php:18
+msgid "Calendar Categories"
+msgstr ""
+
+#: admin/admin.php:22
+msgid "Form Settings"
+msgstr ""
+
+#: admin/admin.php:23 admin/admin_info_pro.php:22
+msgid "Calendar Users"
+msgstr ""
+
+#: admin/admin.php:24 includes/kalender_help_page.php:36
+msgid "Backup & Restore"
+msgstr ""
+
+#: admin/admin.php:24 admin/admin_info_pro.php:26
+msgid "Backup"
+msgstr ""
+
+#: admin/admin.php:26 admin/admin_blocks_page.php:6
+msgid "Gutenberg Blocks"
+msgstr ""
+
+#: admin/admin_blocks_page.php:9
+msgid "List of available frontend features through Gutenberg blocks"
+msgstr ""
+
+#: admin/admin_blocks_page.php:10
+msgid ""
+"Choose this Gutenberg Blocks in the frontend Gutenberg editor when you edit a "
+"page."
+msgstr ""
+
+#: admin/admin_blocks_page.php:12
+msgid "Use the Gutenberg Editor built in Wordpress to use this blocks"
+msgstr ""
+
+#: admin/admin_blocks_page.php:14
+msgid "For DIVI and other Editor user"
+msgstr ""
+
+#: admin/admin_blocks_page.php:14
+msgid "Use a text block and the shortcode my-termin-kalender in square brackets."
+msgstr ""
+
+#: admin/admin_blocks_page.php:15 admin_pro/termin_felder__premium_only.php:21
+msgid "In the vast majority of use cases, the standard fields are sufficient."
+msgstr ""
+
+#: admin/admin_blocks_page.php:17
+msgid "For Elementor user"
+msgstr ""
+
+#: admin/admin_blocks_page.php:18
+msgid ""
+"Use the Elementor Shortcode Widget with the Shortcode my-termin-kalender in "
+"square brackets."
+msgstr ""
+
+#: admin/admin_blocks_page.php:25
+msgid "my easy Termin-Kalender CALENDAR Block"
+msgstr ""
+
+#: admin/admin_blocks_page.php:28
+msgid "The main block for the calendar"
+msgstr ""
+
+#: admin/admin_blocks_page.php:30
+msgid ""
+"Your calendar for the monthly overview. All data from the other blocks will be "
+"added to or taken from this Calendar. Click on the first page of this menu to "
+"find the link to create a calendar. And forward to the calendar."
+msgstr ""
+
+#: admin/admin_blocks_page.php:36
+msgid "Simple To-Do Tasklist"
+msgstr ""
+
+#: admin/admin_blocks_page.php:39
+msgid "To-Do list: Free GutenBerg Block"
+msgstr ""
+
+#: admin/admin_blocks_page.php:41
+msgid ""
+"Just a simple To-Do list for your tasks and notes in the Backend. But also "
+"available with this free GutenBerg Block"
+msgstr ""
+
+#: admin/admin_blocks_page.php:47
+msgid "Simple Appointment List"
+msgstr ""
+
+#: admin/admin_blocks_page.php:50
+msgid "Appointment list: Free GutenBerg Block"
+msgstr ""
+
+#: admin/admin_blocks_page.php:52
+msgid ""
+"A simple and free Gutenberg Block to show a appointments list. For more "
+"configuration options use the PRO Event List"
+msgstr ""
+
+#: admin/admin_blocks_page.php:58
+msgid "Reservation Form Block"
+msgstr ""
+
+#: admin/admin_blocks_page.php:61
+msgid "Adding the Reservation Form Block"
+msgstr ""
+
+#: admin/admin_blocks_page.php:63
+msgid ""
+"..lets you pick a category for reservation requests. This category will then be "
+"used to label all requests on the calendar."
+msgstr ""
+
+#: admin/admin_blocks_page.php:68
+msgid "Event List Block"
+msgstr ""
+
+#: admin/admin_blocks_page.php:71
+msgid "To display a list of events with pictures:"
+msgstr ""
+
+#: admin/admin_blocks_page.php:73
+msgid ""
+"Add the \"Termin-Kalender Event List\" block (Gutenberg) and choose the "
+"category you like to show."
+msgstr ""
+
+#: admin/admin_detect_caching.php:37
+msgid ""
+"WP Rocket: Enable 'Bypass cache for logged-in users' or create a 'Purge Cache' "
+"rule for "
+msgstr ""
+
+#: admin/admin_detect_caching.php:40
+msgid ""
+"W3 Total Cache: Use the 'Empty Page Cache' button or create a 'Don't Cache URL' "
+"rule for "
+msgstr ""
+
+#: admin/admin_detect_caching.php:43
+msgid ""
+"Cache Enabler: Disable 'Page Caching' or create a 'Don't Cache URL' rule for "
+msgstr ""
+
+#: admin/admin_detect_caching.php:46
+msgid "Litespeed Cache: Create a 'Don't Cache URL' rule for "
+msgstr ""
+
+#: admin/admin_detect_caching.php:49
+msgid ""
+"This page appears to be cached by a plugin. If you have difficulties saving "
+"changes, contact plugin support for disabling caching for "
+msgstr ""
+
+#: admin/admin_detect_caching.php:56
+msgid "WordPress wp_cache_get function detected. This should be fine."
+msgstr ""
+
+#: admin/admin_detect_caching.php:58
+msgid "WordPress wp_cache_flush function detected. This should be fine."
+msgstr ""
+
+#: admin/admin_funktionen.php:14
+msgid "Here is your calendar:"
+msgstr ""
+
+#: admin/admin_funktionen.php:16
+msgid ""
+"Simply click the button here to get started with your Termin-Kalender. Open the "
+"calendar page using this link. Click on an empty slot on the calendar and fill "
+"out the details of your first appointment in the form that appears. You can "
+"also use the button below to generate sample calendar entries to help you "
+"visualize your first bookings."
+msgstr ""
+
+#: admin/admin_funktionen.php:28
+msgid "No page with the calendar found."
+msgstr ""
+
+#: admin/admin_funktionen.php:30
+msgid "Click here to automatically create a page with the calendar:"
+msgstr ""
+
+#: admin/admin_funktionen.php:32
+msgid "Create calendar page"
+msgstr ""
+
+#: admin/admin_info_pro.php:6
+msgid "Termin-Kalender PRO Version - Upgrade Your Calendar!"
+msgstr ""
+
+#: admin/admin_info_pro.php:8
+msgid "Get advanced features and unlock the full potential of your calendar."
+msgstr ""
+
+#: admin/admin_info_pro.php:10
+msgid "Here's what you get with the PRO version:"
+msgstr ""
+
+#: admin/admin_info_pro.php:12
+msgid "Form Fields:"
+msgstr ""
+
+#: admin/admin_info_pro.php:14
+msgid ""
+"Capture additional details in your calendar entries. Add fields for phone "
+"numbers, addresses, mileage, or anything specific to your needs."
+msgstr ""
+
+#: admin/admin_info_pro.php:16
+msgid "Task repetition:"
+msgstr ""
+
+#: admin/admin_info_pro.php:18
+msgid "Weekly, Monthly, Yearly recurring events."
+msgstr ""
+
+#: admin/admin_info_pro.php:20
+msgid "Schedule participants and send invites."
+msgstr ""
+
+#: admin/admin_info_pro.php:24
+msgid ""
+"Manage user access. Assign edit or edit & delete permissions to specific users "
+"registered in your WordPress."
+msgstr ""
+
+#: admin/admin_info_pro.php:28
+msgid ""
+"Protect your schedule. Download backups to your computer for safekeeping. "
+"Restore or transfer your calendar data to another WordPress site with ease."
+msgstr ""
+
+#: admin/admin_info_pro.php:30
+msgid "Request form Gutenberg block:"
+msgstr ""
+
+#: admin/admin_info_pro.php:32
+msgid ""
+"Capture visitor input for appointments, bookings, etc. Lets you pick a category "
+"for reservation requests."
+msgstr ""
+
+#: admin/admin_info_pro.php:34
+msgid "List Gutenberg block:"
+msgstr ""
+
+#: admin/admin_info_pro.php:36
+msgid ""
+"Display specific categories on your site. To display a list of events with "
+"pictures."
+msgstr ""
+
+#: admin/admin_info_pro.php:38
+msgid "Support Development:"
+msgstr ""
+
+#: admin/admin_info_pro.php:40
+msgid ""
+"Your purchase helps us keep improving Termin-Kalender! Share your ideas and let "
+"us know what new features you'd like to see."
+msgstr ""
+
+#: admin/admin_info_pro.php:44
+msgid "Upgrade today"
+msgstr ""
+
+#: admin/admin_info_pro.php:47
+msgid " and take your calendar organization to the next level!"
+msgstr ""
+
+#: admin/termin_kategorien.php:42
+msgid "Color-Coded Control: Calendar Areas"
+msgstr ""
+
+#: admin/termin_kategorien.php:47
+msgid "Create Custom Categories for Your Calendar"
+msgstr ""
+
+#: admin/termin_kategorien.php:51
+msgid "Calendar Areas: Organize your schedule with custom categories."
+msgstr ""
+
+#: admin/termin_kategorien.php:53
+msgid ""
+"Create sections for courses, rooms, employees, rental cars, events, meetings or "
+"anything you need. Customize each with colors and icons for easy identification."
+msgstr ""
+
+#: admin/termin_kategorien.php:115
+msgid "DELETE category"
+msgstr ""
+
+#: admin/termin_kategorien.php:117
+msgid ""
+"Heads Up! Events Still Scheduled: There might still be events assigned to this "
+"category. To delete, please choose a new category for those events first."
+msgstr ""
+
+#: admin/termin_kategorien.php:120
+msgid "Move the events to category"
+msgstr ""
+
+#: admin/termin_kategorien.php:135
+msgid "and then delete category"
+msgstr ""
+
+#: admin/termin_kategorien.php:138
+msgid "Cancel"
+msgstr ""
+
+#: admin/termin_kategorien.php:143
+msgid "Icons preview"
+msgstr ""
+
+#: admin/terminkalender_page.php:9
+msgid "Frontend Schedule and Resource Calendar."
+msgstr ""
+
+#: admin/terminkalender_page.php:14
+msgid "Load some example dates in the calendar"
+msgstr ""
+
+#: admin/terminkalender_page.php:20
+msgid "Installation & Help"
+msgstr ""
+
+#: admin/terminkalender_page.php:22
+msgid "Infos for Installation"
+msgstr ""
+
+#: admin/terminkalender_page.php:25
+msgid ""
+"If you encounter any issues: Review our Help & FAQ on our website. If you can't "
+"find a solution, feel free to contact us. We're happy to help!"
+msgstr ""
+
+#: admin/terminkalender_page.php:27
+msgid ""
+"If changes in the calendar does not show immediately, try to EXCLUDE the "
+"calendar page in your caching plugin settings."
+msgstr ""
+
+#: admin/terminkalender_page.php:31
+msgid ""
+"Right after installation, the calendar is shown to all visitors of your site. "
+"Depending on Template and Plugins you use, think about restricting the access "
+"to the page with the calendar to your team or usergroup. For example, go to "
+"admin, page, quick edit, use Password or Privat option"
+msgstr ""
+
+#: admin/terminkalender_page.php:33
+msgid ""
+"In the free version of the calendar, only YOU (admins) can add, edit and delete "
+"calendar entrys. Get the PRO version, if you like to give users the right to "
+"manage calendar entries."
+msgstr ""
+
+#: admin/terminkalender_page.php:36
+msgid "Help Website"
+msgstr ""
+
+#: admin/terminkalender_page.php:39
+msgid "Ask for help"
+msgstr ""
+
+#: admin_pro/backup__premium_only.php:28
+msgid "Calendar Data Backup"
+msgstr ""
+
+#: admin_pro/backup__premium_only.php:30
+msgid "Backup your calendar often, especially before messing with settings."
+msgstr ""
+
+#: admin_pro/backup__premium_only.php:36
+msgid "Backup: Protect your schedule."
+msgstr ""
+
+#: admin_pro/backup__premium_only.php:38
+msgid ""
+"Download backups to your computer for safekeeping. Restore or transfer your "
+"calendar data to another WordPress site with ease."
+msgstr ""
+
+#: admin_pro/backup__premium_only.php:42
+msgid "Create a backup of calendar data"
+msgstr ""
+
+#: admin_pro/backup__premium_only.php:43
+msgid "Save my data:"
+msgstr ""
+
+#: admin_pro/backup__premium_only.php:48
+msgid "Create backup"
+msgstr ""
+
+#: admin_pro/backup__premium_only.php:60
+msgid "Download backup file"
+msgstr ""
+
+#: admin_pro/backup__premium_only.php:61 admin_pro/backup__premium_only.php:85
+msgid " Choose file:"
+msgstr ""
+
+#: admin_pro/backup__premium_only.php:62
+msgid "Download the backup to save it locally:"
+msgstr ""
+
+#: admin_pro/backup__premium_only.php:64
+msgid "The saved backup will be on your computer in your downloads folder."
+msgstr ""
+
+#: admin_pro/backup__premium_only.php:84
+msgid "Upload backup file"
+msgstr ""
+
+#: admin_pro/backup__premium_only.php:86
+msgid "Upload the backup to recover your data"
+msgstr ""
+
+#: admin_pro/backup__premium_only.php:88
+msgid ""
+"Save your appointments (backup) and then bring them back later (restore). You "
+"can even use this to move your appointments to a different website."
+msgstr ""
+
+#: admin_pro/backup__premium_only.php:119
+msgid "Restore calendar data"
+msgstr ""
+
+#: admin_pro/backup__premium_only.php:120
+msgid "Load saved data:"
+msgstr ""
+
+#: admin_pro/backup__premium_only.php:122
+msgid "Restore data from backup. Warning!:"
+msgstr ""
+
+#: admin_pro/backup__premium_only.php:123
+msgid ""
+"Restoring will erase your current calendar info and replace it with the backup."
+msgstr ""
+
+#: admin_pro/backup__premium_only.php:125
+msgid " Always make a backup of the most CURRENT data before restoring."
+msgstr ""
+
+#: admin_pro/backup__premium_only.php:138
+msgid "Restore backup"
+msgstr ""
+
+#: admin_pro/backup__premium_only.php:148
+msgid "Data from:"
+msgstr ""
+
+#: admin_pro/backup__premium_only.php:148
+msgid "have been restored"
+msgstr ""
+
+#: admin_pro/backup__premium_only.php:154 admin_pro/backup__premium_only.php:166
+msgid "Delete backup"
+msgstr ""
+
+#: admin_pro/backup__premium_only.php:155
+msgid "To delete old backup data:"
+msgstr ""
+
+#: admin_pro/kalender_benutzer__premium_only.php:7
+#: admin_pro/kalender_benutzer__premium_only.php:8
+#: includes_pro/teilnehmer_einladen__premium_only.php:11
+msgid "No admin or NOT authorized user"
+msgstr ""
+
+#: admin_pro/kalender_benutzer__premium_only.php:21
+msgid "Users"
+msgstr ""
+
+#: admin_pro/kalender_benutzer__premium_only.php:25
+msgid "Calendar Users: Manage user access."
+msgstr ""
+
+#: admin_pro/kalender_benutzer__premium_only.php:27
+msgid ""
+"Assign edit or edit & delete permissions to specific users registered in your "
+"WordPress."
+msgstr ""
+
+#: admin_pro/kalender_benutzer__premium_only.php:34
+msgid "Show only the following user roles to select from:"
+msgstr ""
+
+#: admin_pro/kalender_benutzer__premium_only.php:45
+msgid ""
+"If your user list is too long, you can disable the display of users here. (For "
+"example, to hide the many subscribers or shop customers)"
+msgstr ""
+
+#: admin_pro/kalender_benutzer__premium_only.php:59
+msgid "User"
+msgstr ""
+
+#: admin_pro/kalender_benutzer__premium_only.php:60
+#: block/reservation_shortcode.php:88 js/block.js:156
+msgid "Email"
+msgstr ""
+
+#: admin_pro/kalender_benutzer__premium_only.php:61
+msgid "Roles"
+msgstr ""
+
+#: admin_pro/kalender_benutzer__premium_only.php:62
+msgid "Rights"
+msgstr ""
+
+#: admin_pro/termin_felder__premium_only.php:12
+msgid "Forms configuration"
+msgstr ""
+
+#: admin_pro/termin_felder__premium_only.php:15
+msgid "Calendar form fields"
+msgstr ""
+
+#: admin_pro/termin_felder__premium_only.php:16
+msgid "Add fields to the form."
+msgstr ""
+
+#: admin_pro/termin_felder__premium_only.php:18
+msgid ""
+"Add your own fields to your calendar form. For address or phone-number etc."
+msgstr ""
+
+#: admin_pro/termin_felder__premium_only.php:20
+msgid "HINT:"
+msgstr ""
+
+#: admin_pro/termin_felder__premium_only.php:20
+msgid "Dont create too many fields, or your calendar form will be cluttered."
+msgstr ""
+
+#: admin_pro/termin_felder__premium_only.php:23
+#: admin_pro/termin_felder__premium_only.php:143
+msgid "Show field"
+msgstr ""
+
+#: admin_pro/termin_felder__premium_only.php:24
+msgid "You can deactivate your fields for the calendar."
+msgstr ""
+
+#: admin_pro/termin_felder__premium_only.php:26
+msgid "The fields are not deleted and the data is not accidentally lost."
+msgstr ""
+
+#: admin_pro/termin_felder__premium_only.php:28
+msgid ""
+"If you delete a field here, it will be completely deleted from the database."
+msgstr ""
+
+#: admin_pro/termin_felder__premium_only.php:142
+#: admin_pro/termin_felder__premium_only.php:180
+msgid "Field Name"
+msgstr ""
+
+#: admin_pro/termin_felder__premium_only.php:144
+msgid "Field Type"
+msgstr ""
+
+#: admin_pro/termin_felder__premium_only.php:150
+msgid "No fields available"
+msgstr ""
+
+#: admin_pro/termin_felder__premium_only.php:159
+#: admin_pro/termin_felder__premium_only.php:183
+msgid "YES"
+msgstr ""
+
+#: admin_pro/termin_felder__premium_only.php:160
+msgid "NO"
+msgstr ""
+
+#: admin_pro/termin_felder__premium_only.php:170
+#: templates/kalender-template.php:76
+msgid "Save"
+msgstr ""
+
+#: admin_pro/termin_felder__premium_only.php:171
+#: templates/kalender-template.php:84
+msgid "Delete"
+msgstr ""
+
+#: admin_pro/termin_felder__premium_only.php:188
+msgid "Multiline-text field"
+msgstr ""
+
+#: admin_pro/termin_felder__premium_only.php:194
+msgid "Add Field"
+msgstr ""
+
+#: admin_pro/termin_felder__premium_only.php:202
+msgid "You can order YOUR fields by drag and drop"
+msgstr ""
+
+#: admin_pro/termin_felder__premium_only.php:255
+msgid "Are you sure you want to delete this field"
+msgstr ""
+
+#: block/event_list_shortcode.php:88
+msgid "Weekly, at "
+msgstr ""
+
+#: block/event_list_shortcode.php:92
+msgid "Monthly, at "
+msgstr ""
+
+#: block/event_list_shortcode.php:96
+msgid "Yearly, at "
+msgstr ""
+
+#: block/event_list_shortcode.php:100
+msgid "Unknown "
+msgstr ""
+
+#: block/reservation_shortcode.php:84
+msgid "Name"
+msgstr ""
+
+#: block/reservation_shortcode.php:93
+msgid "Your Request Message"
+msgstr ""
+
+#: block/reservation_shortcode.php:99
+msgid "When would you like to reservate, from"
+msgstr ""
+
+#: block/reservation_shortcode.php:113
+msgid "Submit"
+msgstr ""
+
+#: block/reservation_shortcode.php:249
+msgid "New request from "
+msgstr ""
+
+#: block/reservation_shortcode.php:256
+msgid "Your request has been sent, thank you"
+msgstr ""
+
+#: block/reservation_shortcode.php:258
+msgid "There was an error with your request, please try again"
+msgstr ""
+
+#: db/activate.php:83
+msgid "Termin-Kalender activated"
+msgstr ""
+
+#: db/activate.php:87
+msgid "You can now enter your schedules"
+msgstr ""
+
+#: db/kategorie_options.php:7
+msgid "Regular dates"
+msgstr ""
+
+#: db/kategorie_options.php:14
+msgid "Tasks"
+msgstr ""
+
+#: db/kategorie_options.php:21
+msgid "Events"
+msgstr ""
+
+#: db/kategorie_options.php:28
+msgid "Private dates"
+msgstr ""
+
+#: db/kategorie_options.php:35
+msgid "Meeting"
+msgstr ""
+
+#: db/kategorie_options.php:42
+msgid "Holidays and absences"
+msgstr ""
+
+#: db/kategorie_options.php:49
+msgid "Important Reminder"
+msgstr ""
+
+#: db/kategorie_options.php:56
+msgid "Reservation"
+msgstr ""
+
+#: extensions/todo_list.php:6
+msgid "To-Do List"
+msgstr ""
+
+#: extensions/todo_list.php:14
+msgid "Simple To-Do List."
+msgstr ""
+
+#: extensions/todo_list.php:16
+msgid "This is a simple To-Do List, not connected to the calendar."
+msgstr ""
+
+#: extensions/todo_list.php:18
+msgid "Simply add and organize your tasks and notes here."
+msgstr ""
+
+#: extensions/todo_list.php:19
+msgid "Gutenberg Block"
+msgstr ""
+
+#: extensions/todo_list.php:20
+msgid "You like to display and use it on a page in the frontend too?"
+msgstr ""
+
+#: extensions/todo_list.php:22
+msgid "Yes, you can do so, there is a free Gutenberg Block"
+msgstr ""
+
+#: includes/kalender_form.php:6
+msgid "Schedule"
+msgstr ""
+
+#: includes/kalender_form.php:17
+msgid "Please choose"
+msgstr ""
+
+#: includes/kalender_form.php:23 includes/kalender_form.php:278
+msgid "Description"
+msgstr ""
+
+#: includes/kalender_form.php:60
+msgid "Title"
+msgstr ""
+
+#: includes/kalender_form.php:62
+msgid ""
+"The titel of your calendar entry. You will see this, with the choosen category "
+"color, in all the calendar views "
+msgstr ""
+
+#: includes/kalender_form.php:67
+msgid "Date FROM"
+msgstr ""
+
+#: includes/kalender_form.php:68
+msgid "Start Date and Time for the calendar entry."
+msgstr ""
+
+#: includes/kalender_form.php:73
+msgid "Date TO"
+msgstr ""
+
+#: includes/kalender_form.php:74
+msgid ""
+"End Date and Time of your calendar entry. Single day events will be shown from "
+"choosen Start to End time. Multi-day entries will be shown as All Day entries. "
+"Repeating entries will be shown between Start and End Date for as many "
+"occurences as possible and at the choosen start and end time."
+msgstr ""
+
+#: includes/kalender_form.php:215
+msgid "Recurring events? Get PRO"
+msgstr ""
+
+#: includes/kalender_form.php:223 js/block.js:150 js/block.js:250
+msgid "Category"
+msgstr ""
+
+#: includes/kalender_form.php:225
+msgid ""
+"Choose the category. Your calendar entry will be shown in this color, for an "
+"easy overview in the monthly view. A category can be a Teammember, a Car to "
+"rent or a room occupancy and many more."
+msgstr ""
+
+#: includes/kalender_form.php:238
+msgid "Location"
+msgstr ""
+
+#: includes/kalender_form.php:240
+msgid ""
+"Is there a location for your event, meeting or appointment? Give any address "
+"that can be located in Google Maps and a Google-Maps link to this place will be "
+"created for you."
+msgstr ""
+
+#: includes/kalender_form.php:254
+msgid ""
+"PRO: Choose attendees for this entry. Attendee must have a User account on your "
+"Wordpress Site, any sort of user account will be shown, also Guest( Not only "
+"users you added in admin area to be able to edit calendar entries). Once you "
+"choosen all the attendees you can send a invitation for this event to their "
+"registered email"
+msgstr ""
+
+#: includes/kalender_form.php:264
+msgid "Want to invite by Email? Get PRO"
+msgstr ""
+
+#: includes/kalender_form.php:270
+msgid "Notes"
+msgstr ""
+
+#: includes/kalender_form.php:272
+msgid "Any important notes or something to remember for this event?"
+msgstr ""
+
+#: includes/kalender_form.php:280
+msgid "This is the main description for this entry."
+msgstr ""
+
+#: includes/kalender_form.php:281
+msgid ""
+"If you are familar with Basic HTML, you can use the buttons below. To draw text "
+"bold, italic, underline or strikethrough. Add a line or draw a part of text as "
+"Quote or formatted Code. Add a list or even include links and link images to be "
+"displayed. Remember, the PRO Version of the calendar allows to also upload "
+"pictures and is easyer to use"
+msgstr ""
+
+#: includes/kalender_form.php:301
+msgid ""
+"PRO: Need a field like phone number? Create them in the admin area. You can "
+"extend your form with either a one line or a multiline field for long text. Use "
+"them carefully, mostly you can add all you need in the description field."
+msgstr ""
+
+#: includes/kalender_form.php:303 includes/kalender_form_ausgabe.php:36
+msgid "Additional fields"
+msgstr ""
+
+#: includes/kalender_form.php:326
+msgid "Website-Link URL"
+msgstr ""
+
+#: includes/kalender_form.php:328
+msgid "Add a Link to a Website"
+msgstr ""
+
+#: includes/kalender_help_page.php:11
+msgid ""
+"Click a calendar entry to open and see details (and edit, delete, or duplicate "
+"it).\n"
+"        Click on a free space on the date you prefer and add your calendar "
+"entry (Appointment, Event, Schedule...)."
+msgstr ""
+
+#: includes/kalender_help_page.php:18
+msgid "Edit the main categories, icon, title and colors"
+msgstr ""
+
+#: includes/kalender_help_page.php:24
+msgid "Calendar form settings, add & edit fields"
+msgstr ""
+
+#: includes/kalender_help_page.php:30
+msgid "User rights"
+msgstr ""
+
+#: includes/kalender_help_page.php:42
+msgid "Gutenberg Blocks for the Termin-Kalender"
+msgstr ""
+
+#: includes/kalender_help_page.php:70 templates/kalender-template.php:41
+#: templates/kalender-template.php:46
+msgid ""
+"From now on only corrections will be done and no new features added until we "
+"are fine for the release of a stable Version 1.0. Please help and message us "
+"any difficulties you have and errors you discover. All serious error reporting "
+"will be awarded with 3 Months free PRO. Thank you all so much!"
+msgstr ""
+
+#: includes/kalender_help_page.php:79
+msgid "To the calendar main page"
+msgstr ""
+
+#: includes/kalender_help_page.php:82
+msgid "Termin-Kalender Website"
+msgstr ""
+
+#: includes_pro/kalender_zusatzfelder__premium_only.php:9
+msgid "Picture"
+msgstr ""
+
+#: includes_pro/teilnehmer_einladen__premium_only.php:17
+msgid "Select participants: "
+msgstr ""
+
+#: includes_pro/teilnehmer_einladen__premium_only.php:29
+msgid "add"
+msgstr ""
+
+#: includes_pro/teilnehmer_einladen__premium_only.php:30
+msgid "remove"
+msgstr ""
+
+#: includes_pro/teilnehmer_einladen__premium_only.php:48
+msgid "Send Invitation"
+msgstr ""
+
+#: includes_pro/teilnehmer_einladen__premium_only.php:115
+msgid "New schedule for you, from: "
+msgstr ""
+
+#: includes_pro/wiederhol_event__premium_only.php:10
+msgid "Repetition: "
+msgstr ""
+
+#: includes_pro/wiederhol_event__premium_only.php:12
+msgid ""
+"PRO: Choose first a Start and End DATE for your recurring event. Then choose "
+"weekly ( the choice for the days  will be opened if you choose weekly), monthly "
+"or yearly. The event will repeat for as many times as possible between choosen "
+"Start and End Time."
+msgstr ""
+
+#: includes_pro/wiederhol_event__premium_only.php:15
+msgid "None"
+msgstr ""
+
+#: includes_pro/wiederhol_event__premium_only.php:16 init/register_enqueue.php:33
+msgid "Weekly "
+msgstr ""
+
+#: includes_pro/wiederhol_event__premium_only.php:17 init/register_enqueue.php:34
+msgid "Monthly "
+msgstr ""
+
+#: includes_pro/wiederhol_event__premium_only.php:18 init/register_enqueue.php:35
+msgid "Annual "
+msgstr ""
+
+#: includes_pro/wiederhol_event__premium_only.php:21
+msgid "Choose Days:"
+msgstr ""
+
+#: includes_pro/wiederhol_event__premium_only.php:24
+msgid "Mon"
+msgstr ""
+
+#: includes_pro/wiederhol_event__premium_only.php:27
+msgid "Tue"
+msgstr ""
+
+#: includes_pro/wiederhol_event__premium_only.php:30
+msgid "Wed"
+msgstr ""
+
+#: includes_pro/wiederhol_event__premium_only.php:33
+msgid "Thu"
+msgstr ""
+
+#: includes_pro/wiederhol_event__premium_only.php:36
+msgid "Fri"
+msgstr ""
+
+#: includes_pro/wiederhol_event__premium_only.php:39
+msgid "Sat"
+msgstr ""
+
+#: includes_pro/wiederhol_event__premium_only.php:42
+msgid "Sun"
+msgstr ""
+
+#: init/register_enqueue.php:28
+msgid "Participants"
+msgstr ""
+
+#: init/register_enqueue.php:30
+msgid "New Schedule"
+msgstr ""
+
+#: init/register_enqueue.php:31
+msgid "New schedule at "
+msgstr ""
+
+#: init/register_enqueue.php:32 init/register_enqueue.php:53
+msgid "click for more"
+msgstr ""
+
+#: init/register_enqueue.php:39
+msgid "Do you really want to delete this schedule?"
+msgstr ""
+
+#: init/register_enqueue.php:40
+msgid "HELP"
+msgstr ""
+
+#: init/register_enqueue.php:41
+msgid "End date after start date please"
+msgstr ""
+
+#: init/register_enqueue.php:42
+msgid "Please set the start date before end date"
+msgstr ""
+
+#: init/register_enqueue.php:50
+msgid "Must keep one (will not save)"
+msgstr ""
+
+#: init/register_enqueue.php:51
+msgid "Please select a user to send to"
+msgstr ""
+
+#: init/register_enqueue.php:52
+msgid "Notification sent"
+msgstr ""
+
+#: init/register_enqueue.php:102
+msgid "Example dates where loaded into the calendar"
+msgstr ""
+
+#: js/block.js:36
+msgid ""
+"A calendar block to overview and organize my monthly tasks, events, schedules "
+"etc."
+msgstr ""
+
+#: js/block.js:47
+msgid ""
+"Please use only the Termin-Kalender block on this page. Set to full width page "
+"with all other elements deactivated. "
+msgstr ""
+
+#: js/block.js:96
+msgid "Termin-Kalender Reservation/Appointment Form"
+msgstr ""
+
+#: js/block.js:118
+msgid ""
+"Termin-Kalender request Form: A block to show a requests form for appointment "
+"and reservation requests"
+msgstr ""
+
+#: js/block.js:147
+msgid "Termin-Kalender Request Form for Reservation or Appointment."
+msgstr ""
+
+#: js/block.js:148
+msgid ""
+"Add your message about what can be reservated or booked and the information you "
+"expect before this block. Choose the category to place the request and find "
+"your email where a copy of the confirmation email will be sent"
+msgstr ""
+
+#: js/block.js:189
+msgid "Termin-Kalender Event List"
+msgstr ""
+
+#: js/block.js:213
+msgid "Termin-Kalender Event List: A block to display a list of events"
+msgstr ""
+
+#: js/block.js:246
+msgid "Termin-Kalender Event List:"
+msgstr ""
+
+#: js/block.js:247
+msgid ""
+"Add this block to display a list of upcoming events. Choose a Category to be "
+"listed:"
+msgstr ""
+
+#: templates/kalender-template.php:37
+msgid "Log in to edit tasks"
+msgstr ""
+
+#: templates/kalender-template.php:74
+msgid "Edit"
+msgstr ""
+
+#: templates/kalender-template.php:75
+msgid "Update"
+msgstr ""
+
+#: templates/kalender-template.php:77
+msgid "Duplicate"
+msgstr ""
+
+#: templates/kalender-template.php:80
+msgid "No user rights to save or edit appointments"
+msgstr ""
+
+#: templates/kalender-template.php:87
+msgid "Not sufficient user rights to delete appointments"
+msgstr ""
+
+#: templates/kalender-template.php:89
+msgid "Close"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Termin-Kalender"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://termin-kalender.pro"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Termin-Kalender is your easy monthly planner. This calendar app provides a "
+"clear, monthly overview to keep you organized."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Beat Kueffer"
+msgstr ""

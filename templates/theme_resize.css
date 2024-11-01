@@ -1,0 +1,36 @@
+/* kalender-css für themes welche resized werden müssen */
+
+
+.tk_kalender_button_text {
+    display: none;
+}
+  body {
+    font-size: 2.5rem;
+  }
+
+  .btn {
+    font-size: 3rem;
+	padding: 0.5rem 2rem 0.5rem 1rem ;
+  }
+
+  #ter_kal_btn-group, label, #rrule_select, #kategorie_id, #termin_bearbeiten, #termin_duplizieren {
+	 display: none;
+  }
+
+  .modal-title {
+	font-size: 3rem;
+  }
+
+  input.form-control, select.form-control {
+    font-size: 2.5rem;
+    padding: 0.5rem 1rem;
+  }
+
+/* Set font size for fullcalendar elements  Set button size for fullcalendar buttons
+.fc {
+    font-size:  2.5rem;
+}
+.fc-button {
+    font-size: 3rem;
+    padding: 10px 20px;
+} */
